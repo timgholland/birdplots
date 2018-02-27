@@ -1,0 +1,19 @@
+name: "Birding"
+navbar:
+  title: "World"
+  left:
+    - text: "ABA area"
+      href: plotspage_ABA.html
+    - text: "California"
+      href: plotspage_California.html
+    - text: "Quebec"
+      href: plotspage_Quebec.html
+    - text: "Big days"
+      href: bigdays.html
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html

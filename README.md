@@ -1,2 +1,2 @@
 # birdplots
-Plotting bird sightings &amp; birding effort from personal eBird data
+Plotting bird sightings & birding effort from personal eBird data

@@ -1,0 +1,14 @@
+---
+title: "ABA Area"
+output: html_document
+---
+
+```{r define.area, include=FALSE, echo=FALSE}
+
+myeb.area <- filter(myeb,aba==1)
+name.area <- "ABA Area"
+checklist <- clem.sp
+```
+
+```{r, child="plotspage_area_general.Rmd"}
+```

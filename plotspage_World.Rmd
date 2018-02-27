@@ -1,0 +1,15 @@
+---
+title: "World"
+output: html_document
+---
+
+
+```{r define.area, include=FALSE, echo=FALSE}
+
+myeb.area <- myeb
+name.area <- "World"
+checklist <- clem.sp
+```
+
+```{r child, child='plotspage_area_general.Rmd'}
+```

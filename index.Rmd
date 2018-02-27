@@ -1,0 +1,53 @@
+---
+title: "Birding Stats - Global"
+author:  "[Tim Holland](https://github.com/timgholland), February 2018"
+output:
+  html_document
+---
+
+
+The goal of this website is to (a) indulge my personal affinity for visualizing data and (b) learn a couple of new tools: Git, and RMarkdown websites. And (c) geek out on birds. 
+
+``` {r checklistMaps, echo=FALSE,include=FALSE}
+myeb.spatial              <- data.frame(myeb)
+coordinates(myeb.spatial) <-c("longitude","latitude")
+proj4string(myeb.spatial) <-CRS("+proj=longlat +datum=NAD83")
+
+countries   <- readOGR("ne_110m_admin_0_countries.shp",layer="ne_110m_admin_0_countries")
+land        <- readOGR("ne_110m_land.shp",layer="ne_110m_land")
+box   <-matrix(c(-180,  90, 180,  90, 180, -90, -180, -90, -180,  90), byrow = TRUE, ncol = 2) %>%
+    list()%>% st_polygon() %>% st_sfc(.,crs=4326)
+grid  <-st_make_grid(box,n=c(18,18),crs=4326,what="polygons")
+grid <- as(grid,"Spatial")
+
+myeb.spatial  <- spTransform(myeb.spatial, 
+                    CRS("+proj=eck4 +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs"))
+land          <- spTransform(land,
+                    CRS("+proj=eck4 +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs"))
+countries     <- spTransform(countries,
+                    CRS("+proj=eck4 +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs"))
+grid          <- spTransform(grid,
+                    CRS("+proj=eck4 +lon_0=0 +x_0=0 +y_0=0 +ellps=WGS84 +units=m +no_defs"))
+
+checklistsMap <- ggplot()+
+  ggtitle("eBird checklists submitted") +
+  geom_polygon(data=grid,aes(x=long,y=lat,group=group),fill="white",col=grey(0.4),lwd=0.5)+
+  geom_polygon(data=grid,aes(x=long,y=lat,group=group),fill="white",col=grey(0.7),lwd=0.2)+
+  geom_polygon(data=countries,aes(x=long,y=lat,group=group),col=grey(0.4),fill=grey(0.95),lwd=0.1)+
+  geom_polygon(data=land,aes(x=long,y=lat,group=group),col="black",fill=NA,lwd=0.25)+
+  geom_point(data=data.frame(myeb.spatial),aes(x=longitude,y=latitude),shape=16,color=ebPal[4],alpha=1/2,cex=3) +
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank(),panel.background = element_blank(),axis.text = element_blank(),axis.line = element_blank(),axis.title = element_blank(),axis.ticks=element_blank(),plot.title=element_text(size=figTitleSz)) +
+  coord_fixed()
+```
+
+```{r define.area, include=FALSE, echo=FALSE}
+
+myeb.area <- myeb
+name.area <- "World"
+checklist <- clem.sp
+```
+
+```{r child, child='plotspage_area_general.Rmd'}
+```
+
+

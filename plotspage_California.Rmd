@@ -1,0 +1,14 @@
+---
+title: "California"
+output: html_document
+---
+
+```{r define.area, include=FALSE, echo=FALSE}
+
+myeb.area <- filter(myeb,state_prov_code=="US-CA")
+name.area <- "California"
+checklist <- clem.sp
+```
+
+```{r, child="plotspage_area_general.Rmd"}
+```

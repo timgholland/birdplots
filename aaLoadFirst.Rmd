@@ -1,0 +1,38 @@
+``` {r packagesetc}
+## packages I want loaded for all pages of my site
+suppressPackageStartupMessages({
+  library(cowplot)
+  library(colorspace)
+  library(sf)
+  library(rgdal)
+  library(sp)
+  library(knitr)
+  library(rmarkdown)
+  library(tidyverse)
+})
+
+## variables I need for my site 
+source("readin_data.R")
+
+### aesthetic specs ###
+figTitleSz <- 30
+figAxTitleSz <- 22
+figLabelSz <- 18
+lwdMain <- 0.8 #primary line width for line graphs
+lwdDotted <- 0.5 * lwdMain #line width for dotted lines to labels
+ptSz <- lwdMain * 1.4
+
+#This line is a hack. package cowplot modifies the default plotting theme for ggplot. 
+#But when I set the theme explicitly in my plotting function later, it only works for the 2nd plot, and leaves the first plot showing the cowplot version. 
+#So I put this here because it seems to get the ggplot theme back in place for the 1st plot. 
+g<- ggplot()+theme_set(theme_gray()) + geom_step(data=myeb,aes(date,seq_along(date))) 
+
+## functions I need across pages
+source("function_areaList_areaVis.R")
+source("function_orders_plots.R")
+
+
+## knitr options I want set as default for all ('global') code chunks
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
+
+```
