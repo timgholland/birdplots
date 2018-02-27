@@ -47,7 +47,8 @@ areaVis<- function(areaList){
     geom_step(data=sp.list,aes(date,seq_along(date)),col=ebPal[1],lwd=lwdMain) +
     geom_line(data=gather(mostRecents,key="lineEnds","date",date,today),aes(x=date,y=taxon_count,group=taxon_level),col=c(ebPal[4],ebPal[4],ebPal[3],ebPal[3],ebPal[5],ebPal[5],ebPal[1],ebPal[1]),lwd=lwdDotted,lty=3) +
     geom_point(data=mostRecents,aes(x=date,y=taxon_count),col=c(ebPal[1],ebPal[3],ebPal[4],ebPal[5]),cex=wid*1.4) +
-    geom_label(data=mostRecents,aes(x=today-300,y=taxon_count,label=paste(taxon_plural,": ",taxon_count,sep="")),hjust=0.5)
+    geom_label(data=mostRecents,aes(x=today-300,y=taxon_count,label=paste(taxon_plural,": ",taxon_count,sep="")),hjust=0.5) 
+   # scale_x_continuous(breaks=c(2005,2010,2015),minor_breaks=2004:2018)
   
   #scale_x_continuous(breaks=seq(from=2004,to=2018,by=2),origin = "1899-12-30")
   #xlim(2015,2019,origin = "1899-12-30")

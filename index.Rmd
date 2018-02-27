@@ -40,6 +40,10 @@ checklistsMap <- ggplot()+
   coord_fixed()
 ```
 
+```{r display.map, include=TRUE,echo=FALSE}
+checklistsMap
+```
+
 ```{r define.area, include=FALSE, echo=FALSE}
 
 myeb.area <- myeb
