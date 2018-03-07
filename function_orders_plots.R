@@ -14,6 +14,7 @@ orderSum <- checklist %>%
   left_join(myOrders,by="order_with_desc") %>%
   mutate(myOrders = replace(myOrders,is.na(myOrders),0)) %>%
   mutate(order_with_desc=factor(order_with_desc,levels=rev(order_with_desc))) %>%
+ # mutate(order=factor(order,levels=rev(order))) %>%
   mutate(IDed = 100*myOrders/totOrders) %>%
   mutate(NotIDed = 100-IDed)
 

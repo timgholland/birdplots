@@ -1,4 +1,11 @@
-``` {r packagesetc}
+---
+title: "testing font sizes"
+author: "Tim Holland"
+date: "3/3/2018"
+output: html_document
+---
+
+``` {r packagesetc, include=FALSE}
 ## packages I want loaded for all pages of my site
 suppressPackageStartupMessages({
   library(cowplot)
@@ -15,9 +22,9 @@ suppressPackageStartupMessages({
 source("readin_data.R")
 
 ### aesthetic specs ###
-figTitleSz <- 16
-figAxTitleSz <- 13
-figLabelSz <- 10
+figTitleSz <- 30
+figAxTitleSz <- 22
+figLabelSz <- 18
 lwdMain <- 0.8 #primary line width for line graphs
 lwdDotted <- 0.5 * lwdMain #line width for dotted lines to labels
 ptSz <- lwdMain * 1.4
@@ -35,4 +42,20 @@ source("function_orders_plots.R")
 ## knitr options I want set as default for all ('global') code chunks
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE)
 
+```
+
+
+
+```{r plotseq, include=TRUE, echo=FALSE,fig.width=10,fig.height=7}
+figLabelSz <- 20
+plot_orders(myeb,clem.sp)
+figLabelSz <- 10
+plot_orders(myeb,clem.sp)
+```
+
+```{r plotseq2, include=TRUE, echo=FALSE,fig.width=6,fig.height=4}
+figLabelSz <- 20
+plot_orders(myeb,clem.sp)
+figLabelSz <- 10
+plot_orders(myeb,clem.sp)
 ```
