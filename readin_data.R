@@ -16,7 +16,8 @@ clem <- read_csv(file="eBird-Clements-integrated-checklist-v2017.csv") %>%
   left_join(select(orders, c(order,order_with_desc)),by="order") %>%
   rename(family_with_desc=family) %>%
   separate(family_with_desc,sep=" ",into=c("family","famTemp"),remove=F) %>%
-  select(-subspTemp,-famTemp)
+  select(-subspTemp,-famTemp) %>%
+  filter(extinct!=1)
 
 clem.sp <- filter(clem,category=="species")
 
