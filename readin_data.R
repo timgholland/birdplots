@@ -8,7 +8,8 @@ orders <- read_csv("order_names.csv")
 
 clem <- read_csv(file="eBird-Clements-integrated-checklist-v2017.csv") %>% 
   rename(common_name = `English name`, species_group = `eBird species group`, sort2017 = `sort v2017`, latin_name_incSubsp = `scientific name`) %>% 
-  select(-starts_with("X"),-`eBird species code 2017`,-extinct, -`extinct year`, -range) %>%
+  filter(is.na(extinct)) %>%
+  select(-starts_with("X"),-`eBird species code 2017`, -`extinct year`, -range) %>%
   separate(latin_name_incSubsp,sep=" ",into=c("genus","species","subspA","subspB"),remove=F) %>%
   unite(latin_binomial, c(genus, species),sep=" ", remove=F) %>%
   unite(subspTemp, c(subspA,subspB),sep=" ",remove=T) %>%
@@ -16,8 +17,8 @@ clem <- read_csv(file="eBird-Clements-integrated-checklist-v2017.csv") %>%
   left_join(select(orders, c(order,order_with_desc)),by="order") %>%
   rename(family_with_desc=family) %>%
   separate(family_with_desc,sep=" ",into=c("family","famTemp"),remove=F) %>%
-  select(-subspTemp,-famTemp) %>%
-  filter(extinct!=1)
+  select(-subspTemp,-famTemp)
+
 
 clem.sp <- filter(clem,category=="species")
 
