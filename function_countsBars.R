@@ -1,13 +1,8 @@
-library(tidyverse)
+countsBars <- function(myeb.area=NULL,y=T,m=T,w=T,d=T,lifers=F){
 
-y <- F
-m <- T
-w <- T
-d <- T
+eb.tmp <- myeb.area
 
-eb.tmp <- myeb
-
-minDate <- as.Date("2017-06-01")
+minDate <- min(eb.tmp$date)
 maxDate <- max(eb.tmp$date)
 #maxDate <- as.Date("2017-12-01")
 dateRange <- as.numeric(maxDate-minDate)
@@ -76,3 +71,6 @@ if (dateRange < 150){
 #points(mTab$month,mTab$count,col="red",pch=19,cex=0.5)
 #points(wTab$week,wTab$count,col="green",pch=19,cex=0.5)
 #points(dTab$date,dTab$count,col="blue",pch=19,cex=0.5)
+
+spAll
+}

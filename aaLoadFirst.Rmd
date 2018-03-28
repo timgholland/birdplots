@@ -30,6 +30,8 @@ g<- ggplot()+theme_set(theme_gray()) + geom_step(data=myeb,aes(date,seq_along(da
 ## functions I need across pages
 source("function_areaList_areaVis.R")
 source("function_orders_plots.R")
+source("function_listMap.R")
+source("function_countsBars.R")
 
 
 ## knitr options I want set as default for all ('global') code chunks

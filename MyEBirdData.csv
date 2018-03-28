@@ -409,6 +409,8 @@ S42304237,Ruddy Duck,Oxyura jamaicensis,567,22,US-CA,San Francisco,Presidio--Cri
 S23560349,Ruddy Duck,Oxyura jamaicensis,567,X,PE-HUC,,Lake Carhuacocha,-10.242645,-76.866428,06-10-2013,,Historical,0,0,,,1
 S23560348,Ruddy Duck,Oxyura jamaicensis,567,2,PE-ANC,,PE-AN Jahuacocha Lake,-10.238573,-76.963903,06-16-2013,,Historical,0,0,,,1
 S43865123,Colombian Chachalaca,Ortalis columbiana,642.5,2,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,08:00 AM,eBird - Casual Observation,,0,,,1
+S43962513,Colombian Chachalaca,Ortalis columbiana,642.5,3,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Colombian Chachalaca,Ortalis columbiana,642.5,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Colombian Chachalaca,Ortalis columbiana,642.5,5,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840397,Speckled Chachalaca,Ortalis guttata,643.5,X,PE-SAM,,Road to Shambo,-6.989468,-76.22608,07-20-2012,,Historical,0,0,,,1
 S43796386,Sickle-winged Guan,Chamaepetes goudotii,701,6,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
@@ -859,11 +861,14 @@ S28840426,White Ibis,Eudocimus albus,2265,4,US-FL,Charlotte,Placida mangrove tra
 S35544434,White Ibis,Eudocimus albus,2265,3,US-FL,Lee,US-FL-Boca Grande-103 Useppa Is - 26.6637x-82.2110,26.66371,-82.211009,03-30-2017,01:42 PM,eBird - Casual Observation,,0,,,1
 S31431884,White-faced Ibis,Plegadis chihi,2270,2,US-CA,El Dorado,Tahoe Marsh--via San Francisco Ave.,38.9397508,-119.9931049,09-05-2016,06:44 AM,eBird - Traveling Count,151,1,3,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S23559381,Puna Ibis,Plegadis ridgwayi,2272,X,PE-ANC,,PE-AN Jahuacocha Lake,-10.238573,-76.963903,06-17-2013,06:30 AM,eBird - Casual Observation,0,0,,,1
+S43931572,Bare-faced Ibis,Phimosus infuscatus,2278,7,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
 S23560489,Sacred Ibis,Threskiornis aethiopicus,2289,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
 S23560489,Hadada Ibis,Bostrychia hagedash,2311,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
 S23560489,African Spoonbill,Platalea alba,2321,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
 S35636035,Black Vulture,Coragyps atratus,2358,3,US-FL,Charlotte,US-FL-Placida-G C Herring Park - 26.8664x-82.3063,26.866445,-82.306252,03-29-2017,12:00 PM,eBird - Casual Observation,,0,,,1
 S43793897,Black Vulture,Coragyps atratus,2358,2,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
+S43890919,Black Vulture,Coragyps atratus,2358,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-23-2018,02:15 PM,eBird - Stationary Count,15,1,,,1
+S43962505,Black Vulture,Coragyps atratus,2358,10,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Black Vulture,Coragyps atratus,2358,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840469,Black Vulture,Coragyps atratus,2358,X,PE-LIM,,over Huaca Pucllana,-12.109968,-77.033909,07-27-2011,,Historical,0,0,,,1
 S43172116,Turkey Vulture,Cathartes aura,2362,1,US-CA,Alameda,Berkeley Aquatic Park,37.855813,-122.2977448,02-24-2018,04:50 PM,eBird - Casual Observation,,0,,,1
@@ -932,6 +937,7 @@ S40892270,Turkey Vulture,Cathartes aura,2362,3,US-CA,Sacramento,Cosumnes River P
 S41525304,Turkey Vulture,Cathartes aura,2362,2,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S37427449,Turkey Vulture,Cathartes aura,2362,3,US-CA,Sonoma,US-CA Forestville Beach,38.510608,-122.923814,06-03-2017,02:30 PM,eBird - Stationary Count,75,1,,,1
 S37427412,Turkey Vulture,Cathartes aura,2362,2,US-CA,Sonoma,US-CA Hayward Family Winery,38.48423,-122.90927,06-03-2017,12:29 PM,eBird - Stationary Count,60,1,,,1
+S43962505,Turkey Vulture,Cathartes aura,2362,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Turkey Vulture,Cathartes aura,2362,3,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S23635887,Turkey Vulture,Cathartes aura,2362,X,PE-LOR,,Yarapa River,-4.526675,-73.407109,08-05-2012,,Historical,0,0,,,1
 S23635887,Greater Yellow-headed Vulture,Cathartes melambrotus,2371,X,PE-LOR,,Yarapa River,-4.526675,-73.407109,08-05-2012,,Historical,0,0,,,1
@@ -1198,6 +1204,7 @@ S24859639,Wattled Lapwing,Vanellus senegallus,3823,X,UG-C,,Lake Nabugabo,-.35336
 S23560494,Gray-headed Lapwing,Vanellus cinereus,3829.5,X,VN-39,,VN-DN Cat Tien - Bao Sao,11.458709,107.344905,11-13-2009,,Historical,0,0,,,1
 S23635619,Red-wattled Lapwing,Vanellus indicus,3830,X,MY-02,,near Telaga marina,6.368283,99.684549,03-14-2009,,Historical,0,0,,,1
 S23635885,Pied Lapwing,Vanellus cayanus,3839,X,PE-LOR,,Maranon River,-4.473549,-73.498337,08-03-2012,,Historical,0,0,,,1
+S43962527,Southern Lapwing,Vanellus chilensis,3840,1,CO-ANT,,"Vía Las Palmas, Retiro CO-Antioquia (6.1524,-75.5400)",6.152395,-75.539999,03-25-2018,11:48 AM,eBird - Casual Observation,,0,,,1
 S23559381,Andean Lapwing,Vanellus resplendens,3846,X,PE-ANC,,PE-AN Jahuacocha Lake,-10.238573,-76.963903,06-17-2013,06:30 AM,eBird - Casual Observation,0,0,,,1
 S23559379,Andean Lapwing,Vanellus resplendens,3846,X,PE-HUC,,PE-Hu-1st Huayhuash campsite,-10.172703,-76.882327,06-08-2013,,Historical,0,0,,,1
 S23635629,Collared Plover,Charadrius collaris,3874,X,PE-LOR,,Maranon River,-4.473549,-73.498337,08-06-2012,,Historical,0,0,,,1
@@ -1856,6 +1863,8 @@ S23635877,Spotted Dove,Streptopelia chinensis,4860,X,MY-02,,near Telaga marina,6
 S28840379,Common Ground-Dove,Columbina passerina,4990.02,X,US-FL,Lee,Boca Grande,26.751675,-82.261489,02-17-2013,,Historical,0,0,,,1
 S43815680,Ruddy Ground-Dove,Columbina talpacoti,4990.14,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S43865183,Ruddy Ground-Dove,Columbina talpacoti,4990.14,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,02:30 PM,eBird - Stationary Count,10,1,,,1
+S43962513,Ruddy Ground-Dove,Columbina talpacoti,4990.14,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Ruddy Ground-Dove,Columbina talpacoti,4990.14,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Ruddy Ground-Dove,Columbina talpacoti,4990.14,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840466,Ruddy Ground-Dove,Columbina talpacoti,4990.14,X,PE-SAM,,Tarapoto backyard,-6.484881,-76.36195,07-17-2012,,Historical,0,0,,,1
 S28840457,Croaking Ground-Dove,Columbina cruziana,4990.2,X,PE-LIM,,Parque Olivera,-12.101298,-77.0353,06-18-2012,,Historical,0,0,,,1
@@ -1866,6 +1875,7 @@ S43793897,Eared Dove,Zenaida auriculata,5003,3,CO-ANT,,Balcony - La Provincia 70
 S43815680,Eared Dove,Zenaida auriculata,5003,4,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S43865123,Eared Dove,Zenaida auriculata,5003,3,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,08:00 AM,eBird - Casual Observation,,0,,,1
 S43865183,Eared Dove,Zenaida auriculata,5003,5,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,02:30 PM,eBird - Stationary Count,10,1,,,1
+S43962505,Eared Dove,Zenaida auriculata,5003,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Eared Dove,Zenaida auriculata,5003,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840463,Eared Dove,Zenaida auriculata,5003,1,PE-SAM,,Tarapoto apartment,-6.484881,-76.36195,06-30-2012,,Historical,0,0,,,1
 S28840482,Eared Dove,Zenaida auriculata,5003,X,PE-SAM,,Tarapoto main square,-6.487697,-76.359797,08-12-2011,,Historical,0,0,,,1
@@ -2019,6 +2029,7 @@ S42661026,Anna's Hummingbird,Calypte anna,8906,3,US-CA,Alameda,Strawberry Creek 
 S42660965,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,03:20 PM,eBird - Casual Observation,,0,,,1
 S42734579,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-13-2018,02:12 PM,eBird - Casual Observation,,0,,,1
 S43076330,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-21-2018,04:15 PM,eBird - Traveling Count,60,1,.7,,1
+S43980308,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S43183872,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S39091717,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S43343906,Anna's Hummingbird,Calypte anna,8906,4,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,03-03-2018,10:07 AM,eBird - Traveling Count,27,1,.823,,1
@@ -2182,6 +2193,7 @@ S39005496,Acorn Woodpecker,Melanerpes formicivorus,10874,4,US-CA,Santa Cruz,Big 
 S43815680,Acorn Woodpecker,Melanerpes formicivorus,10874,2,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S43796386,Acorn Woodpecker,Melanerpes formicivorus,10874,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S24859718,Yellow-tufted Woodpecker,Melanerpes cruentatus,10883,X,PE-SAM,,Porvenir trail north,-6.93858,-76.06754,07-30-2012,,Historical,0,0,,,1
+S43890919,Red-crowned Woodpecker,Melanerpes rubricapillus,10898,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-23-2018,02:15 PM,eBird - Stationary Count,15,1,,,1
 S28840426,Red-bellied Woodpecker,Melanerpes carolinus,10925,1,US-FL,Charlotte,Placida mangrove trails,26.822589,-82.248048,02-19-2013,,Historical,0,0,,,1
 S23045946,Red-bellied Woodpecker,Melanerpes carolinus,10925,1,US-NY,Kings,Prospect Park,40.6602841,-73.9689534,04-24-2015,04:25 PM,eBird - Traveling Count,50,1,2,,2
 S35536374,Red-bellied Woodpecker,Melanerpes carolinus,10925,2,US-FL,Lee,Boca Bay Development,26.744861,-82.262355,03-30-2017,10:08 AM,eBird - Traveling Count,140,1,4.828,,1,P Pair in Suitable Habitat
@@ -2289,6 +2301,7 @@ S43557570,American Kestrel,Falco sparverius,11581.83,1,US-CA,Marin,Rodeo Lagoon,
 S35589211,American Kestrel,Falco sparverius,11581.83,1,CA-QC,Montréal,Parc de l'Honorable-George-O'Reilly,45.4365716,-73.583293,05-01-2011,02:10 PM,eBird - Casual Observation,0,0
 S41525304,American Kestrel,Falco sparverius,11581.83,1,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S30184997,American Kestrel,Falco sparverius,11581.83,1,CA-QC,Vaudreuil-Soulanges,Highway median Vaudreuil,45.415266,-74.025077,06-10-2016,02:35 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
+S43962505,American Kestrel,Falco sparverius,11581.83,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S28840404,Bat Falcon,Falco rufigularis,11582.45,1,PE-SAM,,Las Palmas walking to East,-7.54929,-76.187318,08-05-2013,,Historical,0,0,,,1
 S43416676,Peregrine Falcon,Falco peregrinus,11582.61,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-05-2018,04:45 PM,eBird - Stationary Count,69,1,,,1
 S42521090,Peregrine Falcon,Falco peregrinus,11582.61,1,US-CA,Alameda,"University of California, Berkeley, Berkeley US-CA (37.8729,-122.2618)",37.872857,-122.261764,02-05-2018,12:37 PM,eBird - Traveling Count,22,1,1.255,,1,,On Campamile - flew once 
@@ -2306,16 +2319,18 @@ S23560493,Vernal Hanging-Parrot,Loriculus vernalis,11587.78,X,VN-39,,VN-DN Cat T
 S38208782,Monk Parakeet,Myiopsitta monachus,11588.88,2,IT-62,,Foro Romano (Roman Forum),41.8903223,12.488142,07-16-2017,12:46 PM,eBird - Traveling Count,33,1,1,,1
 S23635884,Tui Parakeet,Brotogeris sanctithomae,11588.94,X,PE-LOR,,Maniti Lodge,-4.52981,-73.453259,08-03-2012,,Historical,0,0,,,1
 S23635886,White-winged Parakeet,Brotogeris versicolurus,11588.98,X,PE-LOR,,Pacaya Samiria,-4.507084,-73.487785,08-04-2012,,Historical,0,0,,,1
+S43962505,Orange-chinned Parakeet,Brotogeris jugularis,11589.05,4,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S28840391,Cobalt-winged Parakeet,Brotogeris cyanoptera,11589.08,X,PE-SAM,,Challual near river,-7.456663,-76.23696,08-03-2013,,Historical,0,0,,,1
 S23560485,Brown-hooded Parrot,Pyrilia haematotis,11589.3,X,PA-3,,Panama Rainforest Discovery Center,9.131179,-79.724107,01-13-2014,,Historical,0,0,,,3
 S28841554,Blue-headed Parrot,Pionus menstruus,11589.57,X,PE-SAM,,PE-SM Alto Peru,-7.063883,-76.140209,08-14-2012,,Historical,0,0,,,1
 S23560485,Red-lored Parrot,Amazona autumnalis,11589.75,X,PA-3,,Panama Rainforest Discovery Center,9.131179,-79.724107,01-13-2014,,Historical,0,0,,,3
 S23635583,Mealy Parrot,Amazona farinosa,11590.21,X,PE-LOR,,Maniti Lodge,-4.52981,-73.453259,08-05-2012,,Historical,0,0,,,1
+S43931572,Orange-winged Parrot,Amazona amazonica,11590.29,4,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
 S24859637,Blue-winged Parrotlet,Forpus xanthopterygius,11590.42,X,PE-SAM,,Porvenir trail north,-6.93858,-76.06754,08-17-2012,,Historical,0,0,,,1
 S43865183,Spectacled Parrotlet,Forpus conspicillatus,11590.51,7,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,02:30 PM,eBird - Stationary Count,10,1,,,1
+S43890919,Spectacled Parrotlet,Forpus conspicillatus,11590.51,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-23-2018,02:15 PM,eBird - Stationary Count,15,1,,,1
 S28840411,Rose-fronted Parakeet,Pyrrhura roseifrons,11591.04,6,PE-SAM,,Playa Hermosa trail,-7.096664,-76.128952,08-15-2012,,Historical,0,0,,,1
 S23635886,Dusky-headed Parakeet,Aratinga weddellii,11591.8,X,PE-LOR,,Pacaya Samiria,-4.507084,-73.487785,08-04-2012,,Historical,0,0,,,1
-S43869141,Scarlet Macaw,Ara macao,11592.03,1,CO-ANT,,Carrera 30,6.211701,-75.559296,03-21-2018,08:03 AM,eBird - Casual Observation,,0,,,1
 S23635887,Scarlet Macaw,Ara macao,11592.03,X,PE-LOR,,Yarapa River,-4.526675,-73.407109,08-05-2012,,Historical,0,0,,,1
 S28840390,Red-and-green Macaw,Ara chloropterus,11592.06,X,PE-SAM,,Road from Juanita to Challual,-7.482103,-76.243814,08-15-2013,,Historical,0,0,,,1
 S28840402,Chestnut-fronted Macaw,Ara severus,11592.1,X,PE-SAM,,Las Palmas,-7.547544,-76.21246,08-06-2013,,Historical,0,0,,,1
@@ -2355,6 +2370,7 @@ S23560486,Olivaceous Flatbill,Rhynchocyclus olivaceus,14321,X,PA-3,,Pipeline Roa
 S23560486,Ruddy-tailed Flycatcher,Terenotriccus erythrurus,14418,X,PA-3,,Pipeline Road,9.135431,-79.722981,01-13-2014,,Historical,0,0,,,2
 S36441582,Olive-sided Flycatcher,Contopus cooperi,14516,1,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-30-2017,05:37 AM,eBird - Traveling Count,331,1,9.656,,1,,,"Started birding at Eagle Peak at sunrise, and slowly walked down from there through Mitchell Canyon to staging area"
 S39005528,Olive-sided Flycatcher,Contopus cooperi,14516,4,US-CA,El Dorado,US-CA Dardanelles Lake,38.758811,-120.024796,09-03-2017,03:08 PM,eBird - Traveling Count,82,1,3,,1
+S43931572,Olive-sided Flycatcher,Contopus cooperi,14516,0,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
 S43796386,Olive-sided Flycatcher,Contopus cooperi,14516,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840472,Western Wood-Pewee,Contopus sordidulus,14529,X,US-CA,Tuolumne,Benson Lake,38.013713,-119.535997,07-28-2014,,Historical,0,0,,,1
 S37432862,Pacific-slope Flycatcher,Empidonax difficilis,14600,3,US-CA,Alameda,Redwood Regional Park--Canyon Meadow area,37.807628,-122.1488356,06-06-2017,09:27 AM,eBird - Traveling Count,79,1,3,,1
@@ -2381,6 +2397,7 @@ S37432862,Black Phoebe,Sayornis nigricans,14621,3,US-CA,Alameda,Redwood Regional
 S37593457,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,06-14-2017,02:55 PM,eBird - Traveling Count,10,1,.2,,1
 S41807057,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-10-2018,04:28 PM,eBird - Traveling Count,53,1,.1,,1
 S43076330,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-21-2018,04:15 PM,eBird - Traveling Count,60,1,.7,,1
+S43980308,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S39091717,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S31501104,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-09-2016,06:36 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S31758804,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-25-2016,06:17 PM,eBird - Casual Observation,,0,,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
@@ -2435,6 +2452,9 @@ S42304237,Say's Phoebe,Sayornis saya,14633,1,US-CA,San Francisco,Presidio--Criss
 S43804859,Vermilion Flycatcher,Pyrocephalus rubinus,14637,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,09:00 AM,eBird - Casual Observation,,0,,,1
 S43815680,Vermilion Flycatcher,Pyrocephalus rubinus,14637,4,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S43865183,Vermilion Flycatcher,Pyrocephalus rubinus,14637,2,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,02:30 PM,eBird - Stationary Count,10,1,,,1
+S43890919,Vermilion Flycatcher,Pyrocephalus rubinus,14637,2,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-23-2018,02:15 PM,eBird - Stationary Count,15,1,,,1
+S43962513,Vermilion Flycatcher,Pyrocephalus rubinus,14637,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Vermilion Flycatcher,Pyrocephalus rubinus,14637,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S28841582,Vermilion Flycatcher,Pyrocephalus rubinus,14637,X,PE-LIM,,San Isidro,-12.101298,-77.0353,06-18-2012,,Historical,0,0,,,1
 S23635629,Drab Water Tyrant,Ochthornis littoralis,14684,X,PE-LOR,,Maranon River,-4.473549,-73.498337,08-06-2012,,Historical,0,0,,,1
 S35786603,Ochre-naped Ground-Tyrant,Muscisaxicola flavinucha,14697,1,PE-LIM,,Campsite below Cerro Gran Vista,-10.3430497,-76.9027925,06-15-2013,08:55 AM,eBird - Casual Observation,0,0
@@ -2442,6 +2462,7 @@ S23560491,Ochre-naped Ground-Tyrant,Muscisaxicola flavinucha,14697,X,PE-LIM,,Tra
 S23635628,White-headed Marsh Tyrant,Arundinicola leucocephala,14771,X,PE-LOR,,Belen market,-3.764571,-73.247481,08-08-2012,,Historical,0,0,,,1
 S23560350,d'Orbigny's Chat-Tyrant,Ochthoeca oenanthoides,14812,X,PE-LIM,,Valley east of Huayllapa,-10.357627,-76.969874,06-15-2013,12:00 PM,eBird - Casual Observation,0,0,,,1
 S28841551,Long-tailed Tyrant,Colonia colonus,14825,X,PE-SAM,,Selva Andina - near PNCAZ PC 19,-7.3956,-76.221,08-22-2013,,Historical,0,0,,,1
+S43931195,Cattle Tyrant,Machetornis rixosa,14832,2,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-24-2018,03:13 PM,eBird - Casual Observation,,0,,,1
 S28841553,Grayish Mourner,Rhytipterna simplex,14877,X,PE-SAM,,Las Palmas LP11 trail,-7.547544,-76.21246,08-09-2013,,Historical,0,0,,,1
 S43796386,Pale-edged Flycatcher,Myiarchus cephalotes,14918,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S37525135,Ash-throated Flycatcher,Myiarchus cinerascens,14921,1,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,05:50 AM,eBird - Traveling Count,56,1,1.5,,1
@@ -2456,10 +2477,15 @@ S23558501,Great Crested Flycatcher,Myiarchus crinitus,14928,1,CA-QC,Montréal,Pa
 S29792887,Great Crested Flycatcher,Myiarchus crinitus,14928,1,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-20-2016,09:07 AM,eBird - Traveling Count,100,1,2.5,,30,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S38334509,Great Crested Flycatcher,Myiarchus crinitus,14928,1,CA-ON,Ottawa,Ottawa--Petrie Island,45.5029782,-75.4917383,07-26-2017,08:13 AM,eBird - Traveling Count,60,1,2,,3
 S43793897,Great Kiskadee,Pitangus sulphuratus,14958,1,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
+S43931572,Great Kiskadee,Pitangus sulphuratus,14958,1,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
+S43962505,Great Kiskadee,Pitangus sulphuratus,14958,3,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Great Kiskadee,Pitangus sulphuratus,14958,3,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840480,Great Kiskadee,Pitangus sulphuratus,14958,X,PE-SAM,,Tarapoto backyard,-6.484881,-76.36195,08-10-2012,,Historical,0,0,,,1
 S43796386,Rusty-margined Flycatcher,Myiozetetes cayanensis,14976,2,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S43869141,Social Flycatcher,Myiozetetes similis,14981,1,CO-ANT,,Carrera 30,6.211701,-75.559296,03-21-2018,08:03 AM,eBird - Casual Observation,,0,,,1
+S43931572,Social Flycatcher,Myiozetetes similis,14981,1,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
+S43962513,Social Flycatcher,Myiozetetes similis,14981,4,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Social Flycatcher,Myiozetetes similis,14981,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S28840462,Social Flycatcher,Myiozetetes similis,14981,X,PE-SAM,,Tarapoto apartment,-6.484881,-76.36195,06-24-2012,,Historical,0,0,,,1
 S24858836,Dusky-chested Flycatcher,Myiozetetes luteiventris,14995,1,PE-SAM,,Porvenir guardhouse,-6.940815,-76.063877,07-28-2012,,Historical,0,0,,,1
 S43796386,Golden-crowned Flycatcher,Myiodynastes chrysocephalus,15010,2,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
@@ -2469,6 +2495,7 @@ S43793897,Tropical Kingbird,Tyrannus melancholicus,15038,1,CO-ANT,,Balcony - La 
 S43869141,Tropical Kingbird,Tyrannus melancholicus,15038,1,CO-ANT,,Carrera 30,6.211701,-75.559296,03-21-2018,08:03 AM,eBird - Casual Observation,,0,,,1
 S43865123,Tropical Kingbird,Tyrannus melancholicus,15038,3,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,08:00 AM,eBird - Casual Observation,,0,,,1
 S28840475,Tropical Kingbird,Tyrannus melancholicus,15038,X,PE-SAM,,Lamas,-6.42187,-76.516315,07-31-2011,,Historical,0,0,,,1
+S43962505,Tropical Kingbird,Tyrannus melancholicus,15038,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Tropical Kingbird,Tyrannus melancholicus,15038,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840463,Tropical Kingbird,Tyrannus melancholicus,15038,1,PE-SAM,,Tarapoto apartment,-6.484881,-76.36195,06-30-2012,,Historical,0,0,,,1
 S29463115,Western Kingbird,Tyrannus verticalis,15051,1,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,05-07-2016,06:00 AM,eBird - Traveling Count,240,1,4.828,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
@@ -2524,6 +2551,7 @@ S23558501,Red-eyed Vireo,Vireo olivaceus,17850,3,CA-QC,Montréal,Parc du Mt-Roya
 S29604282,Red-eyed Vireo,Vireo olivaceus,17850,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29792887,Red-eyed Vireo,Vireo olivaceus,17850,1,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-20-2016,09:07 AM,eBird - Traveling Count,100,1,2.5,,30,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S30779620,Red-eyed Vireo,Vireo olivaceus,17850,1,CA-QC,Rimouski-Neigette,Parc du Bic - La Coulée,48.337785,-68.836368,07-18-2016,05:00 AM,eBird - Traveling Count,50,1,1,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
+S43962505,vireo sp.,Vireo sp.,17878,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1,,"I think this was probably a Red-eyed Vireo based on frequency of occurrence at the location, but my view wasn't good enough to exclude Yellow-green Vireo"
 S23560493,Black-hooded Oriole,Oriolus xanthornus,18057,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
 S23560493,Greater Racket-tailed Drongo,Dicrurus paradiseus,18186,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
 S28840419,drongo sp.,Dicrurus sp.,18201,X,VN-15,,VN-HT Hwy to Quoc Oai,21.003714,105.661241,10-03-2009,,Historical,0,0,,,1
@@ -2691,6 +2719,7 @@ S42734579,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,Strawberry C
 S42783408,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-15-2018,09:11 AM,eBird - Traveling Count,35,1,.3,,1
 S43076330,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-21-2018,04:15 PM,eBird - Traveling Count,60,1,.7,,1
 S43544285,American Crow,Corvus brachyrhynchos,19073,4,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-10-2018,05:00 PM,eBird - Casual Observation,,0,,,1
+S43980308,American Crow,Corvus brachyrhynchos,19073,4,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S43183872,American Crow,Corvus brachyrhynchos,19073,X,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S41853563,American Crow,Corvus brachyrhynchos,19073,2,US-CA,Alameda,"US-CA 2439 Roosevelt Ave, Berkeley US-CA (37.8633,-122.2754)",37.86326,-122.275446,01-12-2018,08:35 AM,eBird - Casual Observation,,0,,,1
 S31758804,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-25-2016,06:17 PM,eBird - Casual Observation,,0,,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
@@ -2876,6 +2905,7 @@ S41525304,Common Raven,Corvus corax,19134,1,US-CA,Sonoma,Jenner Beach,38.4486922
 S41525792,Common Raven,Corvus corax,19134,1,US-CA,Sonoma,US-CA-highway-near-Duncans-Mills,38.4496457,-123.0573213,01-01-2018,02:30 PM,eBird - Casual Observation,,0
 S23559403,Horned Lark,Eremophila alpestris,19870,X,CA-BC,Columbia-Shuswap,CA-BC MacArthur Lake,51.337067,-116.347094,09-14-2004,,Historical,0,0,,,1
 S43793897,Blue-and-white Swallow,Pygochelidon cyanoleuca,19920,1,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
+S43962505,Blue-and-white Swallow,Pygochelidon cyanoleuca,19920,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1,"C Courtship, Display, or Copulation"
 S43796386,Blue-and-white Swallow,Pygochelidon cyanoleuca,19920,10,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840485,Blue-and-white Swallow,Pygochelidon cyanoleuca,19920,X,PE-SAM,,Tony's roof,-6.483472,-76.362183,09-06-2012,,Historical,0,0,,,1
 S23559385,Andean Swallow,Orochelidon andecola,19931,X,PE-LIM,,Near green lake,-10.338167,-76.899512,06-13-2013,,Historical,0,0,,,1
@@ -2885,6 +2915,7 @@ S36655126,Northern Rough-winged Swallow,Stelgidopteryx serripennis,19940,2,US-CA
 S30506391,Northern Rough-winged Swallow,Stelgidopteryx serripennis,19940,1,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S36837840,Northern Rough-winged Swallow,Stelgidopteryx serripennis,19940,1,US-CA,Marin,Pt. Reyes--Abbotts Lagoon,38.1190611,-122.9522467,05-14-2017,05:25 AM,eBird - Traveling Count,191,1,8.047,,1
 S43793897,Southern Rough-winged Swallow,Stelgidopteryx ruficollis,19948,3,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
+S43931572,Southern Rough-winged Swallow,Stelgidopteryx ruficollis,19948,1,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
 S43796386,Southern Rough-winged Swallow,Stelgidopteryx ruficollis,19948,6,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S29923003,Purple Martin,Progne subis,19953,60,CA-QC,Montréal,CA-QC-Montréal-Parc Richard - Martin Houses,45.458434,-73.561395,05-26-2016,12:50 PM,eBird - Casual Observation,0,0,,,1,,Estimating number. 3 bird houses with four sides each and several martins on each side,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
 S23635599,Purple Martin,Progne subis,19953,X,CA-QC,Montréal,Lachine Rapids - Big Joe,45.428643,-73.583729,06-01-2006,,Historical,0,0,,,1
@@ -3111,6 +3142,7 @@ S28718304,Bushtit,Psaltriparus minimus,20708,3,US-CA,San Francisco,Golden Gate P
 S42274371,Bushtit,Psaltriparus minimus,20708,5,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
 S42616408,Red-breasted Nuthatch,Sitta canadensis,20757,1,US-CA,Alameda,Becky Temko Park,37.863678,-122.275967,02-09-2018,08:10 AM,eBird - Stationary Count,27,1,,,1
 S29463115,Red-breasted Nuthatch,Sitta canadensis,20757,1,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,05-07-2016,06:00 AM,eBird - Traveling Count,240,1,4.828,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
+S43980308,Red-breasted Nuthatch,Sitta canadensis,20757,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S40162469,Red-breasted Nuthatch,Sitta canadensis,20757,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,10-27-2017,04:25 PM,eBird - Stationary Count,60,1,,,1
 S42068270,Red-breasted Nuthatch,Sitta canadensis,20757,1,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,01-19-2018,09:58 AM,eBird - Stationary Count,10,1,,,1
 S30506413,Red-breasted Nuthatch,Sitta canadensis,20757,1,US-MA,Barnstable,US-MA North of Highland Camping Area,42.045571,-70.08534,06-28-2016,06:17 AM,eBird - Traveling Count,30,1,2,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
@@ -3177,6 +3209,8 @@ S29792902,House Wren,Troglodytes aedon,21138,1,US-NY,New York,Central Park (ramb
 S29866810,House Wren,Troglodytes aedon,21138,2,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-23-2016,05:21 AM,eBird - Traveling Count,212,1,6,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
 S43869141,House Wren,Troglodytes aedon,21138,1,CO-ANT,,Carrera 30,6.211701,-75.559296,03-21-2018,08:03 AM,eBird - Casual Observation,,0,,,1
 S28840399,House Wren,Troglodytes aedon,21138,X,PE-SAM,,Laguna Azul,-6.693337,-76.217992,07-26-2012,,Historical,0,0,,,1
+S43962513,House Wren,Troglodytes aedon,21138,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,House Wren,Troglodytes aedon,21138,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,House Wren,Troglodytes aedon,21138,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2,,Heard only
 S37432862,Pacific Wren,Troglodytes pacificus,21229,1,US-CA,Alameda,Redwood Regional Park--Canyon Meadow area,37.807628,-122.1488356,06-06-2017,09:27 AM,eBird - Traveling Count,79,1,3,,1
 S43416701,Pacific Wren,Troglodytes pacificus,21229,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-05-2018,06:00 PM,eBird - Casual Observation,,0,,,1
@@ -3343,6 +3377,7 @@ S24605205,Swainson's Thrush,Catharus ustulatus,24602,1,CA-QC,La Côte-de-Gaspé,
 S29752059,Swainson's Thrush,Catharus ustulatus,24602,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-18-2016,05:58 AM,eBird - Traveling Count,120,1,2.499,,2,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29795016,Swainson's Thrush,Catharus ustulatus,24602,1,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-20-2016,12:16 PM,eBird - Traveling Count,25,1,1,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S39005496,Swainson's Thrush,Catharus ustulatus,24602,1,US-CA,Santa Cruz,Big Basin Redwoods SP--Gazos Ck Rd,37.1787669,-122.2248386,08-20-2017,11:07 AM,eBird - Stationary Count,30,1,,,1
+S43962505,Swainson's Thrush,Catharus ustulatus,24602,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Swainson's Thrush,Catharus ustulatus,24602,3,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S42539609,Hermit Thrush,Catharus guttatus,24608,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,02-06-2018,08:58 AM,eBird - Traveling Count,33,1,.39,,1
 S41807057,Hermit Thrush,Catharus guttatus,24608,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-10-2018,04:28 PM,eBird - Traveling Count,53,1,.1,,1
@@ -3372,6 +3407,8 @@ S23635882,Clay-colored Thrush,Turdus grayi,24817.14,X,PA-8,,Malibu hostel,8.5555
 S43793897,Black-billed Thrush,Turdus ignobilis,24841,1,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
 S28841547,Black-billed Thrush,Turdus ignobilis,24841,X,PE-SAM,,Creek by Tingana,-5.915892,-77.114962,07-27-2013,,Historical,0,0,,,1
 S43815680,Black-billed Thrush,Turdus ignobilis,24841,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
+S43931572,Black-billed Thrush,Turdus ignobilis,24841,1,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
+S43962505,Black-billed Thrush,Turdus ignobilis,24841,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Black-billed Thrush,Turdus ignobilis,24841,6,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28841584,Great Thrush,Turdus fuscater,24861,X,PE-AMA,,PE-AM Highway near Abra Patricia,-5.694598,-77.792681,07-03-2013,,Historical,0,0,,,1
 S43796386,Great Thrush,Turdus fuscater,24861,5,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
@@ -3387,6 +3424,7 @@ S37784973,American Robin,Turdus migratorius,24903,3,US-CA,Alameda,Strawberry Cre
 S41807057,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-10-2018,04:28 PM,eBird - Traveling Count,53,1,.1,,1
 S42783408,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-15-2018,09:11 AM,eBird - Traveling Count,35,1,.3,,1
 S43544285,American Robin,Turdus migratorius,24903,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-10-2018,05:00 PM,eBird - Casual Observation,,0,,,1
+S43980308,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S39091717,American Robin,Turdus migratorius,24903,2,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S37514969,American Robin,Turdus migratorius,24903,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-10-2017,03:42 PM,eBird - Stationary Count,29,1,,,1
 S37515966,American Robin,Turdus migratorius,24903,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-10-2017,04:10 PM,eBird - Traveling Count,51,1,1.5,,1
@@ -3596,6 +3634,7 @@ S38135579,Ovenbird,Seiurus aurocapilla,27769,1,US-ME,Hancock,US-ME Pemetic Mtn l
 S23717327,Ovenbird,Seiurus aurocapilla,27769,1,CA-QC,Les Laurentides,Chemin Claude Lefebvre,46.202038,-74.602374,05-31-2015,07:02 AM,eBird - Traveling Count,90,1,1.996,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S29792902,Ovenbird,Seiurus aurocapilla,27769,X,US-NY,New York,Central Park (ramble),40.77892,-73.970756,05-20-2016,06:05 AM,eBird - Traveling Count,90,1,1.5,,1,,Heard,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S23027022,Northern Waterthrush,Parkesia noveboracensis,27774,1,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,04-24-2015,06:15 AM,eBird - Traveling Count,105,1,2.5,,1,,,"Walked through Ravine, along Loch, and through North Woods"
+S43962513,Northern Waterthrush,Parkesia noveboracensis,27774,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
 S28840450,Black-and-white Warbler,Mniotilta varia,27782,X,US-NY,Essex,Trail from flowed lands out Calamity Brook (mature woods),44.100536,-74.022002,05-19-2014,,Historical,0,0,,,1
 S35536374,Black-and-white Warbler,Mniotilta varia,27782,1,US-FL,Lee,Boca Bay Development,26.744861,-82.262355,03-30-2017,10:08 AM,eBird - Traveling Count,140,1,4.828,,1
 S23717327,Black-and-white Warbler,Mniotilta varia,27782,1,CA-QC,Les Laurentides,Chemin Claude Lefebvre,46.202038,-74.602374,05-31-2015,07:02 AM,eBird - Traveling Count,90,1,1.996,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
@@ -3609,6 +3648,7 @@ S29866810,Black-and-white Warbler,Mniotilta varia,27782,1,US-NY,New York,Central
 S43796386,Black-and-white Warbler,Mniotilta varia,27782,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S23560485,Prothonotary Warbler,Protonotaria citrea,27783,X,PA-3,,Panama Rainforest Discovery Center,9.131179,-79.724107,01-13-2014,,Historical,0,0,,,3
 S35141513,Orange-crowned Warbler,Oreothlypis celata,27793,1,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
+S43980308,Orange-crowned Warbler,Oreothlypis celata,27793,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S37536831,Orange-crowned Warbler,Oreothlypis celata,27793,2,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,08:08 AM,eBird - Traveling Count,120,1,5.7,,1
 S35086570,Orange-crowned Warbler,Oreothlypis celata,27793,3,US-CA,Contra Costa,Redwood Regional Park--Stream Trail,37.8206667,-122.166853,03-10-2017,06:30 AM,eBird - Traveling Count,150,1,2.414,,8,,Probable breeding.,GGAS Birding by Ear along the Stream Trail **25 species represented here were either calling or singing or both. Most notable Pacific Wren and Ruby-crowned Kinglet (personal favorites for the morning).
 S31431884,Orange-crowned Warbler,Oreothlypis celata,27793,2,US-CA,El Dorado,Tahoe Marsh--via San Francisco Ave.,38.9397508,-119.9931049,09-05-2016,06:44 AM,eBird - Traveling Count,151,1,3,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
@@ -3618,6 +3658,7 @@ S23515276,Nashville Warbler,Oreothlypis ruficapilla,27801,1,US-NY,Essex,Calamity
 S23408545,Nashville Warbler,Oreothlypis ruficapilla,27801,1,CA-QC,Maskinongé,Rivière des Isles (lac des sorciers) - Takeout,46.6580377,-73.3229578,05-09-2015,01:00 PM,eBird - Casual Observation,0,0,,,1,,,Was just getting ready for kayaking and saw a couple of birds
 S29604282,Nashville Warbler,Oreothlypis ruficapilla,27801,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29752059,Nashville Warbler,Oreothlypis ruficapilla,27801,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-18-2016,05:58 AM,eBird - Traveling Count,120,1,2.499,,2,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
+S43962505,Mourning Warbler,Geothlypis philadelphia,27824,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S30506391,Common Yellowthroat,Geothlypis trichas,27838,1,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S37962004,Common Yellowthroat,Geothlypis trichas,27838,3,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
 S28840488,Common Yellowthroat,Geothlypis trichas,27838,X,US-VT,Chittenden,LaPlatte Marsh Nature Reserve,44.395041,-73.234149,09-28-2014,,Historical,0,0,,,1
@@ -3640,6 +3681,7 @@ S29792887,American Redstart,Setophaga ruticilla,27861,3,US-NY,New York,Central P
 S29795016,American Redstart,Setophaga ruticilla,27861,1,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-20-2016,12:16 PM,eBird - Traveling Count,25,1,1,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S23379511,American Redstart,Setophaga ruticilla,27861,1,CA-ON,Ottawa,Ottawa--Britannia Conservation Area (Mud Lake),45.3717546,-75.7948728,05-11-2015,07:40 AM,eBird - Traveling Count,90,1,1.996,,3,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S38334509,American Redstart,Setophaga ruticilla,27861,2,CA-ON,Ottawa,Ottawa--Petrie Island,45.5029782,-75.4917383,07-26-2017,08:13 AM,eBird - Traveling Count,60,1,2,,3,,Ff 
+S43962513,American Redstart,Setophaga ruticilla,27861,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
 S23419819,Cape May Warbler,Setophaga tigrina,27863,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2015,05:45 AM,eBird - Traveling Count,270,1,5.005,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S29752059,Cape May Warbler,Setophaga tigrina,27863,2,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-18-2016,05:58 AM,eBird - Traveling Count,120,1,2.499,,2,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S37156532,Northern Parula,Setophaga americana,27865,1,US-CA,Alameda,US-CA-Berkeley-1018 Mariposa Ave - 37.8892x-122.2706,37.889172,-122.270581,05-26-2017,09:33 AM,eBird - Stationary Count,19,1,,,1,,Seen well; multiple observers. Heard singing several times
@@ -3663,6 +3705,7 @@ S23419819,Bay-breasted Warbler,Setophaga castanea,27883,3,CA-QC,Montréal,Parc d
 S29604282,Bay-breasted Warbler,Setophaga castanea,27883,2,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29752059,Bay-breasted Warbler,Setophaga castanea,27883,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-18-2016,05:58 AM,eBird - Traveling Count,120,1,2.499,,2,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29793802,Bay-breasted Warbler,Setophaga castanea,27883,1,US-NY,New York,Central Park--The Knoll,40.7939387,-73.9557658,05-20-2016,11:46 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
+S43962513,Bay-breasted Warbler,Setophaga castanea,27883,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
 S30355484,Blackburnian Warbler,Setophaga fusca,27884,1,US-NY,Franklin,Buck Pond Campground,44.503613,-74.114799,06-18-2016,02:08 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
 S23419819,Blackburnian Warbler,Setophaga fusca,27884,3,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2015,05:45 AM,eBird - Traveling Count,270,1,5.005,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S23635615,Blackburnian Warbler,Setophaga fusca,27884,X,CA-ON,Nipissing,Camp Wanapitei,47.166227,-80.06892,08-23-2014,,Historical,0,0,,,1
@@ -3681,6 +3724,7 @@ S30141164,Yellow Warbler,Setophaga petechia,27885,1,CA-ON,Ottawa,Ottawa--Central
 S38334514,Yellow Warbler,Setophaga petechia,27885,2,CA-ON,Ottawa,Ottawa--Champlian Street Marsh,45.4904505,-75.5232382,07-26-2017,07:30 AM,eBird - Traveling Count,30,1,1,,3
 S38334509,Yellow Warbler,Setophaga petechia,27885,4,CA-ON,Ottawa,Ottawa--Petrie Island,45.5029782,-75.4917383,07-26-2017,08:13 AM,eBird - Traveling Count,60,1,2,,3
 S31327701,Yellow Warbler,Setophaga petechia,27885,1,US-UT,Washington,US-UT-Zion Lodge,37.250475,-112.956587,08-27-2016,04:30 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
+S43962513,Yellow Warbler,Setophaga petechia,27885,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
 S28840451,Chestnut-sided Warbler,Setophaga pensylvanica,27923,X,US-NY,Essex,Trail from flowed lands out Calamity Brook (secondary growth),44.100536,-74.022002,05-19-2014,,Historical,0,0,,,1
 S23419819,Chestnut-sided Warbler,Setophaga pensylvanica,27923,3,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2015,05:45 AM,eBird - Traveling Count,270,1,5.005,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S29604282,Chestnut-sided Warbler,Setophaga pensylvanica,27923,2,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
@@ -3833,13 +3877,19 @@ S43796386,Blue-winged Mountain-Tanager,Anisognathus somptuosus,28421.45,2,CO-ANT
 S43793897,Blue-gray Tanager,Thraupis episcopus,28422,5,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
 S43869141,Blue-gray Tanager,Thraupis episcopus,28422,3,CO-ANT,,Carrera 30,6.211701,-75.559296,03-21-2018,08:03 AM,eBird - Casual Observation,,0,,,1
 S43815680,Blue-gray Tanager,Thraupis episcopus,28422,3,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
+S43931572,Blue-gray Tanager,Thraupis episcopus,28422,2,CO-ANT,,Jardín Botánico de Medellín Joaquín Antonio Uribe,6.2707841,-75.5637395,03-24-2018,05:30 PM,eBird - Stationary Count,30,1,,,1
+S43962513,Blue-gray Tanager,Thraupis episcopus,28422,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Blue-gray Tanager,Thraupis episcopus,28422,4,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Blue-gray Tanager,Thraupis episcopus,28422,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28841586,Blue-gray Tanager,Thraupis episcopus,28422,X,PE-SAM,,"Tarapoto, Av de Circulacion",-6.480389,-76.357467,07-29-2011,,Historical,0,0,,,1
 S43793897,Palm Tanager,Thraupis palmarum,28441,3,CO-ANT,,Balcony - La Provincia 707,6.208198,-75.559977,03-19-2018,05:54 PM,eBird - Stationary Count,15,1,,,1
 S43815680,Palm Tanager,Thraupis palmarum,28441,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S28841585,Palm Tanager,Thraupis palmarum,28441,X,PE-SAM,,Lamas restaurant,-6.41901,-76.523526,07-19-2012,,Historical,0,0,,,1
+S43962505,Palm Tanager,Thraupis palmarum,28441,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Palm Tanager,Thraupis palmarum,28441,8,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S43796386,Black-capped Tanager,Tangara heinei,28558,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
+S43962513,Scrub Tanager,Tangara vitriolina,28581,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Scrub Tanager,Tangara vitriolina,28581,4,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1,FY Feeding Young
 S43796386,Scrub Tanager,Tangara vitriolina,28581,2,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28841543,Blue-necked Tanager,Tangara cyanicollis,28588,X,PE-SAM,,Oriente Nuevo,-5.796623,-77.522848,07-08-2013,,Historical,0,0,,,1
 S43796386,Blue-necked Tanager,Tangara cyanicollis,28588,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
@@ -3866,13 +3916,23 @@ S28840463,Saffron Finch,Sicalis flaveola,29028,2,PE-SAM,,Tarapoto apartment,-6.4
 S28840401,Blue-black Grassquit,Volatinia jacarina,29060,X,PE-SAM,,Las Palmas to north,-7.521041,-76.215095,08-07-2013,,Historical,0,0,,,1
 S23635583,Chestnut-bellied Seedeater,Sporophila castaneiventris,29126.02,X,PE-LOR,,Maniti Lodge,-4.52981,-73.453259,08-05-2012,,Historical,0,0,,,1
 S28841549,Chestnut-bellied Seed-Finch,Sporophila angolensis,29145,X,PE-SAM,,Las Palmas to southwest,-7.560414,-76.233982,08-07-2013,,Historical,0,0,,,1
+S43962513,Yellow-bellied Seedeater,Sporophila nigricollis,29157.04,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Yellow-bellied Seedeater,Sporophila nigricollis,29157.04,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Yellow-bellied Seedeater,Sporophila nigricollis,29157.04,3,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840455,Bananaquit,Coereba flaveola,29188,X,PE-LIM,,Giftshop garden,-12.138279,-77.020805,06-16-2012,,Historical,0,0,,,1
 S43815680,Bananaquit,Coereba flaveola,29188,2,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S43865123,Bananaquit,Coereba flaveola,29188,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,08:00 AM,eBird - Casual Observation,,0,,,1
 S43865183,Bananaquit,Coereba flaveola,29188,4,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,02:30 PM,eBird - Stationary Count,10,1,,,1
+S43890919,Bananaquit,Coereba flaveola,29188,4,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-23-2018,02:15 PM,eBird - Stationary Count,15,1,,,1
+S43962513,Bananaquit,Coereba flaveola,29188,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
 S43796386,Bananaquit,Coereba flaveola,29188,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
+S43962513,Yellow-faced Grassquit,Tiaris olivaceus,29232,3,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Yellow-faced Grassquit,Tiaris olivaceus,29232,4,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Black-winged Saltator,Saltator atripennis,29357,3,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
+S43962513,Grayish Saltator,Saltator coerulescens,29362.09,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Grayish Saltator,Saltator coerulescens,29362.09,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
+S43962513,Streaked Saltator,Saltator striatipectus,29362.25,3,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Streaked Saltator,Saltator striatipectus,29362.25,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Common Chlorospingus,Chlorospingus flavopectus,29375.18,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840408,Yellow-browed Sparrow,Ammodramus aurifrons,29504,X,PE-SAM,,Playa Hermosa plaza,-7.096664,-76.128952,08-12-2012,,Historical,0,0,,,1
 S23559372,American Tree Sparrow,Spizelloides arborea,29553,X,CA-NT,Inuvik,Sitidgi Lake,68.423871,-132.874964,08-18-2004,,Historical,0,0,,,1
@@ -3975,6 +4035,8 @@ S40483620,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,7,US-CA
 S39252039,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,1,US-CA,Monterey,"US-CA 4024 Sunset Ln, Pebble Beach US-CA (36.5874,-121.9227)",36.587391,-121.922667,09-16-2017,04:10 PM,eBird - Casual Observation,,0,,,1
 S28718304,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,San Francisco,Golden Gate Park--Stow Lake,37.7675496,-122.4734026,04-03-2016,06:43 AM,eBird - Traveling Count,173,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S31743310,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,3,US-CA,San Francisco,Sutro Baths--seawatch,37.7810776,-122.5143653,09-24-2016,03:27 PM,eBird - Traveling Count,120,1,3.219,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
+S43962513,Rufous-collared Sparrow,Zonotrichia capensis,29984.04,3,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,06:10 AM,eBird - Traveling Count,75,1,.753,,3
+S43962505,Rufous-collared Sparrow,Zonotrichia capensis,29984.04,5,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S28840464,Rufous-collared Sparrow,Zonotrichia capensis,29984.04,X,PE-SAM,,Tarapoto main square,-6.487697,-76.359797,07-03-2012,,Historical,0,0,,,1
 S35141513,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,4,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
 S42411435,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,2,US-CA,Alameda,Becky Temko Park,37.863678,-122.275967,02-01-2018,08:22 AM,eBird - Stationary Count,23,1,,,1
@@ -4180,6 +4242,7 @@ S37784973,California Towhee,Melozone crissalis,29984.6,4,US-CA,Alameda,Strawberr
 S41878007,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-13-2018,01:25 PM,eBird - Traveling Count,43,1,.596,,1
 S42079808,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-19-2018,05:11 PM,eBird - Stationary Count,24,1,,,1
 S42661026,California Towhee,Melozone crissalis,29984.6,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,10:00 AM,eBird - Stationary Count,45,1,,,1
+S43980308,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S43183872,California Towhee,Melozone crissalis,29984.6,X,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S39091717,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S43343906,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,03-03-2018,10:07 AM,eBird - Traveling Count,27,1,.823,,1
@@ -4263,6 +4326,7 @@ S23027022,Eastern Towhee,Pipilo erythrophthalmus,29984.76,2,US-NY,New York,Centr
 S43796386,White-naped Brushfinch,Atlapetes albinucha,29984.88,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S23559386,Slaty Brushfinch,Atlapetes schistaceus,29985.03,X,PE-LIM,,Valley leading from Huayllapa to Diablo Mudo,-10.338433,-77.00208,06-15-2013,,Historical,0,0,,,1
 S34996491,sparrow sp.,Passerellidae sp. (sparrow sp.),29986,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,02-26-2017,10:28 AM,eBird - Traveling Count,90,1,5.633,,1
+S43962505,Summer Tanager,Piranga rubra,30160,3,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Summer Tanager,Piranga rubra,30160,2,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S23635604,Scarlet Tanager,Piranga olivacea,30163,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-12-2014,,Historical,0,0,,,1
 S23419819,Scarlet Tanager,Piranga olivacea,30163,4,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2015,05:45 AM,eBird - Traveling Count,270,1,5.005,,1,,1m 6:20 1f 8:00 1m 8:20 1m 9:00,"<br />Submitted from BirdLog NA for iOS, version 1.8"
@@ -4329,6 +4393,7 @@ S24107085,Baltimore Oriole,Icterus galbula,30338.097,3,CA-QC,Montréal,Parc des 
 S29792902,Baltimore Oriole,Icterus galbula,30338.097,3,US-NY,New York,Central Park (ramble),40.77892,-73.970756,05-20-2016,06:05 AM,eBird - Traveling Count,90,1,1.5,,1,NB Nest Building,FFM one nesting,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29792887,Baltimore Oriole,Icterus galbula,30338.097,5,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-20-2016,09:07 AM,eBird - Traveling Count,100,1,2.5,,30,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29866810,Baltimore Oriole,Icterus galbula,30338.097,2,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-23-2016,05:21 AM,eBird - Traveling Count,212,1,6,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
+S43962505,Baltimore Oriole,Icterus galbula,30338.097,2,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S29463115,Red-winged Blackbird,Agelaius phoeniceus,30339,2,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,05-07-2016,06:00 AM,eBird - Traveling Count,240,1,4.828,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S35143838,Red-winged Blackbird,Agelaius phoeniceus,30339,6,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,03-12-2017,04:06 PM,eBird - Traveling Count,90,1,3.219,,1
 S35801345,Red-winged Blackbird,Agelaius phoeniceus,30339,12,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,04-08-2017,03:37 PM,eBird - Traveling Count,35,1,2.414,,1
@@ -4381,6 +4446,7 @@ S40892270,Red-winged Blackbird,Agelaius phoeniceus,30339,1,US-CA,Sacramento,Cosu
 S29304071,Red-winged Blackbird,Agelaius phoeniceus,30339,3,CA-QC,Thérèse-De Blainville,CA-QC-Rosemère-200 Ch de la Grande-Côte - 45.6280x-73.7974,45.627979,-73.79737,04-30-2016,11:10 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S23826345,Red-winged Blackbird,Agelaius phoeniceus,30339,2,CA-ON,Toronto,"Sunnyside Beach, Parkdale",43.63632,-79.448859,06-07-2015,03:40 PM,eBird - Casual Observation,0,1,,,1,,,"Sitting at the picnic table talking. Cool, cloudy day <br />Submitted from BirdLog NA for iOS, version 1.8"
 S28718304,Red-winged Blackbird (California Bicolored),Agelaius phoeniceus californicus/mailliardorum,30365,1,US-CA,San Francisco,Golden Gate Park--Stow Lake,37.7675496,-122.4734026,04-03-2016,06:43 AM,eBird - Traveling Count,173,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
+S43962505,Shiny Cowbird,Molothrus bonariensis,30375,1,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
 S43796386,Shiny Cowbird,Molothrus bonariensis,30375,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840479,Shiny Cowbird,Molothrus bonariensis,30375,X,PE-SAM,,Tarapoto apartment,-6.484881,-76.36195,08-09-2012,,Historical,0,0,,,1
 S28841571,Brown-headed Cowbird,Molothrus ater,30380,X,US-VT,Addison,Barr's birdfeeder,44.031815,-73.191527,05-21-2011,,Historical,0,0,,,1
@@ -4531,6 +4597,8 @@ S36189053,Lesser Goldfinch,Spinus psaltria,31032,4,US-CA,Contra Costa,Mt. Diablo
 S29505345,Lesser Goldfinch,Spinus psaltria,31032,5,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,05-08-2016,01:17 PM,eBird - Traveling Count,212,1,4.023,,1,,,"I also saw an oriole, that I am 90% sure was a Bullock's, but there is a small chance it was a Hooded, so I am leaving it off the checklist.   <br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S37674118,Lesser Goldfinch,Spinus psaltria,31032,4,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,06-18-2017,05:45 AM,eBird - Traveling Count,155,1,3,,1
 S37427412,Lesser Goldfinch,Spinus psaltria,31032,10,US-CA,Sonoma,US-CA Hayward Family Winery,38.48423,-122.90927,06-03-2017,12:29 PM,eBird - Stationary Count,60,1,,,1
+S43962505,Lesser Goldfinch,Spinus psaltria,31032,4,CO-ANT,,Parque Natural Regional Metropolitano Cerro El Volador,6.2650401,-75.5812597,03-25-2018,07:26 AM,eBird - Traveling Count,154,1,1.99,,1
+S43980308,American Goldfinch,Spinus tristis,31039,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
 S30506404,American Goldfinch,Spinus tristis,31039,2,US-MA,Barnstable,"Head of the Meadow Beach, N. Truro",42.0522244,-70.0795126,06-28-2016,06:51 AM,eBird - Stationary Count,40,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30506391,American Goldfinch,Spinus tristis,31039,4,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30506413,American Goldfinch,Spinus tristis,31039,1,US-MA,Barnstable,US-MA North of Highland Camping Area,42.045571,-70.08534,06-28-2016,06:17 AM,eBird - Traveling Count,30,1,2,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
