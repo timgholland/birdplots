@@ -2,7 +2,7 @@
 title: "_plotspage_general"
 ---
 
-```{r plotseq, include=TRUE, echo=FALSE,fig.width=10,fig.height=7}
+```{r plotseq, include=TRUE, echo=FALSE,fig.width=9,fig.height=5}
 areaVis(areaList(myeb.area,name.area))
 plot_orders(myeb.area,checklist)
 ```

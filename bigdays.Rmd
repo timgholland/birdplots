@@ -7,4 +7,5 @@ output: html_document
 
 ```{r bars, include=TRUE, echo=FALSE,fig.width=10,fig.height=7}
 countsBars(myeb.area=myeb)
+countsBars(myeb.area = myeb,minDate=max(myeb.area$date)-365)
 ```

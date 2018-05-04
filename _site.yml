@@ -8,6 +8,8 @@ navbar:
       href: plotspage_California.html
     - text: "Quebec"
       href: plotspage_Quebec.html
+#    - text: "Vermont"
+#      href: plotspage_Vermont.html
     - text: "Big days"
       href: bigdays.html
 output_dir: "."

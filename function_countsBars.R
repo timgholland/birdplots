@@ -1,9 +1,9 @@
-countsBars <- function(myeb.area=NULL,y=T,m=T,w=T,d=T,lifers=F){
+countsBars <- function(myeb.area=NULL,minDate=min(myeb.area$date),maxDate=max(myeb.area$date),y=T,m=T,w=T,d=T,lifers=F){
 
 eb.tmp <- myeb.area
 
-minDate <- min(eb.tmp$date)
-maxDate <- max(eb.tmp$date)
+#minDate <- min(eb.tmp$date)
+#maxDate <- max(eb.tmp$date)
 #maxDate <- as.Date("2017-12-01")
 dateRange <- as.numeric(maxDate-minDate)
 allDays <- tibble("allDays"=seq(minDate,maxDate,by=1))
