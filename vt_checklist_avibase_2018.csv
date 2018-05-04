@@ -1,0 +1,386 @@
+common_name,latin_binomial,tax_order,notes
+Fulvous Whistling-Duck,Dendrocygna bicolor,1,Rare/Accidental
+Snow Goose,Anser caerulescens,2,
+Ross's Goose,Anser rossii,3,Rare/Accidental
+Greater White-fronted Goose,Anser albifrons,4,
+Pink-footed Goose,Anser brachyrhynchus,5,Rare/Accidental
+Brant,Branta bernicla,6,
+Barnacle Goose,Branta leucopsis,7,Rare/Accidental
+Cackling Goose,Branta hutchinsii,8,
+Canada Goose,Branta canadensis,9,
+Mute Swan,Cygnus olor,10,Introduced species
+Trumpeter Swan,Cygnus buccinator,11,Rare/Accidental
+Tundra Swan,Cygnus columbianus,12,
+Wood Duck,Aix sponsa,13,
+Garganey,Spatula querquedula,14,Rare/Accidental
+Blue-winged Teal,Spatula discors,15,
+Northern Shoveler,Spatula clypeata,16,
+Gadwall,Mareca strepera,17,
+Eurasian Wigeon,Mareca penelope,18,Rare/Accidental
+American Wigeon,Mareca americana,19,
+Mallard,Anas platyrhynchos,20,
+American Black Duck,Anas rubripes,21,
+Northern Pintail,Anas acuta,22,
+Green-winged Teal,Anas crecca,23,
+Canvasback,Aythya valisineria,24,
+Redhead,Aythya americana,25,
+Ring-necked Duck,Aythya collaris,26,
+Tufted Duck,Aythya fuligula,27,Rare/Accidental
+Greater Scaup,Aythya marila,28,
+Lesser Scaup,Aythya affinis,29,
+King Eider,Somateria spectabilis,30,Rare/Accidental
+Common Eider,Somateria mollissima,31,Rare/Accidental Near-threatened
+Harlequin Duck,Histrionicus histrionicus,32,
+Surf Scoter,Melanitta perspicillata,33,
+White-winged Scoter,Melanitta fusca,34,
+Black Scoter,Melanitta americana,35,Near-threatened
+Long-tailed Duck,Clangula hyemalis,36,Vulnerable
+Bufflehead,Bucephala albeola,37,
+Common Goldeneye,Bucephala clangula,38,
+Barrow's Goldeneye,Bucephala islandica,39,
+Hooded Merganser,Lophodytes cucullatus,40,
+Common Merganser,Mergus merganser,41,
+Red-breasted Merganser,Mergus serrator,42,
+Ruddy Duck,Oxyura jamaicensis,43,
+Northern Bobwhite,Colinus virginianus,44,Near-threatened
+Ring-necked Pheasant,Phasianus colchicus,45,Introduced species
+Gray Partridge,Perdix perdix,46,Introduced species
+Ruffed Grouse,Bonasa umbellus,47,
+Spruce Grouse,Falcipennis canadensis,48,
+Willow Ptarmigan,Lagopus lagopus,49,Rare/Accidental
+Wild Turkey,Meleagris gallopavo,50,
+Red-throated Loon,Gavia stellata,51,
+Arctic Loon,Gavia arctica,52,Rare/Accidental
+Pacific Loon,Gavia pacifica,53,Rare/Accidental
+Common Loon,Gavia immer,54,
+Pied-billed Grebe,Podilymbus podiceps,55,
+Horned Grebe,Podiceps auritus,56,Vulnerable
+Red-necked Grebe,Podiceps grisegena,57,
+Eared Grebe,Podiceps nigricollis,58,Rare/Accidental
+Northern Fulmar,Fulmarus glacialis,59,Rare/Accidental
+Cory's Shearwater,Calonectris diomedea,60,Rare/Accidental
+Great Shearwater,Ardenna gravis,61,Rare/Accidental
+Wilson's Storm-Petrel,Oceanites oceanicus,62,Rare/Accidental
+Leach's Storm-Petrel,Oceanodroma leucorhoa,63,Rare/Accidental
+Band-rumped Storm-Petrel,Oceanodroma castro,64,Rare/Accidental
+White-tailed Tropicbird,Phaethon lepturus,65,Rare/Accidental
+Wood Stork,Mycteria americana,66,Rare/Accidental
+Brown Booby,Sula leucogaster,67,Rare/Accidental
+Northern Gannet,Morus bassanus,68,Rare/Accidental
+Great Cormorant,Phalacrocorax carbo,69,Rare/Accidental
+Double-crested Cormorant,Phalacrocorax auritus,70,
+Anhinga,Anhinga anhinga,71,Rare/Accidental
+American White Pelican,Pelecanus erythrorhynchos,72,Rare/Accidental
+Brown Pelican,Pelecanus occidentalis,73,Rare/Accidental
+American Bittern,Botaurus lentiginosus,74,
+Least Bittern,Ixobrychus exilis,75,
+Great Blue Heron,Ardea herodias,76,
+Great Egret,Ardea alba,77,
+Snowy Egret,Egretta thula,78,
+Little Blue Heron,Egretta caerulea,79,
+Tricolored Heron,Egretta tricolor,80,Rare/Accidental
+Cattle Egret,Bubulcus ibis,81,
+Green Heron,Butorides virescens,82,
+Black-crowned Night-Heron,Nycticorax nycticorax,83,
+Yellow-crowned Night-Heron,Nyctanassa violacea,84,Rare/Accidental
+White Ibis,Eudocimus albus,85,Rare/Accidental
+Glossy Ibis,Plegadis falcinellus,86,
+Black Vulture,Coragyps atratus,87,
+Turkey Vulture,Cathartes aura,88,
+Osprey,Pandion haliaetus,89,
+Swallow-tailed Kite,Elanoides forficatus,90,Rare/Accidental
+Golden Eagle,Aquila chrysaetos,91,
+Northern Harrier,Circus hudsonius,92,
+Sharp-shinned Hawk,Accipiter striatus,93,
+Cooper's Hawk,Accipiter cooperii,94,
+Northern Goshawk,Accipiter gentilis,95,
+Bald Eagle,Haliaeetus leucocephalus,96,
+Red-shouldered Hawk,Buteo lineatus,97,
+Broad-winged Hawk,Buteo platypterus,98,
+Swainson's Hawk,Buteo swainsoni,99,Rare/Accidental
+Red-tailed Hawk,Buteo jamaicensis,100,
+Rough-legged Hawk,Buteo lagopus,101,
+Yellow Rail,Coturnicops noveboracensis,102,Rare/Accidental
+Virginia Rail,Rallus limicola,103,
+Sora,Porzana carolina,104,
+Common Gallinule,Gallinula galeata,105,
+American Coot,Fulica americana,106,
+Sandhill Crane,Antigone canadensis,107,
+American Avocet,Recurvirostra americana,108,Rare/Accidental
+Black-bellied Plover,Pluvialis squatarola,109,
+American Golden-Plover,Pluvialis dominica,110,
+Pacific Golden-Plover,Pluvialis fulva,111,Rare/Accidental
+Semipalmated Plover,Charadrius semipalmatus,112,
+Piping Plover,Charadrius melodus,113,Rare/Accidental Near-threatened
+Killdeer,Charadrius vociferus,114,
+Upland Sandpiper,Bartramia longicauda,115,
+Whimbrel,Numenius phaeopus,116,
+Black-tailed Godwit,Limosa limosa,117,Rare/Accidental Near-threatened
+Hudsonian Godwit,Limosa haemastica,118,
+Marbled Godwit,Limosa fedoa,119,Rare/Accidental
+Ruddy Turnstone,Arenaria interpres,120,
+Red Knot,Calidris canutus,121,Near-threatened
+Ruff,Calidris pugnax,122,Rare/Accidental
+Stilt Sandpiper,Calidris himantopus,123,
+Curlew Sandpiper,Calidris ferruginea,124,Rare/Accidental Near-threatened
+Sanderling,Calidris alba,125,
+Dunlin,Calidris alpina,126,
+Purple Sandpiper,Calidris maritima,127,
+Baird's Sandpiper,Calidris bairdii,128,
+Least Sandpiper,Calidris minutilla,129,
+White-rumped Sandpiper,Calidris fuscicollis,130,
+Buff-breasted Sandpiper,Calidris subruficollis,131,Near-threatened
+Pectoral Sandpiper,Calidris melanotos,132,
+Semipalmated Sandpiper,Calidris pusilla,133,Near-threatened
+Western Sandpiper,Calidris mauri,134,Rare/Accidental
+Short-billed Dowitcher,Limnodromus griseus,135,
+Long-billed Dowitcher,Limnodromus scolopaceus,136,
+American Woodcock,Scolopax minor,137,
+Wilson's Snipe,Gallinago delicata,138,
+Wilson's Phalarope,Phalaropus tricolor,139,
+Red-necked Phalarope,Phalaropus lobatus,140,
+Red Phalarope,Phalaropus fulicarius,141,
+Spotted Sandpiper,Actitis macularius,142,
+Solitary Sandpiper,Tringa solitaria,143,
+Greater Yellowlegs,Tringa melanoleuca,144,
+Willet,Tringa semipalmata,145,Rare/Accidental
+Lesser Yellowlegs,Tringa flavipes,146,
+Pomarine Jaeger,Stercorarius pomarinus,147,Rare/Accidental
+Parasitic Jaeger,Stercorarius parasiticus,148,
+Long-tailed Jaeger,Stercorarius longicaudus,149,Rare/Accidental
+Dovekie,Alle alle,150,Rare/Accidental
+Common Murre,Uria aalge,151,Rare/Accidental
+Thick-billed Murre,Uria lomvia,152,Rare/Accidental
+Black Guillemot,Cepphus grylle,153,Rare/Accidental
+Ancient Murrelet,Synthliboramphus antiquus,154,Rare/Accidental
+Atlantic Puffin,Fratercula arctica,155,Rare/Accidental Vulnerable
+Black-legged Kittiwake,Rissa tridactyla,156,Vulnerable
+Ivory Gull,Pagophila eburnea,157,Rare/Accidental Near-threatened
+Sabine's Gull,Xema sabini,158,Rare/Accidental
+Bonaparte's Gull,Chroicocephalus philadelphia,159,
+Black-headed Gull,Chroicocephalus ridibundus,160,Rare/Accidental
+Little Gull,Hydrocoloeus minutus,161,
+Laughing Gull,Leucophaeus atricilla,162,Rare/Accidental
+Franklin's Gull,Leucophaeus pipixcan,163,Rare/Accidental
+Black-tailed Gull,Larus crassirostris,164,Rare/Accidental
+Ring-billed Gull,Larus delawarensis,165,
+Herring Gull,Larus argentatus,166,
+Iceland Gull,Larus glaucoides,167,
+Lesser Black-backed Gull,Larus fuscus,168,Rare/Accidental
+Slaty-backed Gull,Larus schistisagus,169,Rare/Accidental
+Glaucous Gull,Larus hyperboreus,170,
+Great Black-backed Gull,Larus marinus,171,
+Sooty Tern,Onychoprion fuscatus,172,Rare/Accidental
+Caspian Tern,Hydroprogne caspia,173,
+Black Tern,Chlidonias niger,174,
+White-winged Tern,Chlidonias leucopterus,175,Rare/Accidental
+Common Tern,Sterna hirundo,176,
+Arctic Tern,Sterna paradisaea,177,Rare/Accidental
+Forster's Tern,Sterna forsteri,178,
+Rock Pigeon,Columba livia,179,Introduced species
+Band-tailed Pigeon,Patagioenas fasciata,180,Rare/Accidental
+Passenger Pigeon,Ectopistes migratorius,181,Extinct
+Eurasian Collared-Dove,Streptopelia decaocto,182,Rare/Accidental
+White-winged Dove,Zenaida asiatica,183,Rare/Accidental
+Mourning Dove,Zenaida macroura,184,
+Yellow-billed Cuckoo,Coccyzus americanus,185,
+Black-billed Cuckoo,Coccyzus erythropthalmus,186,
+Barn Owl,Tyto alba,187,Rare/Accidental
+Eastern Screech-Owl,Megascops asio,188,
+Great Horned Owl,Bubo virginianus,189,
+Snowy Owl,Bubo scandiacus,190,Vulnerable
+Northern Hawk Owl,Surnia ulula,191,
+Barred Owl,Strix varia,192,
+Great Gray Owl,Strix nebulosa,193,Rare/Accidental
+Long-eared Owl,Asio otus,194,
+Short-eared Owl,Asio flammeus,195,
+Boreal Owl,Aegolius funereus,196,Rare/Accidental
+Northern Saw-whet Owl,Aegolius acadicus,197,
+Common Nighthawk,Chordeiles minor,198,
+Eastern Whip-poor-will,Antrostomus vociferus,199,
+Chimney Swift,Chaetura pelagica,200,Near-threatened
+Ruby-throated Hummingbird,Archilochus colubris,201,
+Rufous Hummingbird,Selasphorus rufus,202,Rare/Accidental
+Belted Kingfisher,Megaceryle alcyon,203,
+Lewis's Woodpecker,Melanerpes lewis,204,Rare/Accidental
+Red-headed Woodpecker,Melanerpes erythrocephalus,205,Near-threatened
+Red-bellied Woodpecker,Melanerpes carolinus,206,
+Yellow-bellied Sapsucker,Sphyrapicus varius,207,
+Downy Woodpecker,Picoides pubescens,208,
+Hairy Woodpecker,Picoides villosus,209,
+American Three-toed Woodpecker,Picoides dorsalis,210,Rare/Accidental
+Black-backed Woodpecker,Picoides arcticus,211,
+Northern Flicker,Colaptes auratus,212,
+Pileated Woodpecker,Dryocopus pileatus,213,
+American Kestrel,Falco sparverius,214,
+Merlin,Falco columbarius,215,
+Gyrfalcon,Falco rusticolus,216,Rare/Accidental
+Peregrine Falcon,Falco peregrinus,217,
+Prairie Falcon,Falco mexicanus,218,Rare/Accidental
+Olive-sided Flycatcher,Contopus cooperi,219,Near-threatened
+Eastern Wood-Pewee,Contopus virens,220,
+Yellow-bellied Flycatcher,Empidonax flaviventris,221,
+Acadian Flycatcher,Empidonax virescens,222,Rare/Accidental
+Alder Flycatcher,Empidonax alnorum,223,
+Willow Flycatcher,Empidonax traillii,224,
+Least Flycatcher,Empidonax minimus,225,
+Eastern Phoebe,Sayornis phoebe,226,
+Say's Phoebe,Sayornis saya,227,Rare/Accidental
+Great Crested Flycatcher,Myiarchus crinitus,228,
+Western Kingbird,Tyrannus verticalis,229,Rare/Accidental
+Eastern Kingbird,Tyrannus tyrannus,230,
+Scissor-tailed Flycatcher,Tyrannus forficatus,231,Rare/Accidental
+Fork-tailed Flycatcher,Tyrannus savana,232,Rare/Accidental
+Loggerhead Shrike,Lanius ludovicianus,233,Rare/Accidental Near-threatened
+Northern Shrike,Lanius borealis,234,
+White-eyed Vireo,Vireo griseus,235,Rare/Accidental
+Yellow-throated Vireo,Vireo flavifrons,236,
+Cassin's Vireo,Vireo cassinii,237,Rare/Accidental
+Blue-headed Vireo,Vireo solitarius,238,
+Philadelphia Vireo,Vireo philadelphicus,239,
+Warbling Vireo,Vireo gilvus,240,
+Red-eyed Vireo,Vireo olivaceus,241,
+Gray Jay,Perisoreus canadensis,242,
+Steller's Jay,Cyanocitta stelleri,243,Rare/Accidental
+Blue Jay,Cyanocitta cristata,244,
+American Crow,Corvus brachyrhynchos,245,
+Fish Crow,Corvus ossifragus,246,
+Common Raven,Corvus corax,247,
+Horned Lark,Eremophila alpestris,248,
+Northern Rough-winged Swallow,Stelgidopteryx serripennis,249,
+Purple Martin,Progne subis,250,
+Tree Swallow,Tachycineta bicolor,251,
+Bank Swallow,Riparia riparia,252,
+Barn Swallow,Hirundo rustica,253,
+Cliff Swallow,Petrochelidon pyrrhonota,254,
+Cave Swallow,Petrochelidon fulva,255,Rare/Accidental
+Black-capped Chickadee,Poecile atricapillus,256,
+Boreal Chickadee,Poecile hudsonicus,257,
+Tufted Titmouse,Baeolophus bicolor,258,
+Red-breasted Nuthatch,Sitta canadensis,259,
+White-breasted Nuthatch,Sitta carolinensis,260,
+Brown Creeper,Certhia americana,261,
+House Wren,Troglodytes aedon,262,
+Winter Wren,Troglodytes hiemalis,263,
+Sedge Wren,Cistothorus platensis,264,
+Marsh Wren,Cistothorus palustris,265,
+Carolina Wren,Thryothorus ludovicianus,266,
+Bewick's Wren,Thryomanes bewickii,267,Rare/Accidental
+Blue-gray Gnatcatcher,Polioptila caerulea,268,
+Golden-crowned Kinglet,Regulus satrapa,269,
+Ruby-crowned Kinglet,Regulus calendula,270,
+Northern Wheatear,Oenanthe oenanthe,271,Rare/Accidental
+Eastern Bluebird,Sialia sialis,272,
+Mountain Bluebird,Sialia currucoides,273,Rare/Accidental
+Townsend's Solitaire,Myadestes townsendi,274,Rare/Accidental
+Veery,Catharus fuscescens,275,
+Gray-cheeked Thrush,Catharus minimus,276,
+Bicknell's Thrush,Catharus bicknelli,277,Vulnerable
+Swainson's Thrush,Catharus ustulatus,278,
+Hermit Thrush,Catharus guttatus,279,
+Wood Thrush,Hylocichla mustelina,280,Near-threatened
+American Robin,Turdus migratorius,281,
+Varied Thrush,Ixoreus naevius,282,Rare/Accidental
+Gray Catbird,Dumetella carolinensis,283,
+Brown Thrasher,Toxostoma rufum,284,
+Northern Mockingbird,Mimus polyglottos,285,
+European Starling,Sturnus vulgaris,286,Introduced species
+American Pipit,Anthus rubescens,287,
+Bohemian Waxwing,Bombycilla garrulus,288,
+Cedar Waxwing,Bombycilla cedrorum,289,
+Lapland Longspur,Calcarius lapponicus,290,
+Smith's Longspur,Calcarius pictus,291,Rare/Accidental
+Snow Bunting,Plectrophenax nivalis,292,
+Ovenbird,Seiurus aurocapilla,293,
+Worm-eating Warbler,Helmitheros vermivorum,294,Rare/Accidental
+Louisiana Waterthrush,Parkesia motacilla,295,
+Northern Waterthrush,Parkesia noveboracensis,296,
+Golden-winged Warbler,Vermivora chrysoptera,297,Near-threatened
+Blue-winged Warbler,Vermivora cyanoptera,298,
+Black-and-white Warbler,Mniotilta varia,299,
+Prothonotary Warbler,Protonotaria citrea,300,Rare/Accidental
+Tennessee Warbler,Oreothlypis peregrina,301,
+Orange-crowned Warbler,Oreothlypis celata,302,
+Nashville Warbler,Oreothlypis ruficapilla,303,
+Connecticut Warbler,Oporornis agilis,304,
+Mourning Warbler,Geothlypis philadelphia,305,
+Kentucky Warbler,Geothlypis formosa,306,Rare/Accidental
+Common Yellowthroat,Geothlypis trichas,307,
+Hooded Warbler,Setophaga citrina,308,Rare/Accidental
+American Redstart,Setophaga ruticilla,309,
+Cape May Warbler,Setophaga tigrina,310,
+Cerulean Warbler,Setophaga cerulea,311,Vulnerable
+Northern Parula,Setophaga americana,312,
+Magnolia Warbler,Setophaga magnolia,313,
+Bay-breasted Warbler,Setophaga castanea,314,
+Blackburnian Warbler,Setophaga fusca,315,
+Yellow Warbler,Setophaga petechia,316,
+Chestnut-sided Warbler,Setophaga pensylvanica,317,
+Blackpoll Warbler,Setophaga striata,318,
+Black-throated Blue Warbler,Setophaga caerulescens,319,
+Palm Warbler,Setophaga palmarum,320,
+Pine Warbler,Setophaga pinus,321,
+Yellow-rumped Warbler,Setophaga coronata,322,
+Yellow-throated Warbler,Setophaga dominica,323,Rare/Accidental
+Prairie Warbler,Setophaga discolor,324,
+Black-throated Green Warbler,Setophaga virens,325,
+Canada Warbler,Cardellina canadensis,326,
+Wilson's Warbler,Cardellina pusilla,327,
+Grasshopper Sparrow,Ammodramus savannarum,328,
+Henslow's Sparrow,Ammodramus henslowii,329,Rare/Accidental Near-threatened
+LeConte's Sparrow,Ammodramus leconteii,330,Rare/Accidental
+Nelson's Sparrow,Ammodramus nelsoni,331,
+American Tree Sparrow,Spizelloides arborea,332,
+Chipping Sparrow,Spizella passerina,333,
+Clay-colored Sparrow,Spizella pallida,334,
+Field Sparrow,Spizella pusilla,335,
+Lark Sparrow,Chondestes grammacus,336,Rare/Accidental
+Lark Bunting,Calamospiza melanocorys,337,Rare/Accidental
+Fox Sparrow,Passerella iliaca,338,
+Dark-eyed Junco,Junco hyemalis,339,
+White-crowned Sparrow,Zonotrichia leucophrys,340,
+Golden-crowned Sparrow,Zonotrichia atricapilla,341,Rare/Accidental
+Harris's Sparrow,Zonotrichia querula,342,Rare/Accidental
+White-throated Sparrow,Zonotrichia albicollis,343,
+Vesper Sparrow,Pooecetes gramineus,344,
+Savannah Sparrow,Passerculus sandwichensis,345,
+Song Sparrow,Melospiza melodia,346,
+Lincoln's Sparrow,Melospiza lincolnii,347,
+Swamp Sparrow,Melospiza georgiana,348,
+Green-tailed Towhee,Pipilo chlorurus,349,Rare/Accidental
+Spotted Towhee,Pipilo maculatus,350,Rare/Accidental
+Eastern Towhee,Pipilo erythrophthalmus,351,
+Yellow-breasted Chat,Icteria virens,352,Rare/Accidental
+Summer Tanager,Piranga rubra,353,Rare/Accidental
+Scarlet Tanager,Piranga olivacea,354,
+Western Tanager,Piranga ludoviciana,355,Rare/Accidental
+Northern Cardinal,Cardinalis cardinalis,356,
+Rose-breasted Grosbeak,Pheucticus ludovicianus,357,
+Black-headed Grosbeak,Pheucticus melanocephalus,358,Rare/Accidental
+Blue Grosbeak,Passerina caerulea,359,Rare/Accidental
+Indigo Bunting,Passerina cyanea,360,
+Painted Bunting,Passerina ciris,361,Rare/Accidental Near-threatened
+Dickcissel,Spiza americana,362,Rare/Accidental
+Yellow-headed Blackbird,Xanthocephalus xanthocephalus,363,Rare/Accidental
+Bobolink,Dolichonyx oryzivorus,364,
+Western Meadowlark,Sturnella neglecta,365,Rare/Accidental
+Eastern Meadowlark,Sturnella magna,366,
+Orchard Oriole,Icterus spurius,367,
+Bullock's Oriole,Icterus bullockii,368,Rare/Accidental
+Baltimore Oriole,Icterus galbula,369,
+Red-winged Blackbird,Agelaius phoeniceus,370,
+Brown-headed Cowbird,Molothrus ater,371,
+Rusty Blackbird,Euphagus carolinus,372,Vulnerable
+Brewer's Blackbird,Euphagus cyanocephalus,373,Rare/Accidental
+Common Grackle,Quiscalus quiscula,374,
+Evening Grosbeak,Coccothraustes vespertinus,375,
+Pine Grosbeak,Pinicola enucleator,376,
+House Finch,Haemorhous mexicanus,377,
+Purple Finch,Haemorhous purpureus,378,
+Common Redpoll,Acanthis flammea,379,
+Hoary Redpoll,Acanthis hornemanni,380,Rare/Accidental
+Red Crossbill,Loxia curvirostra,381,
+White-winged Crossbill,Loxia leucoptera,382,
+Pine Siskin,Spinus pinus,383,
+American Goldfinch,Spinus tristis,384,
+House Sparrow,Passer domesticus,385,Introduced species
