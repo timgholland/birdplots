@@ -80,6 +80,13 @@ S39495883,Canada Goose,Branta canadensis,277,4,US-CA,San Mateo,Half Moon Bay SB-
 S23826345,Canada Goose,Branta canadensis,277,22,CA-ON,Toronto,"Sunnyside Beach, Parkdale",43.63632,-79.448859,06-07-2015,03:40 PM,eBird - Casual Observation,0,1,,,1,,,"Sitting at the picnic table talking. Cool, cloudy day <br />Submitted from BirdLog NA for iOS, version 1.8"
 S28407525,Canada Goose,Branta canadensis,277,200,CA-QC,Vaudreuil-Soulanges,CA-QC-Saint-Zotique-627-799 69e Avenue - 45.2356x-74.3116,45.235562,-74.311559,03-18-2016,11:29 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S41016856,Cackling/Canada Goose,Branta hutchinsii/canadensis,288,2,US-CA,Contra Costa,Meeker Slough,37.9101431,-122.3369694,12-10-2017,06:57 AM,eBird - Traveling Count,37,1,.448,,3,,"Two geese that were near a larger flock of Canada Geese, but stayed somewhat separate. An ID discussion at BirdForum.net (link: http://www.birdforum.net/showthread.php?t&#61;354458 ) did not settle the question - several commenters said they were too intermediate to conclusively determine Cackling vs. Canada, while some others said they were good for Canada. So probably Canada (but likely migratory type rather than resident), but I will leave at Cackling/Canada ID for now to be conservative."
+S45647586,Hawaiian Goose,Branta sandvicensis,289,4,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45751580,Hawaiian Goose,Branta sandvicensis,289,4,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Hawaiian Goose,Branta sandvicensis,289,2,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
+S45751599,Hawaiian Goose,Branta sandvicensis,289,2,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Hawaiian Goose,Branta sandvicensis,289,2,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S45647656,Hawaiian Goose,Branta sandvicensis,289,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
+S45610499,Hawaiian Goose,Branta sandvicensis,289,35,US-HI,Kauai,"Princeville at Hanalei Makai Course, Princeville US-HI (22.2231,-159.4844)",22.223075,-159.4844,05-12-2018,02:02 PM,eBird - Casual Observation,,0,,,1
 S23045946,Mute Swan,Cygnus olor,296,1,US-NY,Kings,Prospect Park,40.6602841,-73.9689534,04-24-2015,04:25 PM,eBird - Traveling Count,50,1,2,,2
 S32113631,Tundra Swan,Cygnus columbianus,302,6,CA-NT,Inuvik,CA-NWT Anderson River (lower),69.25198,-128.426845,07-28-2004,,eBird - Casual Observation,0,0
 S32113417,Tundra Swan,Cygnus columbianus,302,1,CA-NT,Inuvik,Lac Maunoir,67.433138,-125.147788,07-09-2004,,eBird - Casual Observation,0,0
@@ -161,6 +168,7 @@ S23614621,American Wigeon,Mareca americana,386,1,CA-QC,Montréal,Parc des Rapide
 S24107085,American Wigeon,Mareca americana,386,5,CA-QC,Montréal,Parc des Rapides,45.4277985,-73.5921872,06-30-2015,04:45 PM,eBird - Traveling Count,60,1,.5,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S25106161,American Wigeon,Mareca americana,386,20,CA-QC,Montréal,Parc des Rapides,45.4277985,-73.5921872,09-20-2015,12:05 PM,eBird - Traveling Count,40,1,1.609,,1,,,"<br />Submitted from eBird for iOS, version 1.1.2 Build 27"
 S24859639,Yellow-billed Duck,Anas undulata,392,X,UG-C,,Lake Nabugabo,-.353368,31.877845,06-10-2005,,Historical,0,0,,,1
+S45647586,Hawaiian Duck,Anas wyvilliana,395.3,9,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
 S35141513,Mallard,Anas platyrhynchos,396,11,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
 S42096301,Mallard,Anas platyrhynchos,396,2,US-CA,Alameda,Albany Mudflats,37.892331,-122.3117995,01-20-2018,10:55 AM,eBird - Traveling Count,27,1,1.407,,1
 S41726994,Mallard,Anas platyrhynchos,396,23,US-CA,Alameda,Berkeley Aquatic Park,37.855813,-122.2977448,01-07-2018,02:53 PM,eBird - Traveling Count,79,1,2.216,,1
@@ -330,7 +338,7 @@ S33066862,Surf Scoter,Melanitta perspicillata,530,150,US-CA,Marin,Pt. Reyes--Lim
 S34213579,Surf Scoter,Melanitta perspicillata,530,12,US-CA,Marin,Pt. Reyes--Limantour Beach,38.0249882,-122.883153,02-03-2017,12:54 PM,eBird - Traveling Count,60,1,2.414,,1
 S28727927,Surf Scoter,Melanitta perspicillata,530,6,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S42274371,Surf Scoter,Melanitta perspicillata,530,14,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
-S44566642,Surf Scoter,Melanitta perspicillata,530,1,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Surf Scoter,Melanitta perspicillata,530,1,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S23560385,White-winged Scoter,Melanitta fusca,531,X,CA-NT,Inuvik,Ross River,67.376532,-125.72902,07-04-2004,,Historical,0,0,,,1
 S24594910,White-winged Scoter,Melanitta fusca,531,500,CA-QC,La Matanie,East of Baie des Sables,48.729603,-67.885062,08-12-2015,04:07 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S44681922,Black Scoter,Melanitta americana,537,X,US-CA,Sonoma,Bodega Bay--Gaffney Pt. - includes Marine Lab and residence entrances,38.3150602,-123.0578613,04-14-2018,11:45 AM,eBird - Casual Observation,,0,,,1,,,driving
@@ -438,6 +446,7 @@ S36812560,California Quail,Callipepla californica,786,2,US-CA,Marin,US-CA-Invern
 S40453230,California Quail,Callipepla californica,786,25,US-CA,Marin,William Page Shields Salt Marsh--study area,38.08845,-122.84142,11-11-2017,08:55 AM,eBird - Stationary Count,50,1,,,3
 S28840443,Tibetan Snowcock,Tetraogallus tibetanus,1092,X,NP-4,,Gokyo Ri,27.958339,86.682482,05-05-2010,,Historical,0,0,,,1
 S23560487,Red-necked Francolin,Pternistis afer,1169,X,UG-W,,Queen Elizabeth Park (drive),-.159148,29.915302,06-08-2005,,Historical,0,0,,,1
+S45610367,Red Junglefowl,Gallus gallus,1200,3,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
 S28840439,Himalayan Monal,Lophophorus impejanus,1273,2,NP-4,,Valley above Thame,27.830591,86.645218,04-30-2010,,Historical,0,0,,,1
 S25469207,Ruffed Grouse,Bonasa umbellus,1443,1,US-NY,Essex,Elk Lake Road,43.990968,-73.830938,10-18-2015,07:45 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.3 Build 30"
 S28990822,Ruffed Grouse,Bonasa umbellus,1443,1,US-NY,Essex,Trail to Mt. Baker,44.332982,-74.114867,04-16-2016,04:27 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
@@ -449,6 +458,7 @@ S42680473,Wild Turkey,Meleagris gallopavo,1553,8,US-CA,Alameda,"1002–1054 San 
 S43404521,Wild Turkey,Meleagris gallopavo,1553,1,US-CA,Alameda,Allston and Sacramento intersection,37.8672537,-122.2819185,03-05-2018,08:45 AM,eBird - Casual Observation,,0,,,1,,Walking along the fence of the house on the SW corner of Sacramento and Allston (the yellow one)
 S44242752,Wild Turkey,Meleagris gallopavo,1553,1,US-CA,Alameda,Becky Temko Park,37.863678,-122.275967,04-04-2018,08:18 AM,eBird - Casual Observation,,0,,,1
 S42928065,Wild Turkey,Meleagris gallopavo,1553,1,US-CA,Alameda,Claremont Canyon Regional Preserve,37.86613,-122.239573,02-18-2018,06:50 AM,eBird - Traveling Count,78,1,2.122,,1,,Heard
+S45552681,Wild Turkey,Meleagris gallopavo,1553,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-11-2018,08:48 AM,eBird - Traveling Count,20,1,.37,,1
 S43343906,Wild Turkey,Meleagris gallopavo,1553,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,03-03-2018,10:07 AM,eBird - Traveling Count,27,1,.823,,1
 S37543033,Wild Turkey,Meleagris gallopavo,1553,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-10-2017,07:30 PM,eBird - Casual Observation,,0
 S37525135,Wild Turkey,Meleagris gallopavo,1553,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,05:50 AM,eBird - Traveling Count,56,1,1.5,,1
@@ -558,6 +568,9 @@ S34002314,Western/Clark's Grebe,Aechmophorus occidentalis/clarkii,1640,1,US-CA,M
 S42274371,Western/Clark's Grebe,Aechmophorus occidentalis/clarkii,1640,10,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
 S39494083,Western/Clark's Grebe,Aechmophorus occidentalis/clarkii,1640,7,US-CA,San Mateo,Half Moon Bay SB--Francis Beach,37.4688976,-122.4458456,10-01-2017,06:45 AM,eBird - Stationary Count,95,1,,,1
 S28840453,Chilean Flamingo,Phoenicopterus chilensis,1641.5,X,PE-ANC,,PE-AN Lake on highway between Huaraz and Huayhuash,-10.12903,-77.275572,06-08-2013,,Historical,0,0,,,1
+S45751583,Laysan Albatross,Phoebastria immutabilis,1709,10,US-HI,Kauai,"3581–3599 Keoniana Rd, Princeville US-HI (22.2276,-159.4774)",22.227634,-159.477418,05-15-2018,09:26 AM,eBird - Casual Observation,,0,,,1
+S45751599,Laysan Albatross,Phoebastria immutabilis,1709,6,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Laysan Albatross,Phoebastria immutabilis,1709,4,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
 S39153243,Black-footed Albatross,Phoebastria nigripes,1711,2,US-CA,Monterey,"US-North Pacific Ocean (36.6514,-122.2471)",36.651363,-122.247107,09-10-2017,12:00 PM,eBird - Traveling Count,60,1,10.98,,28,,,SST 62.4; depth - 800 fathoms    Painted Lady - 1    HUWH - 1
 S39153236,Black-footed Albatross,Phoebastria nigripes,1711,2,US-CA,Monterey,"US-North Pacific Ocean (36.6869,-122.0969)",36.68694,-122.096932,09-10-2017,01:00 PM,eBird - Traveling Count,60,1,14.33,,28,,,SST 64.2 F; depth 1000 fathoms
 S39153239,Black-footed Albatross,Phoebastria nigripes,1711,1,US-CA,Monterey,"US-Pacific Ocean (36.6416,-121.9759)",36.641583,-121.975877,09-10-2017,09:00 AM,eBird - Traveling Count,60,1,24.8,,28,,,SST 64.7; depth 40 fathoms     HUWH - 1
@@ -568,6 +581,8 @@ S39153243,Pink-footed Shearwater,Ardenna creatopus,1810,5,US-CA,Monterey,"US-Nor
 S39153236,Pink-footed Shearwater,Ardenna creatopus,1810,7,US-CA,Monterey,"US-North Pacific Ocean (36.6869,-122.0969)",36.68694,-122.096932,09-10-2017,01:00 PM,eBird - Traveling Count,60,1,14.33,,28,,,SST 64.2 F; depth 1000 fathoms
 S39153234,Pink-footed Shearwater,Ardenna creatopus,1810,6,US-CA,Monterey,"US-North Pacific Ocean (36.7151,-122.0677)",36.715149,-122.067736,09-10-2017,02:00 PM,eBird - Traveling Count,60,1,4.15,,28,,,SST 62.7F; depth 750 fathoms    BLWH - 2
 S39153239,Pink-footed Shearwater,Ardenna creatopus,1810,7,US-CA,Monterey,"US-Pacific Ocean (36.6416,-121.9759)",36.641583,-121.975877,09-10-2017,09:00 AM,eBird - Traveling Count,60,1,24.8,,28,,,SST 64.7; depth 40 fathoms     HUWH - 1
+S45751599,Wedge-tailed Shearwater,Ardenna pacifica,1814,12,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Wedge-tailed Shearwater,Ardenna pacifica,1814,6,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
 S39153238,Buller's Shearwater,Ardenna bulleri,1815,4,US-CA,Monterey,"US-North Pacific Ocean (36.5671,-122.2449)",36.567078,-122.244903,09-10-2017,11:00 AM,eBird - Traveling Count,60,1,24.9,,28,,,SST 61.7 F - depth 1300 fathoms    FIWH - 1
 S39153245,Buller's Shearwater,Ardenna bulleri,1815,14,US-CA,Monterey,"US-North Pacific Ocean (36.5884,-122.0891)",36.588387,-122.089144,09-10-2017,10:00 AM,eBird - Traveling Count,60,1,11.75,,28,,,SST 63.5 F; depth 700 fathoms 
 S39153243,Buller's Shearwater,Ardenna bulleri,1815,2,US-CA,Monterey,"US-North Pacific Ocean (36.6514,-122.2471)",36.651363,-122.247107,09-10-2017,12:00 PM,eBird - Traveling Count,60,1,10.98,,28,,,SST 62.4; depth - 800 fathoms    Painted Lady - 1    HUWH - 1
@@ -583,6 +598,11 @@ S39153246,Black-vented Shearwater,Puffinus opisthomelas,1830,1,US-CA,Monterey,Mo
 S39153241,Black-vented Shearwater,Puffinus opisthomelas,1830,25,US-CA,Monterey,"US-CA-Monterey Bay (36.6377,-121.9188)",36.637673,-121.918827,09-10-2017,08:01 AM,eBird - Traveling Count,59,1,2.4,,28,,,"SST 65.0    HUWH - 6    ~5,000 SOSH off pinos"
 S39153239,Black-vented Shearwater,Puffinus opisthomelas,1830,2,US-CA,Monterey,"US-Pacific Ocean (36.6416,-121.9759)",36.641583,-121.975877,09-10-2017,09:00 AM,eBird - Traveling Count,60,1,24.8,,28,,,SST 64.7; depth 40 fathoms     HUWH - 1
 S24859656,Wilson's Storm-Petrel,Oceanites oceanicus,1857,X,US-MA,Barnstable,US-MA Boat near Monomoy,41.534965,-69.992305,07-02-2011,,Historical,0,0,,,1
+S45751599,White-tailed Tropicbird,Phaethon lepturus,1924,8,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,White-tailed Tropicbird,Phaethon lepturus,1924,1,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S45669379,White-tailed Tropicbird,Phaethon lepturus,1924,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
+S45751599,Red-tailed Tropicbird,Phaethon rubricauda,1935,30,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Red-tailed Tropicbird,Phaethon rubricauda,1935,15,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
 S28841580,Woolly-necked Stork,Ciconia episcopus,1941.16,2,UG-C,,Lwamunda Lagoon,-.417696,31.878892,06-13-2005,,Historical,0,0,,,1
 S23560489,Saddle-billed Stork,Ephippiorhynchus senegalensis,1941.4,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
 S28841580,Saddle-billed Stork,Ephippiorhynchus senegalensis,1941.4,1,UG-C,,Lwamunda Lagoon,-.417696,31.878892,06-13-2005,,Historical,0,0,,,1
@@ -594,7 +614,15 @@ S45079125,Magnificent Frigatebird,Fregata magnificens,1941.76,1,US-FL,Lee,Boatin
 S35605064,Magnificent Frigatebird,Fregata magnificens,1941.76,1,US-FL,Lee,US-FL-Boca Grande beach by Seybolts,26.744807,-82.264312,04-01-2017,10:45 AM,eBird - Casual Observation,,0,,,1
 S45077041,Magnificent Frigatebird,Fregata magnificens,1941.76,6,US-FL,Lee,US-FL-Boca Grande-103 Useppa Is - 26.6637x-82.2110,26.66371,-82.211009,04-29-2018,01:32 PM,eBird - Traveling Count,30,1,.8,,1
 S23635625,Magnificent Frigatebird,Fregata magnificens,1941.76,X,PA-8,,Panama Canal,8.996954,-79.591326,01-08-2014,,Historical,0,0,,,1
+S45751599,Great Frigatebird,Fregata minor,1941.8,10,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Great Frigatebird,Fregata minor,1941.8,6,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S45627723,Great Frigatebird,Fregata minor,1941.8,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,05:27 PM,eBird - Casual Observation,,0,,,1
+S45669379,Great Frigatebird,Fregata minor,1941.8,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
 S28840459,Blue-footed Booby,Sula nebouxii,1950,1,PE-LIM,,Fisherman's wharf Chorillos,-12.165367,-77.029916,06-19-2012,,Historical,0,0,,,1
+S45751718,Brown Booby,Sula leucogaster,1954,8,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S45805933,Brown Booby,Sula leucogaster,1954,1,US-HI,Kauai,Polihale State Park,22.0787999,-159.7635269,05-18-2018,10:31 AM,eBird - Casual Observation,,0,,,1,,Diving off the north end of the beach
+S45751599,Red-footed Booby,Sula sula,1959,800,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Red-footed Booby,Sula sula,1959,800,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
 S24605171,Northern Gannet,Morus bassanus,1964,8,CA-QC,La Côte-de-Gaspé,CA-QC-Gaspé-Parc National De Forillon - 48.7599x-64.1836,48.759896,-64.1836,08-13-2015,12:59 PM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S24605167,Northern Gannet,Morus bassanus,1964,1,CA-QC,La Côte-de-Gaspé,PN Forillon--L'Anse-aux-Amérindiens,48.7700675,-64.1967575,08-13-2015,12:10 PM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S24598042,Northern Gannet,Morus bassanus,1964,5,CA-QC,La Côte-de-Gaspé,Pebble Beach by des Rosiers camping,48.822601,-64.222487,08-13-2015,08:15 AM,eBird - Traveling Count,45,1,1.5,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
@@ -612,7 +640,7 @@ S39282701,Pelagic Cormorant,Phalacrocorax pelagicus,1984.02,2,US-CA,Monterey,Mon
 S39153246,Pelagic Cormorant,Phalacrocorax pelagicus,1984.02,3,US-CA,Monterey,Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.),36.6217017,-121.9037615,09-10-2017,07:31 AM,eBird - Traveling Count,32,1,5.8,,28,,,SST 65.6
 S28727927,Pelagic Cormorant,Phalacrocorax pelagicus,1984.02,1,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S39496949,Pelagic Cormorant,Phalacrocorax pelagicus,1984.02,1,US-CA,San Mateo,Half Moon Bay SB--Francis Beach,37.4688976,-122.4458456,10-01-2017,10:30 AM,eBird - Casual Observation,,0,,,1
-S44566642,Pelagic Cormorant,Phalacrocorax pelagicus,1984.02,8,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Pelagic Cormorant,Phalacrocorax pelagicus,1984.02,8,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S23560489,Great Cormorant,Phalacrocorax carbo,1984.04,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2,,Great Cormorant (White-breasted)
 S28840458,Neotropic Cormorant,Phalacrocorax brasilianus,1985,X,PE-LIM,,Larco Mar,-12.13326,-77.031494,06-18-2012,,Historical,0,0,,,1
 S35141513,Double-crested Cormorant,Phalacrocorax auritus,1988,4,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
@@ -892,6 +920,13 @@ S35544434,Tricolored Heron,Egretta tricolor,2174,1,US-FL,Lee,US-FL-Boca Grande-1
 S44994910,Tricolored Heron,Egretta tricolor,2174,1,US-FL,Sarasota,Myakka River SP--Birdwalk,27.2763735,-82.2702599,04-27-2018,08:25 AM,eBird - Traveling Count,44,1,.609,,1
 S44994898,Tricolored Heron,Egretta tricolor,2174,1,US-FL,Sarasota,Myakka River SP--boat ramp area,27.2657309,-82.2901297,04-27-2018,09:20 AM,eBird - Traveling Count,66,1,1.523,,1
 S23635622,Tricolored Heron,Egretta tricolor,2174,X,PA-8,,Casco Viejo,8.9509664,-79.5323519,01-11-2014,,Historical,0,0,,,1
+S45647586,Cattle Egret,Bubulcus ibis,2183,3,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45653576,Cattle Egret,Bubulcus ibis,2183,1,US-HI,Kauai,"Hanalei Beach Park Pavilion, Princeville US-HI (22.2067,-159.4979)",22.206659,-159.497911,05-13-2018,07:40 AM,eBird - Traveling Count,57,1,1.635,,1
+S45751580,Cattle Egret,Bubulcus ibis,2183,2,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Cattle Egret,Bubulcus ibis,2183,1,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
+S45751599,Cattle Egret,Bubulcus ibis,2183,1,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45610367,Cattle Egret,Bubulcus ibis,2183,3,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45647656,Cattle Egret,Bubulcus ibis,2183,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
 S45037039,Cattle Egret,Bubulcus ibis,2183,2,US-FL,Lee,Boca Grande,26.751675,-82.261489,04-28-2018,09:35 AM,eBird - Casual Observation,,0,,,1,,,Species I saw throughout the day. I wasn’t focused on birding
 S44994898,Cattle Egret,Bubulcus ibis,2183,2,US-FL,Sarasota,Myakka River SP--boat ramp area,27.2657309,-82.2901297,04-27-2018,09:20 AM,eBird - Traveling Count,66,1,1.523,,1
 S24858846,Cattle Egret,Bubulcus ibis,2183,X,UG-W,,Lake Saka,.688499,30.234278,05-28-2005,,Historical,0,0,,,1
@@ -908,6 +943,10 @@ S43183872,Black-crowned Night-Heron,Nycticorax nycticorax,2233,1,US-CA,Alameda,T
 S41602366,Black-crowned Night-Heron,Nycticorax nycticorax,2233,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,01-03-2018,06:35 PM,eBird - Casual Observation,,0,,,1
 S41808842,Black-crowned Night-Heron,Nycticorax nycticorax,2233,2,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,01-10-2018,06:48 PM,eBird - Stationary Count,7,0,,,1,,1ad 1juv
 S23635872,Black-crowned Night-Heron,Nycticorax nycticorax,2233,X,CA-QC,Beauharnois-Salaberry,Valleyfield Rapids,45.260325,-74.128165,10-17-2006,,Historical,0,0,,,1
+S45647586,Black-crowned Night-Heron,Nycticorax nycticorax,2233,1,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45653556,Black-crowned Night-Heron,Nycticorax nycticorax,2233,2,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-13-2018,01:51 PM,eBird - Casual Observation,,0,,,1
+S45751580,Black-crowned Night-Heron,Nycticorax nycticorax,2233,4,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Black-crowned Night-Heron,Nycticorax nycticorax,2233,1,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
 S39153233,Black-crowned Night-Heron,Nycticorax nycticorax,2233,1,US-CA,Monterey,Monterey Harbor,36.6063012,-121.8912935,09-10-2017,07:10 AM,eBird - Traveling Count,28,1,.58,,28
 S23089788,Black-crowned Night-Heron,Nycticorax nycticorax,2233,1,US-NY,New York,Central Park--The Ramble,40.7771162,-73.9695739,04-27-2015,06:19 AM,eBird - Traveling Count,120,1,1.996,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S29866810,Black-crowned Night-Heron,Nycticorax nycticorax,2233,4,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-23-2016,05:21 AM,eBird - Traveling Count,212,1,6,,1,,on reservoir,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
@@ -1014,7 +1053,7 @@ S29559321,Turkey Vulture,Cathartes aura,2362,4,CA-QC,Montréal,Parc du Mt-Royal,
 S29604282,Turkey Vulture,Cathartes aura,2362,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S40892270,Turkey Vulture,Cathartes aura,2362,3,US-CA,Sacramento,Cosumnes River Preserve,38.2658235,-121.4394915,12-03-2017,09:25 AM,eBird - Traveling Count,205,1,3,,3
 S44994898,Turkey Vulture,Cathartes aura,2362,40,US-FL,Sarasota,Myakka River SP--boat ramp area,27.2657309,-82.2901297,04-27-2018,09:20 AM,eBird - Traveling Count,66,1,1.523,,1
-S44566642,Turkey Vulture,Cathartes aura,2362,3,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Turkey Vulture,Cathartes aura,2362,3,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S41525304,Turkey Vulture,Cathartes aura,2362,2,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S37427449,Turkey Vulture,Cathartes aura,2362,3,US-CA,Sonoma,US-CA Forestville Beach,38.510608,-122.923814,06-03-2017,02:30 PM,eBird - Stationary Count,75,1,,,1
 S37427412,Turkey Vulture,Cathartes aura,2362,2,US-CA,Sonoma,US-CA Hayward Family Winery,38.48423,-122.90927,06-03-2017,12:29 PM,eBird - Stationary Count,60,1,,,1
@@ -1028,6 +1067,7 @@ S35564333,Andean Condor,Vultur gryphus,2373,2,PE-ANC,,PE-AN Above Jauacocha and 
 S28840395,King Vulture,Sarcoramphus papa,2374,X,PE-SAM,,Las Palmas to northeast (LP09),-7.5593,-76.22635,08-08-2013,,Historical,0,0,,,1
 S29463115,Osprey,Pandion haliaetus,2376,2,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,05-07-2016,06:00 AM,eBird - Traveling Count,240,1,4.828,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S43292411,Osprey,Pandion haliaetus,2376,1,US-CA,Alameda,Middle Harbor Shoreline Park,37.8054779,-122.3259401,03-01-2018,09:41 AM,eBird - Traveling Count,51,1,1.5,,1
+S45284551,Osprey,Pandion haliaetus,2376,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-04-2018,07:48 AM,eBird - Casual Observation,,0,,,1,F Flyover,Circling high and calling. Further from shore than I’ve seen one in Berkeley before
 S23559401,Osprey,Pandion haliaetus,2376,X,CA-AB,Banff,CA-AB Johnston Canyon,51.250838,-115.837846,09-11-2004,,Historical,0,0,,,1
 S30506391,Osprey,Pandion haliaetus,2376,3,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,NY,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S24122021,Osprey,Pandion haliaetus,2376,1,US-MA,Barnstable,US-MA Seybolt Beach House,41.667793,-69.973153,07-02-2015,10:36 AM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
@@ -1087,10 +1127,11 @@ S33066862,Northern Harrier,Circus hudsonius,2657,1,US-CA,Marin,Pt. Reyes--Limant
 S43378855,Northern Harrier,Circus hudsonius,2657,1,US-CA,Marin,Rodeo Lagoon,37.8304863,-122.5329514,03-04-2018,10:22 AM,eBird - Casual Observation,,0,,,1
 S44346306,Northern Harrier,Circus hudsonius,2657,1,US-CA,Marin,Tomales Bay SP--Millerton Pt.,38.1084588,-122.8448939,04-07-2018,03:15 PM,eBird - Traveling Count,89,1,1.056,,1
 S40892270,Northern Harrier,Circus hudsonius,2657,2,US-CA,Sacramento,Cosumnes River Preserve,38.2658235,-121.4394915,12-03-2017,09:25 AM,eBird - Traveling Count,205,1,3,,3
-S44566642,Northern Harrier,Circus hudsonius,2657,1,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Northern Harrier,Circus hudsonius,2657,1,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S23559397,Sharp-shinned Hawk,Accipiter striatus,2807,X,CA-AB,Banff,CA-AB Wonder Peak,50.894699,-115.560867,09-27-2004,,Historical,0,0,,,1
 S37025408,Sharp-shinned Hawk,Accipiter striatus,2807,2,US-CA,Contra Costa,US-CA-Orinda-Redwood Bowl,37.817995,-122.17838,05-20-2017,03:09 PM,eBird - Traveling Count,80,1,4.828,,1,CN Carrying Nesting Material,"Good sighting. ID (relative to Cooper's) based on size, dark nape (""hood"" more than ""cap""), relatively squared tail, and hearing the alarm call (presumably near nest - two birds present). Compared alarm call heard against recordings on both Sibley App and on Cornell website and sound was much better match to Sharpie over Cooper's.",Walking with my wife and (baby) daughter so wasn't quite as focused on birds as I might otherwise be.
 S32974659,Cooper's Hawk,Accipiter cooperii,2821,1,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,12-11-2016,03:09 PM,eBird - Traveling Count,60,1,2.414,,1
+S45461689,Cooper's Hawk,Accipiter cooperii,2821,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
 S39091717,Cooper's Hawk,Accipiter cooperii,2821,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S44835030,Cooper's Hawk,Accipiter cooperii,2821,1,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
 S43725092,Cooper's Hawk,Accipiter cooperii,2821,1,US-CA,Contra Costa,Tilden Nature Area,37.9147478,-122.2617302,03-17-2018,10:43 AM,eBird - Traveling Count,25,1,.7,,1
@@ -1137,6 +1178,9 @@ S43209656,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Gro
 S43410164,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-05-2018,01:15 PM,eBird - Traveling Count,30,1,.809,,1,,Heard
 S43455174,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1,,Heard only (briefly)
 S44244737,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-04-2018,09:54 AM,eBird - Casual Observation,,0,,,1
+S45249965,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
+S45461689,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45531330,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1,,"Perched low, seemingly harassed by a Robin that followed closely after it took off"
 S40977737,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,12-08-2017,12:18 PM,eBird - Traveling Count,89,1,.773,,1
 S34647408,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,"US-CA-Berkeley-University of California, Berkeley - 37.8726x-122.2629",37.872562,-122.262893,02-21-2017,04:58 PM,eBird - Casual Observation,,0,,,1
 S42521090,Red-shouldered Hawk,Buteo lineatus,2959,1,US-CA,Alameda,"University of California, Berkeley, Berkeley US-CA (37.8729,-122.2618)",37.872857,-122.261764,02-05-2018,12:37 PM,eBird - Traveling Count,22,1,1.255,,1
@@ -1212,11 +1256,16 @@ S28841546,Eurasian Moorhen,Gallinula chloropus,3577,X,PE-SAM,,Rice paddies near 
 S38334503,Common Gallinule,Gallinula galeata,3583.5,1,CA-ON,Prescott and Russell,Embrun Sewage Lagoons,45.2732556,-75.2444172,07-26-2017,10:10 AM,eBird - Traveling Count,100,1,1,,3
 S44994910,Common Gallinule,Gallinula galeata,3583.5,2,US-FL,Sarasota,Myakka River SP--Birdwalk,27.2763735,-82.2702599,04-27-2018,08:25 AM,eBird - Traveling Count,44,1,.609,,1
 S44994898,Common Gallinule,Gallinula galeata,3583.5,3,US-FL,Sarasota,Myakka River SP--boat ramp area,27.2657309,-82.2901297,04-27-2018,09:20 AM,eBird - Traveling Count,66,1,1.523,,1
+S45647586,Common Gallinule (Hawaiian),Gallinula galeata sandvicensis,3591,4,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45751580,Common Gallinule (Hawaiian),Gallinula galeata sandvicensis,3591,4,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Common Gallinule (Hawaiian),Gallinula galeata sandvicensis,3591,2,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
 S35673778,Giant Coot,Fulica gigantea,3607,X,PE-HUC,,Lake Carhuacocha,-10.242645,-76.866428,06-09-2013,03:12 PM,eBird - Casual Observation,,0,,,1
 S23559382,Giant Coot,Fulica gigantea,3607,X,PE-HUC,,Lake above Carhuacocha,-10.2606415,-76.8759727,06-11-2013,10:00 AM,eBird - Casual Observation,0,0,,,1
 S23560348,Giant Coot,Fulica gigantea,3607,X,PE-ANC,,PE-AN Jahuacocha Lake,-10.238573,-76.963903,06-16-2013,,Historical,0,0,,,1
 S23559381,Giant Coot,Fulica gigantea,3607,3,PE-ANC,,PE-AN Jahuacocha Lake,-10.238573,-76.963903,06-17-2013,06:30 AM,eBird - Casual Observation,0,0,,,1
 S26000959,Eurasian Coot,Fulica atra,3609,1,CH-VD,,Lake Geneva by Montreux,46.428782,6.912449,11-25-2015,02:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.3 Build 30"
+S45647586,Hawaiian Coot,Fulica alai,3614,1,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45751580,Hawaiian Coot,Fulica alai,3614,1,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
 S35141513,American Coot,Fulica americana,3614.5,70,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
 S41871997,American Coot,Fulica americana,3614.5,20,US-CA,Alameda,Albany Mudflats,37.892331,-122.3117995,01-13-2018,11:18 AM,eBird - Stationary Count,14,1,,,1
 S42096301,American Coot,Fulica americana,3614.5,26,US-CA,Alameda,Albany Mudflats,37.892331,-122.3117995,01-20-2018,10:55 AM,eBird - Traveling Count,27,1,1.407,,1
@@ -1277,6 +1326,9 @@ S40892270,Black-necked Stilt,Himantopus mexicanus,3773,14,US-CA,Sacramento,Cosum
 S44994910,Black-necked Stilt,Himantopus mexicanus,3773,40,US-FL,Sarasota,Myakka River SP--Birdwalk,27.2763735,-82.2702599,04-27-2018,08:25 AM,eBird - Traveling Count,44,1,.609,,1
 S44994898,Black-necked Stilt,Himantopus mexicanus,3773,2,US-FL,Sarasota,Myakka River SP--boat ramp area,27.2657309,-82.2901297,04-27-2018,09:20 AM,eBird - Traveling Count,66,1,1.523,,1
 S28840385,Black-necked Stilt,Himantopus mexicanus,3773,30,PE-SAM,,Rice paddies near Picota,-6.91628,-76.305232,07-15-2012,,eBird - Casual Observation,0,0,,,1
+S45653556,Black-necked Stilt (Hawaiian),Himantopus mexicanus knudseni,3775,1,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-13-2018,01:51 PM,eBird - Casual Observation,,0,,,1
+S45751580,Black-necked Stilt (Hawaiian),Himantopus mexicanus knudseni,3775,2,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Black-necked Stilt (Hawaiian),Himantopus mexicanus knudseni,3775,1,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
 S35141513,American Avocet,Recurvirostra americana,3782,35,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
 S41015048,American Avocet,Recurvirostra americana,3782,130,US-CA,Alameda,Albany Mudflats,37.892331,-122.3117995,12-10-2017,01:01 PM,eBird - Stationary Count,5,1,,,1
 S41871997,American Avocet,Recurvirostra americana,3782,135,US-CA,Alameda,Albany Mudflats,37.892331,-122.3117995,01-13-2018,11:18 AM,eBird - Stationary Count,14,1,,,1
@@ -1301,7 +1353,7 @@ S28727927,Black Oystercatcher,Haematopus bachmani,3803,2,US-CA,San Francisco,Lan
 S42274371,Black Oystercatcher,Haematopus bachmani,3803,2,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
 S28840467,Black Oystercatcher,Haematopus bachmani,3803,X,US-CA,San Mateo,Beach by Highway 1,37.266744,-122.413093,07-21-2014,,Historical,0,0,,,1
 S44372638,Black Oystercatcher,Haematopus bachmani,3803,1,US-CA,Sonoma,Bodega Bay--Diekman's Store area,38.3333081,-123.0486131,04-08-2018,12:26 PM,eBird - Casual Observation,,0,,,1
-S44566642,Black Oystercatcher,Haematopus bachmani,3803,7,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Black Oystercatcher,Haematopus bachmani,3803,7,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S42096301,Black-bellied Plover,Pluvialis squatarola,3805.1,8,US-CA,Alameda,Albany Mudflats,37.892331,-122.3117995,01-20-2018,10:55 AM,eBird - Traveling Count,27,1,1.407,,1
 S38629759,Black-bellied Plover,Pluvialis squatarola,3805.1,200,US-CA,Alameda,Elsie Roemer Bird Sanctuary,37.7525975,-122.2473836,08-13-2017,03:00 PM,eBird - Stationary Count,28,1,,,1
 S40108254,Black-bellied Plover,Pluvialis squatarola,3805.1,150,US-CA,Alameda,Elsie Roemer Bird Sanctuary,37.7525975,-122.2473836,10-22-2017,12:58 PM,eBird - Stationary Count,15,1,,,1
@@ -1401,7 +1453,7 @@ S39282701,Black Turnstone,Arenaria melanocephala,4026,2,US-CA,Monterey,Monterey 
 S39153246,Black Turnstone,Arenaria melanocephala,4026,5,US-CA,Monterey,Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.),36.6217017,-121.9037615,09-10-2017,07:31 AM,eBird - Traveling Count,32,1,5.8,,28,,,SST 65.6
 S39153246,Surfbird,Calidris virgata,4035.2,1,US-CA,Monterey,Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.),36.6217017,-121.9037615,09-10-2017,07:31 AM,eBird - Traveling Count,32,1,5.8,,28,,,SST 65.6
 S28727927,Surfbird,Calidris virgata,4035.2,14,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
-S44566642,Surfbird,Calidris virgata,4035.2,10,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Surfbird,Calidris virgata,4035.2,10,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S40108254,Sanderling,Calidris alba,4059,5,US-CA,Alameda,Elsie Roemer Bird Sanctuary,37.7525975,-122.2473836,10-22-2017,12:58 PM,eBird - Stationary Count,15,1,,,1
 S40977737,Sanderling,Calidris alba,4059,30,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,12-08-2017,12:18 PM,eBird - Traveling Count,89,1,.773,,1
 S42094715,Sanderling,Calidris alba,4059,20,US-CA,Contra Costa,"Richmond Marina Bay Trl, Richmond US-CA (37.9091,-122.3403)",37.909079,-122.340281,01-20-2018,10:31 AM,eBird - Stationary Count,2,1,,,1
@@ -1483,6 +1535,7 @@ S38334503,Spotted Sandpiper,Actitis macularius,4139.02,3,CA-ON,Prescott and Russ
 S44994910,Spotted Sandpiper,Actitis macularius,4139.02,1,US-FL,Sarasota,Myakka River SP--Birdwalk,27.2763735,-82.2702599,04-27-2018,08:25 AM,eBird - Traveling Count,44,1,.609,,1
 S36502062,Solitary Sandpiper,Tringa solitaria,4139.05,1,US-CA,Alameda,McLaughlin Eastshore SP--Berkeley Meadow,37.8670193,-122.3102331,05-02-2017,07:17 PM,eBird - Traveling Count,63,1,2.414,,1,,"Confirmed by many observers throughout day. I saw it well through scope - dark brown back with white spots, size relative to western and least sandpipers distinctive"
 S38334503,Solitary Sandpiper,Tringa solitaria,4139.05,2,CA-ON,Prescott and Russell,Embrun Sewage Lagoons,45.2732556,-75.2444172,07-26-2017,10:10 AM,eBird - Traveling Count,100,1,1,,3
+S45784741,Wandering Tattler,Tringa incana,4139.09,1,US-HI,Kauai,Salt Pond beach,21.900232,-159.609016,05-17-2018,04:00 PM,eBird - Casual Observation,,0,,,1
 S32974659,Greater Yellowlegs,Tringa melanoleuca,4139.12,4,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,12-11-2016,03:09 PM,eBird - Traveling Count,60,1,2.414,,1
 S38738278,Greater Yellowlegs,Tringa melanoleuca,4139.12,2,US-CA,Alameda,Coyote Hills Regional Park--Quarry Staging Area,37.5511782,-122.0863867,08-20-2017,01:52 PM,eBird - Traveling Count,84,1,3.5,,1
 S40302942,Greater Yellowlegs,Tringa melanoleuca,4139.12,1,US-CA,Alameda,MLK Jr. Regional Shoreline--Arrowhead Marsh,37.7421628,-122.2112274,11-04-2017,08:08 AM,eBird - Traveling Count,136,1,1.5,,13
@@ -1541,7 +1594,7 @@ S24695602,Black Guillemot,Cepphus grylle,4262.38,40,CA-QC,Le Rocher-Percé,PN de
 S37014110,Pigeon Guillemot,Cepphus columba,4262.44,2,US-CA,Marin,Pt. Reyes--Limantour Beach,38.0249882,-122.883153,05-14-2017,11:03 AM,eBird - Traveling Count,90,1,4.828,,1
 S39153246,Pigeon Guillemot,Cepphus columba,4262.44,2,US-CA,Monterey,Monterey Bay pelagic--inshore Monterey Harbor to Pt. Pinos (MTY Co.),36.6217017,-121.9037615,09-10-2017,07:31 AM,eBird - Traveling Count,32,1,5.8,,28,,,SST 65.6
 S28727927,Pigeon Guillemot,Cepphus columba,4262.44,2,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
-S44566642,Pigeon Guillemot,Cepphus columba,4262.44,2,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Pigeon Guillemot,Cepphus columba,4262.44,2,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S39153238,Cassin's Auklet,Ptychoramphus aleuticus,4262.66,1,US-CA,Monterey,"US-North Pacific Ocean (36.5671,-122.2449)",36.567078,-122.244903,09-10-2017,11:00 AM,eBird - Traveling Count,60,1,24.9,,28,,,SST 61.7 F - depth 1300 fathoms    FIWH - 1
 S39153245,Cassin's Auklet,Ptychoramphus aleuticus,4262.66,1,US-CA,Monterey,"US-North Pacific Ocean (36.5884,-122.0891)",36.588387,-122.089144,09-10-2017,10:00 AM,eBird - Traveling Count,60,1,11.75,,28,,,SST 63.5 F; depth 700 fathoms 
 S39153239,Cassin's Auklet,Ptychoramphus aleuticus,4262.66,3,US-CA,Monterey,"US-Pacific Ocean (36.6416,-121.9759)",36.641583,-121.975877,09-10-2017,09:00 AM,eBird - Traveling Count,60,1,24.8,,28,,,SST 64.7; depth 40 fathoms     HUWH - 1
@@ -1697,7 +1750,7 @@ S42274371,Western Gull,Larus occidentalis,4320,3,US-CA,San Francisco,Presidio--b
 S43492516,Western Gull,Larus occidentalis,4320,X,US-CA,San Francisco,San Francisco Ferry Building,37.7952236,-122.3942045,03-08-2018,12:30 PM,eBird - Stationary Count,20,1,,,1
 S31743310,Western Gull,Larus occidentalis,4320,15,US-CA,San Francisco,Sutro Baths--seawatch,37.7810776,-122.5143653,09-24-2016,03:27 PM,eBird - Traveling Count,120,1,3.219,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
 S39494083,Western Gull,Larus occidentalis,4320,10,US-CA,San Mateo,Half Moon Bay SB--Francis Beach,37.4688976,-122.4458456,10-01-2017,06:45 AM,eBird - Stationary Count,95,1,,,1
-S44566642,Western Gull,Larus occidentalis,4320,50,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Western Gull,Larus occidentalis,4320,50,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S41525304,Western Gull,Larus occidentalis,4320,10,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S38738278,California Gull,Larus californicus,4325,28,US-CA,Alameda,Coyote Hills Regional Park--Quarry Staging Area,37.5511782,-122.0863867,08-20-2017,01:52 PM,eBird - Traveling Count,84,1,3.5,,1
 S38629759,California Gull,Larus californicus,4325,6,US-CA,Alameda,Elsie Roemer Bird Sanctuary,37.7525975,-122.2473836,08-13-2017,03:00 PM,eBird - Stationary Count,28,1,,,1
@@ -1956,6 +2009,7 @@ S42521090,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,3,US-CA
 S44899675,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,8,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,04-24-2018,09:10 AM,eBird - Traveling Count,27,1,1.508,,1
 S35258649,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,23,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S41943573,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,35,US-CA,Contra Costa,Pt. Isabel Regional Shoreline,37.9001201,-122.3251247,01-15-2018,12:30 PM,eBird - Traveling Count,87,1,1.628,,1
+S45751599,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,3,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
 S23045946,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,5,US-NY,Kings,Prospect Park,40.6602841,-73.9689534,04-24-2015,04:25 PM,eBird - Traveling Count,50,1,2,,2
 S38083280,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,14,US-ME,Knox,Harbor Park,44.1009616,-69.1077697,07-11-2017,10:25 AM,eBird - Stationary Count,30,1,,,1
 S39213481,Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon),4686.5,4,US-CA,Monterey," US-CA Fish Hopper Resto 36.6164,-121.8996)",36.616425,-121.899643,09-16-2017,11:40 AM,eBird - Casual Observation,,0,,,1
@@ -2014,7 +2068,20 @@ S35296657,Eurasian Collared-Dove,Streptopelia decaocto,4828,1,US-CA,San Francisc
 S41565263,Eurasian Collared-Dove,Streptopelia decaocto,4828,2,US-CA,Sonoma,"US-CA-380 Bohemian Hwy, Sebastopol US-CA (38.3722,-122.9165)",38.372197,-122.916512,01-02-2018,12:15 PM,eBird - Casual Observation,,0,,,1
 S38228636,Eurasian Collared-Dove,Streptopelia decaocto,4828,2,IT-62,,IT-Rome Villa San Pio neighborhood ,41.88193,12.479233,07-20-2017,06:35 AM,eBird - Traveling Count,50,1,1.25,,1
 S23560487,Ring-necked Dove,Streptopelia capicola,4843,X,UG-W,,Queen Elizabeth Park (drive),-.159148,29.915302,06-08-2005,,Historical,0,0,,,1
+S45751580,Spotted Dove,Streptopelia chinensis,4860,1,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Spotted Dove,Streptopelia chinensis,4860,4,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
+S45610367,Spotted Dove,Streptopelia chinensis,4860,3,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45647656,Spotted Dove,Streptopelia chinensis,4860,4,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
+S45669379,Spotted Dove,Streptopelia chinensis,4860,3,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
+S45645033,Spotted Dove,Streptopelia chinensis,4860,1,US-HI,Kauai,"Waioli Park, Princeville US-HI (22.2010,-159.4992)",22.201047,-159.499185,05-13-2018,01:49 PM,eBird - Stationary Count,5,1,,,1
 S23635877,Spotted Dove,Streptopelia chinensis,4860,X,MY-02,,near Telaga marina,6.368283,99.684549,03-13-2009,,Historical,0,0,,,1
+S45751583,Zebra Dove,Geopelia striata,4981,2,US-HI,Kauai,"3581–3599 Keoniana Rd, Princeville US-HI (22.2276,-159.4774)",22.227634,-159.477418,05-15-2018,09:26 AM,eBird - Casual Observation,,0,,,1
+S45653576,Zebra Dove,Geopelia striata,4981,3,US-HI,Kauai,"Hanalei Beach Park Pavilion, Princeville US-HI (22.2067,-159.4979)",22.206659,-159.497911,05-13-2018,07:40 AM,eBird - Traveling Count,57,1,1.635,,1
+S45751580,Zebra Dove,Geopelia striata,4981,3,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45610367,Zebra Dove,Geopelia striata,4981,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45669379,Zebra Dove,Geopelia striata,4981,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
+S45756902,Zebra Dove,Geopelia striata,4981,8,US-HI,Kauai,Waimea Plantation Cottages,21.956204,-159.675124,05-16-2018,05:47 PM,eBird - Casual Observation,,0,,,1
+S45645033,Zebra Dove,Geopelia striata,4981,4,US-HI,Kauai,"Waioli Park, Princeville US-HI (22.2010,-159.4992)",22.201047,-159.499185,05-13-2018,01:49 PM,eBird - Stationary Count,5,1,,,1
 S28840379,Common Ground-Dove,Columbina passerina,4990.02,X,US-FL,Lee,Boca Grande,26.751675,-82.261489,02-17-2013,,Historical,0,0,,,1
 S43815680,Ruddy Ground-Dove,Columbina talpacoti,4990.14,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-20-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S43865183,Ruddy Ground-Dove,Columbina talpacoti,4990.14,1,CO-ANT,,Intercontinental garden,6.212788,-75.558013,03-22-2018,02:30 PM,eBird - Stationary Count,10,1,,,1
@@ -2123,6 +2190,7 @@ S28840488,Barred Owl,Strix varia,7526,X,US-VT,Chittenden,LaPlatte Marsh Nature R
 S23996770,Barred Owl,Strix varia,7526,X,US-NY,Essex,Keene Farm tenting area,44.300754,-73.769552,06-20-2015,02:48 AM,eBird - Casual Observation,0,0,,,1,,Heard while in tent,"Camping at Keene Farm <br />Submitted from eBird for iOS, version 1.0.0 Build 2"
 S23559402,Short-eared Owl,Asio flammeus,7571,X,CA-BC,Columbia-Shuswap,"CA-BC Bald Range, Glacier NP",51.272833,-117.335433,08-04-2005,,Historical,0,0,,,1
 S31424503,Short-eared Owl,Asio flammeus,7571,2,US-UT,Washington,Zion NP -- Angel's Landing Trail,37.2646665,-112.9505291,08-28-2016,06:50 AM,eBird - Casual Observation,0,0,,,2,,We heard two screeching a few minutes before dawn. We also got a good look at both from 20m at 8x. Two observers. Both agreed on ID,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
+S45805976,Short-eared Owl (Hawaiian),Asio flammeus sandwichensis,7574,2,US-HI,Kauai,"Kaumualii Hwy, Koloa US-HI (22.0050,-159.7628)",22.00497,-159.762803,05-18-2018,09:32 AM,eBird - Casual Observation,,0,,,1,,On telephone lines about 100m apart from each other 
 S23635630,Sand-colored Nighthawk,Chordeiles rupestris,7764,X,PE-LOR,,Ucayali River,-4.497565,-73.424012,08-03-2012,,Historical,0,0,,,1
 S24595036,Common Nighthawk,Chordeiles minor,7775,1,CA-QC,La Côte-de-Gaspé,Hwy 132 Gaspe,49.112906,-64.702087,08-12-2015,09:00 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S23635606,Common Nighthawk,Chordeiles minor,7775,X,CA-QC,Montréal,Parc Laurier,45.53349,-73.587522,05-30-2006,,Historical,0,0,,,1
@@ -2187,6 +2255,8 @@ S43410164,Anna's Hummingbird,Calypte anna,8906,4,US-CA,Alameda,Eucalyptus Grove/
 S43455174,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44680459,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-16-2018,03:52 PM,eBird - Traveling Count,18,1,.28,,1
+S45461689,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45531330,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
 S44942732,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,Gateway Emergency Prepardness Center Park,37.8500285,-122.2263296,04-25-2018,03:30 PM,eBird - Stationary Count,8,1,,,1
 S43008574,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,"Live Oak Park, Berkeley US-CA (37.8844,-122.2694)",37.884378,-122.269394,02-18-2018,10:10 AM,eBird - Casual Observation,,0,,,1
 S40302942,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,MLK Jr. Regional Shoreline--Arrowhead Marsh,37.7421628,-122.2112274,11-04-2017,08:08 AM,eBird - Traveling Count,136,1,1.5,,13
@@ -2239,6 +2309,7 @@ S44140541,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,US-CA-Charlie Dor
 S44186046,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-02-2018,08:27 AM,eBird - Stationary Count,11,1,,,1
 S44260439,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-04-2018,04:45 PM,eBird - Stationary Count,45,1,,,1
 S44710113,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-18-2018,04:47 PM,eBird - Stationary Count,60,1,,,1
+S45496175,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,05-08-2018,04:55 PM,eBird - Stationary Count,40,1,,,1
 S35909062,Anna's Hummingbird,Calypte anna,8906,1,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,04-12-2017,05:03 PM,eBird - Casual Observation,,0,,,1
 S41794256,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,01-10-2018,09:08 AM,eBird - Traveling Count,20,1,.221,,1
 S42515981,Anna's Hummingbird,Calypte anna,8906,2,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,02-05-2018,09:07 AM,eBird - Stationary Count,10,1,,,1
@@ -2411,6 +2482,7 @@ S44575369,Nuttall's Woodpecker,Picoides nuttallii,11147,2,US-CA,Marin,Mollusk Ma
 S24859654,Nuttall's Woodpecker,Picoides nuttallii,11147,X,US-CA,San Francisco,Buena Vista Park,37.769848,-122.440513,07-25-2014,,Historical,0,0,,,1
 S28718304,Nuttall's Woodpecker,Picoides nuttallii,11147,1,US-CA,San Francisco,Golden Gate Park--Stow Lake,37.7675496,-122.4734026,04-03-2016,06:43 AM,eBird - Traveling Count,173,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S44219667,Downy Woodpecker,Picoides pubescens,11148,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
+S45380572,Downy Woodpecker,Picoides pubescens,11148,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S27017978,Downy Woodpecker,Picoides pubescens,11148,1,US-NY,Essex,Big Slide trail - near The Brothers,44.190322,-73.837416,01-17-2016,12:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.4 Build 34"
 S28036666,Downy Woodpecker,Picoides pubescens,11148,1,US-NY,Franklin,Junction - truck trail and Ampersand road,44.1936014,-74.2543119,03-06-2016,03:00 PM,eBird - Casual Observation,0,0
 S29304067,Downy Woodpecker,Picoides pubescens,11148,3,CA-QC,Laval,CA-QC-Laval-St Vincent de Paul - Cemetery,45.65377,-73.672469,04-30-2016,08:19 AM,eBird - Traveling Count,90,1,.805,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
@@ -2515,6 +2587,7 @@ S31424503,Peregrine Falcon,Falco peregrinus,11582.61,2,US-UT,Washington,Zion NP 
 S31442578,Prairie Falcon,Falco mexicanus,11582.83,1,US-CA,El Dorado,US-CA-Mt. Tallac trail,38.920558,-120.068351,09-05-2016,11:52 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S43514741,falcon sp.,Falco sp.,11582.88,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-09-2018,04:45 PM,eBird - Stationary Count,65,1,,,1
 S44140541,falcon sp.,Falco sp.,11582.88,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-30-2018,04:30 PM,eBird - Stationary Count,90,1,,,1
+S45756902,Rose-ringed Parakeet,Psittacula krameri,11587.47,10,US-HI,Kauai,Waimea Plantation Cottages,21.956204,-159.675124,05-16-2018,05:47 PM,eBird - Casual Observation,,0,,,1
 S38214282,Rose-ringed Parakeet,Psittacula krameri,11587.47,8,IT-62,,IT-Rome Villa San Pio neighborhood ,41.88193,12.479233,07-19-2017,06:10 AM,eBird - Traveling Count,71,1,2,,1
 S38228636,Rose-ringed Parakeet,Psittacula krameri,11587.47,4,IT-62,,IT-Rome Villa San Pio neighborhood ,41.88193,12.479233,07-20-2017,06:35 AM,eBird - Traveling Count,50,1,1.25,,1
 S38249478,Rose-ringed Parakeet,Psittacula krameri,11587.47,3,IT-62,,Villa Borghese,41.9124974,12.4845886,07-21-2017,06:09 PM,eBird - Traveling Count,47,1,3,,1
@@ -2577,10 +2650,12 @@ S43931572,Olive-sided Flycatcher,Contopus cooperi,14516,0,CO-ANT,,Jardín Botán
 S43796386,Olive-sided Flycatcher,Contopus cooperi,14516,1,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
 S28840472,Western Wood-Pewee,Contopus sordidulus,14529,X,US-CA,Tuolumne,Benson Lake,38.013713,-119.535997,07-28-2014,,Historical,0,0,,,1
 S44835030,Hammond's Flycatcher,Empidonax hammondii,14589,1,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
+S45249965,Pacific-slope Flycatcher,Empidonax difficilis,14600,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
 S37432862,Pacific-slope Flycatcher,Empidonax difficilis,14600,3,US-CA,Alameda,Redwood Regional Park--Canyon Meadow area,37.807628,-122.1488356,06-06-2017,09:27 AM,eBird - Traveling Count,79,1,3,,1
 S37525135,Pacific-slope Flycatcher,Empidonax difficilis,14600,1,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,05:50 AM,eBird - Traveling Count,56,1,1.5,,1
 S44835030,Pacific-slope Flycatcher,Empidonax difficilis,14600,1,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
 S36502078,Pacific-slope Flycatcher,Empidonax difficilis,14600,2,US-CA,Contra Costa,Redwood Regional Park (CC Co.),37.8218532,-122.1738052,05-01-2017,01:59 PM,eBird - Traveling Count,90,1,4.828,,1,,,Walking with sleeping baby - wasn't birding as thoroughly as I might have
+S45380572,Pacific-slope Flycatcher,Empidonax difficilis,14600,2,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1,,Heard 
 S35835992,Pacific-slope Flycatcher,Empidonax difficilis,14600,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,04-09-2017,12:09 PM,eBird - Traveling Count,170,1,3.219,,1
 S37674118,Pacific-slope Flycatcher,Empidonax difficilis,14600,3,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,06-18-2017,05:45 AM,eBird - Traveling Count,155,1,3,,1
 S37025408,Pacific-slope Flycatcher,Empidonax difficilis,14600,2,US-CA,Contra Costa,US-CA-Orinda-Redwood Bowl,37.817995,-122.17838,05-20-2017,03:09 PM,eBird - Traveling Count,80,1,4.828,,1,,,Walking with my wife and (baby) daughter so wasn't quite as focused on birds as I might otherwise be.
@@ -2607,6 +2682,7 @@ S37593457,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek
 S41807057,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-10-2018,04:28 PM,eBird - Traveling Count,53,1,.1,,1
 S43076330,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-21-2018,04:15 PM,eBird - Traveling Count,60,1,.7,,1
 S43980308,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
+S45284551,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-04-2018,07:48 AM,eBird - Casual Observation,,0,,,1
 S39091717,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S31501104,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-09-2016,06:36 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S31758804,Black Phoebe,Sayornis nigricans,14621,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-25-2016,06:17 PM,eBird - Casual Observation,,0,,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
@@ -2770,6 +2846,7 @@ S43962505,vireo sp.,Vireo sp.,17878,1,CO-ANT,,Parque Natural Regional Metropolit
 S23560493,Black-hooded Oriole,Oriolus xanthornus,18057,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
 S23560493,Greater Racket-tailed Drongo,Dicrurus paradiseus,18186,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
 S28840419,drongo sp.,Dicrurus sp.,18201,X,VN-15,,VN-HT Hwy to Quoc Oai,21.003714,105.661241,10-03-2009,,Historical,0,0,,,1
+S45805913,Kauai Elepaio,Chasiempis sclateri,18498,1,US-HI,Kauai,Pihea Trail--Kalalau Rim,22.150861,-159.6221217,05-18-2018,05:47 AM,eBird - Traveling Count,98,1,2.077,,1
 S32113898,Gray Jay,Perisoreus canadensis,18722,X,CA-AB,Banff,CA-AB Camping below Lake Merlin,51.5189829,-116.0976458,10-03-2004,,eBird - Casual Observation,0,0
 S23559427,Gray Jay,Perisoreus canadensis,18722,X,CA-NT,Inuvik,Colville Lake,67.03334,-126.0834,07-03-2004,,Historical,0,0,,,1
 S28840387,Green Jay,Cyanocorax yncas,18772,X,PE-SAM,,Huallaga highway,-6.703168,-76.286375,09-07-2012,,Historical,0,0,,,1
@@ -2777,6 +2854,8 @@ S42593259,Steller's Jay,Cyanocitta stelleri,18816,1,US-CA,Alameda,Eucalyptus Gro
 S43089826,Steller's Jay,Cyanocitta stelleri,18816,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,02-22-2018,08:49 AM,eBird - Traveling Count,42,1,.8,,2
 S44219667,Steller's Jay,Cyanocitta stelleri,18816,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44680459,Steller's Jay,Cyanocitta stelleri,18816,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-16-2018,03:52 PM,eBird - Traveling Count,18,1,.28,,1
+S45249965,Steller's Jay,Cyanocitta stelleri,18816,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1,,Heard
+S45531330,Steller's Jay,Cyanocitta stelleri,18816,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
 S44854890,Steller's Jay,Cyanocitta stelleri,18816,1,US-CA,Alameda,Ohlone path,37.871551,-122.286781,04-22-2018,02:46 PM,eBird - Casual Observation,,0,,,1
 S39091717,Steller's Jay,Cyanocitta stelleri,18816,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S43343906,Steller's Jay,Cyanocitta stelleri,18816,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,03-03-2018,10:07 AM,eBird - Traveling Count,27,1,.823,,1
@@ -2919,6 +2998,11 @@ S41688006,American Crow,Corvus brachyrhynchos,19073,14,US-CA,Alameda,Cesar Chave
 S43209656,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,02-26-2018,09:28 AM,eBird - Traveling Count,25,1,.777,,1,,,47 degrees; rained overnight so creek was high & everything was damp
 S44219667,American Crow,Corvus brachyrhynchos,19073,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44680459,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-16-2018,03:52 PM,eBird - Traveling Count,18,1,.28,,1
+S45249965,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
+S45461689,American Crow,Corvus brachyrhynchos,19073,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45487707,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-09-2018,08:50 AM,eBird - Traveling Count,18,1,.2,,1
+S45531330,American Crow,Corvus brachyrhynchos,19073,12,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
+S45552681,American Crow,Corvus brachyrhynchos,19073,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-11-2018,08:48 AM,eBird - Traveling Count,20,1,.37,,1
 S42674083,American Crow,Corvus brachyrhynchos,19073,2,US-CA,Alameda,Hayward Regional Shoreline--H.A.R.D. Marsh,37.6253809,-122.1395588,02-11-2018,06:50 AM,eBird - Traveling Count,118,1,4.874,,1
 S37181734,American Crow,Corvus brachyrhynchos,19073,3,US-CA,Alameda,Hayward Regional Shoreline--Winton Ave. access and parking area,37.6465875,-122.1467042,05-27-2017,09:14 AM,eBird - Traveling Count,34,1,1.207,,1
 S43008574,American Crow,Corvus brachyrhynchos,19073,40,US-CA,Alameda,"Live Oak Park, Berkeley US-CA (37.8844,-122.2694)",37.884378,-122.269394,02-18-2018,10:10 AM,eBird - Casual Observation,,0,,,1
@@ -2947,6 +3031,7 @@ S42783408,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,Strawberry C
 S43076330,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-21-2018,04:15 PM,eBird - Traveling Count,60,1,.7,,1
 S43544285,American Crow,Corvus brachyrhynchos,19073,4,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-10-2018,05:00 PM,eBird - Casual Observation,,0,,,1
 S43980308,American Crow,Corvus brachyrhynchos,19073,4,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
+S45284551,American Crow,Corvus brachyrhynchos,19073,3,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-04-2018,07:48 AM,eBird - Casual Observation,,0,,,1
 S43183872,American Crow,Corvus brachyrhynchos,19073,X,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S41853563,American Crow,Corvus brachyrhynchos,19073,2,US-CA,Alameda,"US-CA 2439 Roosevelt Ave, Berkeley US-CA (37.8633,-122.2754)",37.86326,-122.275446,01-12-2018,08:35 AM,eBird - Casual Observation,,0,,,1
 S31758804,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-25-2016,06:17 PM,eBird - Casual Observation,,0,,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
@@ -3000,6 +3085,7 @@ S44140541,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,US-CA-Charli
 S44186046,American Crow,Corvus brachyrhynchos,19073,5,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-02-2018,08:27 AM,eBird - Stationary Count,11,1,,,1,CN Carrying Nesting Material
 S44260439,American Crow,Corvus brachyrhynchos,19073,6,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-04-2018,04:45 PM,eBird - Stationary Count,45,1,,,1
 S44710113,American Crow,Corvus brachyrhynchos,19073,12,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-18-2018,04:47 PM,eBird - Stationary Count,60,1,,,1
+S45496175,American Crow,Corvus brachyrhynchos,19073,3,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,05-08-2018,04:55 PM,eBird - Stationary Count,40,1,,,1
 S41373451,American Crow,Corvus brachyrhynchos,19073,18,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,12-28-2017,08:27 AM,eBird - Stationary Count,25,1,,,1
 S41794256,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,01-10-2018,09:08 AM,eBird - Traveling Count,20,1,.221,,1
 S43039662,American Crow,Corvus brachyrhynchos,19073,1,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,02-20-2018,12:20 PM,eBird - Casual Observation,,0,,,1
@@ -3112,6 +3198,7 @@ S37050872,Common Raven,Corvus corax,19134,2,US-CA,Contra Costa,Tilden Nature Are
 S37050835,Common Raven,Corvus corax,19134,2,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
 S42138067,Common Raven,Corvus corax,19134,4,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,01-21-2018,01:11 PM,eBird - Traveling Count,64,1,1.269,,1
 S42909447,Common Raven,Corvus corax,19134,8,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,02-17-2018,10:10 AM,eBird - Casual Observation,,0,,,1
+S45380572,Common Raven,Corvus corax,19134,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S29505345,Common Raven,Corvus corax,19134,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,05-08-2016,01:17 PM,eBird - Traveling Count,212,1,4.023,,1,,,"I also saw an oriole, that I am 90% sure was a Bullock's, but there is a small chance it was a Hooded, so I am leaving it off the checklist.   <br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S34647365,Common Raven,Corvus corax,19134,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,02-18-2017,02:00 PM,eBird - Traveling Count,60,1,3.219,,1
 S34996491,Common Raven,Corvus corax,19134,5,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,02-26-2017,10:28 AM,eBird - Traveling Count,90,1,5.633,,1
@@ -3161,7 +3248,7 @@ S42277483,Common Raven,Corvus corax,19134,1,US-CA,San Francisco,Palace of Fine A
 S42271350,Common Raven,Corvus corax,19134,2,US-CA,San Francisco,Presidio--Battery Godfrey,37.8037613,-122.4774715,01-27-2018,07:00 AM,eBird - Stationary Count,13,1,,,1
 S42274371,Common Raven,Corvus corax,19134,5,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
 S39494083,Common Raven,Corvus corax,19134,2,US-CA,San Mateo,Half Moon Bay SB--Francis Beach,37.4688976,-122.4458456,10-01-2017,06:45 AM,eBird - Stationary Count,95,1,,,1
-S44566642,Common Raven,Corvus corax,19134,2,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Common Raven,Corvus corax,19134,2,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S41525304,Common Raven,Corvus corax,19134,1,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S41525792,Common Raven,Corvus corax,19134,1,US-CA,Sonoma,US-CA-highway-near-Duncans-Mills,38.4496457,-123.0573213,01-01-2018,02:30 PM,eBird - Casual Observation,,0
 S23559403,Horned Lark,Eremophila alpestris,19870,X,CA-BC,Columbia-Shuswap,CA-BC MacArthur Lake,51.337067,-116.347094,09-14-2004,,Historical,0,0,,,1
@@ -3193,9 +3280,11 @@ S44543384,Tree Swallow,Tachycineta bicolor,19972,2,US-CA,Marin,Tomales Bay Trail
 S23379511,Tree Swallow,Tachycineta bicolor,19972,10,CA-ON,Ottawa,Ottawa--Britannia Conservation Area (Mud Lake),45.3717546,-75.7948728,05-11-2015,07:40 AM,eBird - Traveling Count,90,1,1.996,,3,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S38334503,Tree Swallow,Tachycineta bicolor,19972,150,CA-ON,Prescott and Russell,Embrun Sewage Lagoons,45.2732556,-75.2444172,07-26-2017,10:10 AM,eBird - Traveling Count,100,1,1,,3
 S28840388,White-winged Swallow,Tachycineta albiventer,19974,X,PE-SAM,,Huallaga ferry,-6.712612,-76.2827,07-26-2012,,Historical,0,0,,,1
+S45531330,Violet-green Swallow,Tachycineta thalassina,19981,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1,,Over field south of life sciences bldg
 S36189053,Violet-green Swallow,Tachycineta thalassina,19981,5,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-22-2017,12:26 PM,eBird - Traveling Count,300,1,11,,1,,,"Hiking with my daughter (6mo). All species I could ID are reported, but I wasn't birding as thoroughly as I might have otherwise. Hiked from Mitchell Canyon, over Eagle Peak, and looped back via Meridian Ridge and Back Creek "
 S36441582,Violet-green Swallow,Tachycineta thalassina,19981,6,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-30-2017,05:37 AM,eBird - Traveling Count,331,1,9.656,,1,,,"Started birding at Eagle Peak at sunrise, and slowly walked down from there through Mitchell Canyon to staging area"
 S37050835,Violet-green Swallow,Tachycineta thalassina,19981,5,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
+S45380572,Violet-green Swallow,Tachycineta thalassina,19981,2,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S44167040,Violet-green Swallow,Tachycineta thalassina,19981,4,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,04-01-2018,10:06 AM,eBird - Traveling Count,85,1,1.849,,1
 S23559428,Bank Swallow,Riparia riparia,19996,X,CA-NT,Inuvik,CA-NWT Anderson River (upper),67.868782,-124.786388,07-14-2004,,Historical,0,0,,,1
 S23560489,Bank Swallow,Riparia riparia,19996,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
@@ -3227,6 +3316,8 @@ S44994927,Barn Swallow,Hirundo rustica,20037,4,US-FL,Sarasota,Myakka SP--bridge,
 S23826345,Barn Swallow,Hirundo rustica,20037,2,CA-ON,Toronto,"Sunnyside Beach, Parkdale",43.63632,-79.448859,06-07-2015,03:40 PM,eBird - Casual Observation,0,1,,,1,,,"Sitting at the picnic table talking. Cool, cloudy day <br />Submitted from BirdLog NA for iOS, version 1.8"
 S23635877,Pacific Swallow,Hirundo tahitica,20063,X,MY-02,,near Telaga marina,6.368283,99.684549,03-13-2009,,Historical,0,0,,,1
 S24859652,Lesser Striped-Swallow,Cecropis abyssinica,20096,X,UG-W,,Kanyawara,.564538,30.350473,06-01-2005,,Historical,0,0,,,1
+S45461689,Cliff Swallow,Petrochelidon pyrrhonota,20122,4,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,Seen flying over small field south of the life sciences building (often flew close to building - nesting maybe?),Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45531330,Cliff Swallow,Petrochelidon pyrrhonota,20122,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1,,Over field south of life sciences bldg
 S37183623,Cliff Swallow,Petrochelidon pyrrhonota,20122,35,US-CA,Alameda,Hayward Regional Shoreline--Frank's Dump,37.6540967,-122.1544504,05-27-2017,10:09 AM,eBird - Traveling Count,50,1,1.609,,1
 S37181885,Cliff Swallow,Petrochelidon pyrrhonota,20122,5,US-CA,Alameda,Hayward Regional Shoreline--Hayward's Landing,37.6453302,-122.1558022,05-27-2017,09:48 AM,eBird - Stationary Count,5,1,,,1
 S37182287,Cliff Swallow,Petrochelidon pyrrhonota,20122,15,US-CA,Alameda,Hayward Regional Shoreline--Radio Tower Hills,37.6500534,-122.1523476,05-27-2017,09:52 AM,eBird - Traveling Count,16,1,.805,,1
@@ -3241,6 +3332,7 @@ S38148415,Common House-Martin,Delichon urbicum,20140,3,IT-62,,"IT-Rome by Tiber 
 S38738278,swallow sp.,Hirundinidae sp.,20176,5,US-CA,Alameda,Coyote Hills Regional Park--Quarry Staging Area,37.5511782,-122.0863867,08-20-2017,01:52 PM,eBird - Traveling Count,84,1,3.5,,1
 S37536831,swallow sp.,Hirundinidae sp.,20176,15,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,08:08 AM,eBird - Traveling Count,120,1,5.7,,1
 S36189053,swallow sp.,Hirundinidae sp.,20176,12,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-22-2017,12:26 PM,eBird - Traveling Count,300,1,11,,1,,,"Hiking with my daughter (6mo). All species I could ID are reported, but I wasn't birding as thoroughly as I might have otherwise. Hiked from Mitchell Canyon, over Eagle Peak, and looped back via Meridian Ridge and Back Creek "
+S45380572,swallow sp.,Hirundinidae sp.,20176,6,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S44580703,swallow sp.,Hirundinidae sp.,20176,6,US-CA,Marin,Tomales Bay SP--Millerton Pt.,38.1084588,-122.8448939,04-14-2018,04:01 PM,eBird - Traveling Count,87,1,.402,,1
 S28718304,swallow sp.,Hirundinidae sp.,20176,1,US-CA,San Francisco,Golden Gate Park--Stow Lake,37.7675496,-122.4734026,04-03-2016,06:43 AM,eBird - Traveling Count,173,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S37427449,swallow sp.,Hirundinidae sp.,20176,4,US-CA,Sonoma,US-CA Forestville Beach,38.510608,-122.923814,06-03-2017,02:30 PM,eBird - Stationary Count,75,1,,,1
@@ -3311,6 +3403,10 @@ S43410164,Chestnut-backed Chickadee,Poecile rufescens,20275,3,US-CA,Alameda,Euca
 S43455174,Chestnut-backed Chickadee,Poecile rufescens,20275,8,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,Chestnut-backed Chickadee,Poecile rufescens,20275,4,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44244737,Chestnut-backed Chickadee,Poecile rufescens,20275,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-04-2018,09:54 AM,eBird - Casual Observation,,0,,,1
+S45249965,Chestnut-backed Chickadee,Poecile rufescens,20275,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
+S45461689,Chestnut-backed Chickadee,Poecile rufescens,20275,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45487707,Chestnut-backed Chickadee,Poecile rufescens,20275,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-09-2018,08:50 AM,eBird - Traveling Count,18,1,.2,,1
+S45552681,Chestnut-backed Chickadee,Poecile rufescens,20275,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-11-2018,08:48 AM,eBird - Traveling Count,20,1,.37,,1,,Heard
 S44680457,Chestnut-backed Chickadee,Poecile rufescens,20275,1,US-CA,Alameda,"McCrea Memorial Park, Oakland US-CA (37.7923,-122.1819)",37.792267,-122.181883,04-17-2018,03:24 PM,eBird - Traveling Count,26,1,.624,,1
 S32974673,Chestnut-backed Chickadee,Poecile rufescens,20275,2,US-CA,Alameda,Redwood Regional Park--Canyon Meadow area,37.807628,-122.1488356,11-13-2016,12:06 PM,eBird - Casual Observation,,0,,,1
 S33458311,Chestnut-backed Chickadee,Poecile rufescens,20275,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-05-2017,08:18 AM,eBird - Traveling Count,10,1,.483,,1
@@ -3367,6 +3463,9 @@ S42515363,Oak Titmouse,Baeolophus inornatus,20475,1,US-CA,Alameda,Becky Temko Pa
 S43209656,Oak Titmouse,Baeolophus inornatus,20475,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,02-26-2018,09:28 AM,eBird - Traveling Count,25,1,.777,,1,,,47 degrees; rained overnight so creek was high & everything was damp
 S43455174,Oak Titmouse,Baeolophus inornatus,20475,4,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,Oak Titmouse,Baeolophus inornatus,20475,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1,,Heard & later seen
+S45249965,Oak Titmouse,Baeolophus inornatus,20475,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1,,Heard
+S45461689,Oak Titmouse,Baeolophus inornatus,20475,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,ON Occupied Nest,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45531330,Oak Titmouse,Baeolophus inornatus,20475,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1,,Heard
 S42661026,Oak Titmouse,Baeolophus inornatus,20475,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,10:00 AM,eBird - Stationary Count,45,1,,,1
 S42734579,Oak Titmouse,Baeolophus inornatus,20475,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-13-2018,02:12 PM,eBird - Casual Observation,,0,,,1
 S37156532,Oak Titmouse,Baeolophus inornatus,20475,3,US-CA,Alameda,US-CA-Berkeley-1018 Mariposa Ave - 37.8892x-122.2706,37.889172,-122.270581,05-26-2017,09:33 AM,eBird - Stationary Count,19,1,,,1
@@ -3389,6 +3488,7 @@ S42616408,Bushtit,Psaltriparus minimus,20708,5,US-CA,Alameda,Becky Temko Park,37
 S38738278,Bushtit,Psaltriparus minimus,20708,3,US-CA,Alameda,Coyote Hills Regional Park--Quarry Staging Area,37.5511782,-122.0863867,08-20-2017,01:52 PM,eBird - Traveling Count,84,1,3.5,,1
 S43410164,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-05-2018,01:15 PM,eBird - Traveling Count,30,1,.809,,1
 S44219667,Bushtit,Psaltriparus minimus,20708,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
+S45461689,Bushtit,Psaltriparus minimus,20708,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
 S37184049,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Hayward Regional Shoreline--Radio Tower Hills,37.6500534,-122.1523476,05-27-2017,10:59 AM,eBird - Traveling Count,14,1,1.207,,1
 S40302942,Bushtit,Psaltriparus minimus,20708,4,US-CA,Alameda,MLK Jr. Regional Shoreline--Arrowhead Marsh,37.7421628,-122.2112274,11-04-2017,08:08 AM,eBird - Traveling Count,136,1,1.5,,13
 S44680457,Bushtit,Psaltriparus minimus,20708,3,US-CA,Alameda,"McCrea Memorial Park, Oakland US-CA (37.7923,-122.1819)",37.792267,-122.181883,04-17-2018,03:24 PM,eBird - Traveling Count,26,1,.624,,1
@@ -3402,6 +3502,7 @@ S41878007,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Strawberry Creek Pa
 S42661026,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,10:00 AM,eBird - Stationary Count,45,1,,,1,NB Nest Building
 S42783408,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-15-2018,09:11 AM,eBird - Traveling Count,35,1,.3,,1,NB Nest Building
 S43544285,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-10-2018,05:00 PM,eBird - Casual Observation,,0,,,1,ON Occupied Nest
+S45380498,Bushtit,Psaltriparus minimus,20708,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-02-2018,07:44 AM,eBird - Casual Observation,,0,,,1,ON Occupied Nest
 S43183872,Bushtit,Psaltriparus minimus,20708,5,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S39091717,Bushtit,Psaltriparus minimus,20708,4,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S31758804,Bushtit,Psaltriparus minimus,20708,3,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,09-25-2016,06:17 PM,eBird - Casual Observation,,0,,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
@@ -3471,6 +3572,7 @@ S43410164,Brown Creeper,Certhia americana,20846,1,US-CA,Alameda,Eucalyptus Grove
 S43455174,Brown Creeper,Certhia americana,20846,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,Brown Creeper,Certhia americana,20846,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44680459,Brown Creeper,Certhia americana,20846,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-16-2018,03:52 PM,eBird - Traveling Count,18,1,.28,,1
+S45249965,Brown Creeper,Certhia americana,20846,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
 S35086570,Brown Creeper,Certhia americana,20846,8,US-CA,Contra Costa,Redwood Regional Park--Stream Trail,37.8206667,-122.166853,03-10-2017,06:30 AM,eBird - Traveling Count,150,1,2.414,,8,,"""Tree tree beautiful tree"" Probable breeding.  This is a conservative count. 3 minimum at the entrance and then we picked up individuals or pairs several times along the walk",GGAS Birding by Ear along the Stream Trail **25 species represented here were either calling or singing or both. Most notable Pacific Wren and Ruby-crowned Kinglet (personal favorites for the morning).
 S31848010,Brown Creeper,Certhia americana,20846,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,10-01-2016,01:13 PM,eBird - Traveling Count,45,1,1.609,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
 S27017978,Brown Creeper,Certhia americana,20846,4,US-NY,Essex,Big Slide trail - near The Brothers,44.190322,-73.837416,01-17-2016,12:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.4 Build 34"
@@ -3517,8 +3619,10 @@ S42564247,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,Becky Temko Pa
 S35143838,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,03-12-2017,04:06 PM,eBird - Traveling Count,90,1,3.219,,1
 S42928065,Bewick's Wren,Thryomanes bewickii,21330,5,US-CA,Alameda,Claremont Canyon Regional Preserve,37.86613,-122.239573,02-18-2018,06:50 AM,eBird - Traveling Count,78,1,2.122,,1
 S44219667,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
+S45461689,Bewick's Wren,Thryomanes bewickii,21330,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
 S32974662,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,11-30-2016,09:47 AM,eBird - Casual Observation,,0,,,1
 S35120083,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-11-2017,12:17 PM,eBird - Stationary Count,15,1,,,1,S Singing Male
+S45866540,Bewick's Wren,Thryomanes bewickii,21330,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-20-2018,12:50 PM,eBird - Casual Observation,,0,,,1,FL Recently Fledged Young
 S39091717,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S41853518,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA Berkeley School yard,37.869003,-122.286443,01-12-2018,05:03 PM,eBird - Casual Observation,,0,,,1
 S32093523,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,10-15-2016,03:00 PM,eBird - Casual Observation,0,0
@@ -3533,6 +3637,7 @@ S43605722,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA-Charlie 
 S43631354,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-13-2018,04:45 PM,eBird - Stationary Count,70,1,,,1
 S44047680,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-28-2018,04:39 PM,eBird - Stationary Count,77,1,,,1
 S44710113,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-18-2018,04:47 PM,eBird - Stationary Count,60,1,,,1
+S45496175,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,05-08-2018,04:55 PM,eBird - Stationary Count,40,1,,,1,,Heard
 S43294257,Bewick's Wren,Thryomanes bewickii,21330,1,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,03-01-2018,11:28 AM,eBird - Traveling Count,22,1,1.882,,1
 S44835030,Bewick's Wren,Thryomanes bewickii,21330,2,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
 S36441582,Bewick's Wren,Thryomanes bewickii,21330,5,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-30-2017,05:37 AM,eBird - Traveling Count,331,1,9.656,,1,,,"Started birding at Eagle Peak at sunrise, and slowly walked down from there through Mitchell Canyon to staging area"
@@ -3621,6 +3726,7 @@ S23027022,Ruby-crowned Kinglet,Regulus calendula,21939,2,US-NY,New York,Central 
 S40892270,Ruby-crowned Kinglet,Regulus calendula,21939,3,US-CA,Sacramento,Cosumnes River Preserve,38.2658235,-121.4394915,12-03-2017,09:25 AM,eBird - Traveling Count,205,1,3,,3
 S41553858,Ruby-crowned Kinglet,Regulus calendula,21939,1,US-CA,Sonoma,"US-CA-21650 Moscow Rd, Monte Rio US-CA (38.4690,-123.0163)",38.469018,-123.01633,01-02-2018,09:56 AM,eBird - Stationary Count,40,1,,,1
 S28841556,Chestnut-headed Tesia,Cettia castaneocoronata,21963.1129,X,VN-01,,VN-LCh Fansipan,22.304177,103.77596,10-10-2009,,Historical,0,0,,,1
+S45805913,Japanese Bush Warbler,Horornis diphone,21963.155,6,US-HI,Kauai,Pihea Trail--Kalalau Rim,22.150861,-159.6221217,05-18-2018,05:47 AM,eBird - Traveling Count,98,1,2.077,,1,,Seen once. Heard in many places
 S23635583,Black-capped Donacobius,Donacobius atricapilla,22470,X,PE-LOR,,Maniti Lodge,-4.52981,-73.453259,08-05-2012,,Historical,0,0,,,1
 S38214282,Eurasian Blackcap,Sylvia atricapilla,23136.09,2,IT-62,,IT-Rome Villa San Pio neighborhood ,41.88193,12.479233,07-19-2017,06:10 AM,eBird - Traveling Count,71,1,2,,1,,1m 1f
 S38208787,Sardinian Warbler,Sylvia melanocephala,23205,1,IT-62,,IT-Rome Palatine Hill,41.887609,12.48807,07-16-2017,11:45 AM,eBird - Traveling Count,60,1,1.5,,1
@@ -3629,10 +3735,26 @@ S35086570,Wrentit,Chamaea fasciata,23308,2,US-CA,Contra Costa,Redwood Regional P
 S31541020,Wrentit,Chamaea fasciata,23308,3,US-CA,Marin,Palomarin Trail,37.9344939,-122.747328,09-11-2016,01:30 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S40453214,Wrentit,Chamaea fasciata,23308,1,US-CA,Marin,Point Reyes Station--White House Pool,38.0624228,-122.8168507,11-11-2017,09:55 AM,eBird - Stationary Count,30,1,,,3
 S24859650,Wrentit,Chamaea fasciata,23308,X,US-CA,Santa Cruz,Big Basin Redwoods National Park - West Waddell Creek,37.166591,-122.264513,07-22-2014,,Historical,0,0,,,1
+S45653727,Japanese White-eye,Zosterops japonicus,23377.00443,1,US-HI,Kauai,"4965 Hanalei Plantation Rd, Princeville US-HI (22.2121,-159.4831)",22.212071,-159.483089,05-13-2018,02:00 PM,eBird - Casual Observation,,0,,,1
+S45647586,Japanese White-eye,Zosterops japonicus,23377.00443,2,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45653576,Japanese White-eye,Zosterops japonicus,23377.00443,1,US-HI,Kauai,"Hanalei Beach Park Pavilion, Princeville US-HI (22.2067,-159.4979)",22.206659,-159.497911,05-13-2018,07:40 AM,eBird - Traveling Count,57,1,1.635,,1
+S45751599,Japanese White-eye,Zosterops japonicus,23377.00443,6,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Japanese White-eye,Zosterops japonicus,23377.00443,2,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S45610367,Japanese White-eye,Zosterops japonicus,23377.00443,6,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45647656,Japanese White-eye,Zosterops japonicus,23377.00443,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
+S45669379,Japanese White-eye,Zosterops japonicus,23377.00443,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
+S45805913,Japanese White-eye,Zosterops japonicus,23377.00443,3,US-HI,Kauai,Pihea Trail--Kalalau Rim,22.150861,-159.6221217,05-18-2018,05:47 AM,eBird - Traveling Count,98,1,2.077,,1
+S45756902,Japanese White-eye,Zosterops japonicus,23377.00443,4,US-HI,Kauai,Waimea Plantation Cottages,21.956204,-159.675124,05-16-2018,05:47 PM,eBird - Casual Observation,,0,,,1
+S45645033,Japanese White-eye,Zosterops japonicus,23377.00443,1,US-HI,Kauai,"Waioli Park, Princeville US-HI (22.2010,-159.4992)",22.201047,-159.499185,05-13-2018,01:49 PM,eBird - Stationary Count,5,1,,,1
 S23560493,White-crested Laughingthrush,Garrulax leucolophus,23377.01253,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
+S45805913,Chinese Hwamei,Garrulax canorus,23377.01285,1,US-HI,Kauai,Pihea Trail--Kalalau Rim,22.150861,-159.6221217,05-18-2018,05:47 AM,eBird - Traveling Count,98,1,2.077,,1
 S28841568,Black-faced Laughingthrush,Trochalopteron affine,23377.04134,1,NP-4,,Three passes trek below Gokyo,27.903034,86.715341,05-15-2010,,Historical,0,0,,,1
 S23560493,Asian Fairy-bluebird,Irena puella,23382,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
 S28841563,Oriental Magpie-Robin,Copsychus saularis,23403.0195,X,VN-64,,VN-HN IUCN office,21.0331146,105.8167988,04-15-2009,,Historical,0,0,,,1
+S45751583,White-rumped Shama,Copsychus malabaricus,23403.022,2,US-HI,Kauai,"3581–3599 Keoniana Rd, Princeville US-HI (22.2276,-159.4774)",22.227634,-159.477418,05-15-2018,09:26 AM,eBird - Casual Observation,,0,,,1
+S45647586,White-rumped Shama,Copsychus malabaricus,23403.022,1,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45610367,White-rumped Shama,Copsychus malabaricus,23403.022,3,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45645033,White-rumped Shama,Copsychus malabaricus,23403.022,2,US-HI,Kauai,"Waioli Park, Princeville US-HI (22.2010,-159.4992)",22.201047,-159.499185,05-13-2018,01:49 PM,eBird - Stationary Count,5,1,,,1
 S23635874,European Robin,Erithacus rubecula,23403.0456,X,GB-ENG,Devon,Slapton field centre,50.292459,-3.652896,10-06-2007,,Historical,0,0,,,1
 S28841565,Blue Whistling-Thrush,Myophonus caeruleus,23403.0615,X,NP-4,,Pakdeng,27.739527,86.710695,04-28-2010,,Historical,0,0,,,1
 S28841568,Blue Whistling-Thrush,Myophonus caeruleus,23403.0615,X,NP-4,,Three passes trek below Gokyo,27.903034,86.715341,05-15-2010,,Historical,0,0,,,1
@@ -3719,6 +3841,11 @@ S43410164,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Eucalyptus Gro
 S43455174,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,American Robin,Turdus migratorius,24903,5,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44680459,American Robin,Turdus migratorius,24903,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-16-2018,03:52 PM,eBird - Traveling Count,18,1,.28,,1
+S45249965,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
+S45461689,American Robin,Turdus migratorius,24903,5,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45487707,American Robin,Turdus migratorius,24903,5,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-09-2018,08:50 AM,eBird - Traveling Count,18,1,.2,,1
+S45531330,American Robin,Turdus migratorius,24903,8,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
+S45552681,American Robin,Turdus migratorius,24903,6,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-11-2018,08:48 AM,eBird - Traveling Count,20,1,.37,,1
 S44680457,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,"McCrea Memorial Park, Oakland US-CA (37.7923,-122.1819)",37.792267,-122.181883,04-17-2018,03:24 PM,eBird - Traveling Count,26,1,.624,,1
 S36655126,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,McLaughlin Eastshore SP--Berkeley Meadow,37.8670193,-122.3102331,05-08-2017,08:07 AM,eBird - Traveling Count,37,1,.402,,1
 S37432862,American Robin,Turdus migratorius,24903,3,US-CA,Alameda,Redwood Regional Park--Canyon Meadow area,37.807628,-122.1488356,06-06-2017,09:27 AM,eBird - Traveling Count,79,1,3,,1
@@ -3728,6 +3855,7 @@ S41807057,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Strawberry Cre
 S42783408,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-15-2018,09:11 AM,eBird - Traveling Count,35,1,.3,,1
 S43544285,American Robin,Turdus migratorius,24903,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-10-2018,05:00 PM,eBird - Casual Observation,,0,,,1
 S43980308,American Robin,Turdus migratorius,24903,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
+S45284551,American Robin,Turdus migratorius,24903,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-04-2018,07:48 AM,eBird - Casual Observation,,0,,,1
 S39091717,American Robin,Turdus migratorius,24903,2,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S37514969,American Robin,Turdus migratorius,24903,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-10-2017,03:42 PM,eBird - Stationary Count,29,1,,,1
 S37515966,American Robin,Turdus migratorius,24903,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-10-2017,04:10 PM,eBird - Traveling Count,51,1,1.5,,1
@@ -3763,6 +3891,7 @@ S35258649,American Robin,Turdus migratorius,24903,2,US-CA,Contra Costa,Miller/Kn
 S36502078,American Robin,Turdus migratorius,24903,3,US-CA,Contra Costa,Redwood Regional Park (CC Co.),37.8218532,-122.1738052,05-01-2017,01:59 PM,eBird - Traveling Count,90,1,4.828,,1,,,Walking with sleeping baby - wasn't birding as thoroughly as I might have
 S35086570,American Robin,Turdus migratorius,24903,15,US-CA,Contra Costa,Redwood Regional Park--Stream Trail,37.8206667,-122.166853,03-10-2017,06:30 AM,eBird - Traveling Count,150,1,2.414,,8,,Probable breeder.,GGAS Birding by Ear along the Stream Trail **25 species represented here were either calling or singing or both. Most notable Pacific Wren and Ruby-crowned Kinglet (personal favorites for the morning).
 S37050835,American Robin,Turdus migratorius,24903,2,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
+S45380572,American Robin,Turdus migratorius,24903,10,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S34647365,American Robin,Turdus migratorius,24903,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,02-18-2017,02:00 PM,eBird - Traveling Count,60,1,3.219,,1
 S37674118,American Robin,Turdus migratorius,24903,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,06-18-2017,05:45 AM,eBird - Traveling Count,155,1,3,,1,,H
 S44074887,American Robin,Turdus migratorius,24903,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,03-29-2018,04:32 PM,eBird - Stationary Count,40,1,,,1
@@ -3858,6 +3987,7 @@ S44047680,European Starling,Sturnus vulgaris,26621,1,US-CA,Alameda,US-CA-Charlie
 S44140541,European Starling,Sturnus vulgaris,26621,3,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-30-2018,04:30 PM,eBird - Stationary Count,90,1,,,1
 S44186046,European Starling,Sturnus vulgaris,26621,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-02-2018,08:27 AM,eBird - Stationary Count,11,1,,,1
 S44710113,European Starling,Sturnus vulgaris,26621,3,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-18-2018,04:47 PM,eBird - Stationary Count,60,1,,,1
+S45496175,European Starling,Sturnus vulgaris,26621,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,05-08-2018,04:55 PM,eBird - Stationary Count,40,1,,,1
 S44993978,European Starling,Sturnus vulgaris,26621,1,US-FL,Charlotte,"6067–6099 Gasparilla Rd, Placida US-FL (26.8188,-82.2729)",26.818804,-82.272923,04-27-2018,01:00 PM,eBird - Casual Observation,,0,,,1
 S35258649,European Starling,Sturnus vulgaris,26621,20,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S41871313,European Starling,Sturnus vulgaris,26621,3,US-CA,Contra Costa,San Francisco Bay Trail--S 51st St.,37.9096009,-122.3274529,01-13-2018,07:24 AM,eBird - Traveling Count,227,1,4,,1
@@ -3903,8 +4033,17 @@ S42281211,European Starling,Sturnus vulgaris,26621,30,US-CA,San Francisco,Presid
 S43492516,European Starling,Sturnus vulgaris,26621,3,US-CA,San Francisco,San Francisco Ferry Building,37.7952236,-122.3942045,03-08-2018,12:30 PM,eBird - Stationary Count,20,1,,,1
 S28727915,European Starling,Sturnus vulgaris,26621,2,US-CA,San Francisco,Sutro Heights Park,37.7777365,-122.5110984,04-03-2016,12:34 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S39494083,European Starling,Sturnus vulgaris,26621,25,US-CA,San Mateo,Half Moon Bay SB--Francis Beach,37.4688976,-122.4458456,10-01-2017,06:45 AM,eBird - Stationary Count,95,1,,,1
-S44566642,European Starling,Sturnus vulgaris,26621,2,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,European Starling,Sturnus vulgaris,26621,2,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S23560493,Black-collared Starling,Gracupica nigricollis,26640.1,X,VN-39,,VN-DN Cat Tien - walk with Vinh,11.410769,107.416238,11-10-2009,,Historical,0,0,,,1
+S45647586,Common Myna,Acridotheres tristis,26648,3,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45653576,Common Myna,Acridotheres tristis,26648,12,US-HI,Kauai,"Hanalei Beach Park Pavilion, Princeville US-HI (22.2067,-159.4979)",22.206659,-159.497911,05-13-2018,07:40 AM,eBird - Traveling Count,57,1,1.635,,1
+S45751580,Common Myna,Acridotheres tristis,26648,5,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45779167,Common Myna,Acridotheres tristis,26648,1,US-HI,Kauai,Kawaiele State Waterbird Sanctuary,22.0099791,-159.7679526,05-17-2018,01:41 PM,eBird - Stationary Count,8,1,,,1
+S45610367,Common Myna,Acridotheres tristis,26648,12,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45647656,Common Myna,Acridotheres tristis,26648,4,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
+S45669379,Common Myna,Acridotheres tristis,26648,4,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
+S45756902,Common Myna,Acridotheres tristis,26648,25,US-HI,Kauai,Waimea Plantation Cottages,21.956204,-159.675124,05-16-2018,05:47 PM,eBird - Casual Observation,,0,,,1
+S45645033,Common Myna,Acridotheres tristis,26648,4,US-HI,Kauai,"Waioli Park, Princeville US-HI (22.2010,-159.4992)",22.201047,-159.499185,05-13-2018,01:49 PM,eBird - Stationary Count,5,1,,,1
 S23635877,Common Myna,Acridotheres tristis,26648,2,MY-02,,near Telaga marina,6.368283,99.684549,03-13-2009,,Historical,0,0,,,1
 S23560488,Splendid Starling,Lamprotornis splendidus,26730,X,UG-W,,Queen Elizabeth Park (drive),-.159148,29.915302,06-09-2005,,Historical,0,0,,,1
 S23560487,Yellow-billed Oxpecker,Buphagus africanus,26740,X,UG-W,,Queen Elizabeth Park (drive),-.159148,29.915302,06-08-2005,,Historical,0,0,,,1
@@ -3937,6 +4076,7 @@ S44835129,Cedar Waxwing,Bombycilla cedrorum,27738,25,US-CA,Alameda,US-CA-Charlie
 S41794256,Cedar Waxwing,Bombycilla cedrorum,27738,12,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,01-10-2018,09:08 AM,eBird - Traveling Count,20,1,.221,,1,F Flyover
 S24122012,Cedar Waxwing,Bombycilla cedrorum,27738,4,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-02-2015,10:03 AM,eBird - Stationary Count,5,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S37962004,Cedar Waxwing,Bombycilla cedrorum,27738,2,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
+S45380572,Cedar Waxwing,Bombycilla cedrorum,27738,60,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S38128263,Cedar Waxwing,Bombycilla cedrorum,27738,2,US-ME,Cumberland,"East End Beach, Portland",43.6700535,-70.2411626,07-14-2017,11:13 AM,eBird - Traveling Count,55,1,1,,1
 S24608712,Cedar Waxwing,Bombycilla cedrorum,27738,2,CA-QC,La Côte-de-Gaspé,PN Forillon--Camping Des Rosiers,48.8291731,-64.2227469,08-14-2015,06:30 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S24594818,Cedar Waxwing,Bombycilla cedrorum,27738,11,CA-QC,La Haute-Côte-Nord,Tadoussac churchyard,48.142357,-69.715509,08-12-2015,08:35 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
@@ -4195,6 +4335,7 @@ S23419819,Black-throated Green Warbler,Setophaga virens,27977,4,CA-QC,Montréal,
 S29604282,Black-throated Green Warbler,Setophaga virens,27977,8,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29752059,Black-throated Green Warbler,Setophaga virens,27977,4,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-18-2016,05:58 AM,eBird - Traveling Count,120,1,2.499,,2,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29795016,Canada Warbler,Cardellina canadensis,28090,2,US-NY,New York,Central Park--The Ravine (incl. The Loch),40.794956,-73.9572222,05-20-2016,12:16 PM,eBird - Traveling Count,25,1,1,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
+S45487707,Wilson's Warbler,Cardellina pusilla,28091,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-09-2018,08:50 AM,eBird - Traveling Count,18,1,.2,,1
 S44835030,Wilson's Warbler,Cardellina pusilla,28091,2,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
 S37050835,Wilson's Warbler,Cardellina pusilla,28091,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
 S29505345,Wilson's Warbler,Cardellina pusilla,28091,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,05-08-2016,01:17 PM,eBird - Traveling Count,212,1,4.023,,1,,,"I also saw an oriole, that I am 90% sure was a Bullock's, but there is a small chance it was a Hooded, so I am leaving it off the checklist.   <br />Submitted from eBird for iOS, version 1.2.0 Build 62"
@@ -4208,6 +4349,12 @@ S28718304,Wilson's Warbler,Cardellina pusilla,28091,1,US-CA,San Francisco,Golden
 S28727927,Wilson's Warbler,Cardellina pusilla,28091,1,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S28840472,Wilson's Warbler,Cardellina pusilla,28091,X,US-CA,Tuolumne,Benson Lake,38.013713,-119.535997,07-28-2014,,Historical,0,0,,,1
 S43796386,Slate-throated Redstart,Myioborus miniatus,28104,4,CO-ANT,,RN La Romera,6.1247499,-75.6127167,03-19-2018,06:20 AM,eBird - Traveling Count,270,1,4,,2
+S45751583,Red-crested Cardinal,Paroaria coronata,28193.1,1,US-HI,Kauai,"3581–3599 Keoniana Rd, Princeville US-HI (22.2276,-159.4774)",22.227634,-159.477418,05-15-2018,09:26 AM,eBird - Casual Observation,,0,,,1
+S45647586,Red-crested Cardinal,Paroaria coronata,28193.1,1,US-HI,Kauai,"5-4363–5-4371 Kuhio Hwy, Princeville US-HI (22.2041,-159.4902)",22.204102,-159.490155,05-13-2018,01:30 PM,eBird - Traveling Count,9,1,.125,,1
+S45653576,Red-crested Cardinal,Paroaria coronata,28193.1,2,US-HI,Kauai,"Hanalei Beach Park Pavilion, Princeville US-HI (22.2067,-159.4979)",22.206659,-159.497911,05-13-2018,07:40 AM,eBird - Traveling Count,57,1,1.635,,1
+S45610367,Red-crested Cardinal,Paroaria coronata,28193.1,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45647656,Red-crested Cardinal,Paroaria coronata,28193.1,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
+S45669379,Red-crested Cardinal,Paroaria coronata,28193.1,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
 S23635887,Red-capped Cardinal,Paroaria gularis,28193.4,X,PE-LOR,,Yarapa River,-4.526675,-73.407109,08-05-2012,,Historical,0,0,,,1
 S28841545,Black-faced Tanager,Schistochlamys melanopis,28194,X,PE-SAM,,Road to Cesar Vallejo,-5.804205,-77.511689,07-07-2013,,Historical,0,0,,,1
 S28840407,Magpie Tanager,Cissopis leverianus,28204,X,PE-SAM,,Road from Shambo,-7.028151,-76.12938,07-15-2012,,Historical,0,0,,,1
@@ -4348,6 +4495,10 @@ S43410164,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,3,US-CA
 S43455174,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,5,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
 S44680459,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-16-2018,03:52 PM,eBird - Traveling Count,18,1,.28,,1
+S45249965,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-04-2018,08:49 AM,eBird - Traveling Count,18,1,.563,,1
+S45487707,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-09-2018,08:50 AM,eBird - Traveling Count,18,1,.2,,1
+S45531330,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
+S45552681,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-11-2018,08:48 AM,eBird - Traveling Count,20,1,.37,,1
 S44680457,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,4,US-CA,Alameda,"McCrea Memorial Park, Oakland US-CA (37.7923,-122.1819)",37.792267,-122.181883,04-17-2018,03:24 PM,eBird - Traveling Count,26,1,.624,,1
 S37432862,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,Alameda,Redwood Regional Park--Canyon Meadow area,37.807628,-122.1488356,06-06-2017,09:27 AM,eBird - Traveling Count,79,1,3,,1
 S42661026,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,10:00 AM,eBird - Stationary Count,45,1,,,1
@@ -4368,6 +4519,7 @@ S43725092,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,3,US-CA
 S37050835,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
 S42138067,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,4,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,01-21-2018,01:11 PM,eBird - Traveling Count,64,1,1.269,,1
 S42909447,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,8,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,02-17-2018,10:10 AM,eBird - Casual Observation,,0,,,1
+S45380572,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,5,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S29505345,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,9,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,05-08-2016,01:17 PM,eBird - Traveling Count,212,1,4.023,,1,,,"I also saw an oriole, that I am 90% sure was a Bullock's, but there is a small chance it was a Hooded, so I am leaving it off the checklist.   <br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S31161027,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,12,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,07-30-2016,01:36 PM,eBird - Traveling Count,50,1,1.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S34996491,Dark-eyed Junco (Oregon),Junco hyemalis [oreganus Group],29963,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,02-26-2017,10:28 AM,eBird - Traveling Count,90,1,5.633,,1
@@ -4447,7 +4599,7 @@ S42271350,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,3,US-CA,San Fran
 S42281211,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,1,US-CA,San Francisco,Presidio--Crissy Field Lagoon,37.8047658,-122.4562311,01-27-2018,10:28 AM,eBird - Traveling Count,44,1,1.528,,1
 S42304237,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,4,US-CA,San Francisco,Presidio--Crissy Field Lagoon,37.8047658,-122.4562311,01-28-2018,07:11 AM,eBird - Traveling Count,42,1,.884,,1
 S42274371,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,4,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
-S44566642,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,2,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,2,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S41525304,White-crowned Sparrow,Zonotrichia leucophrys,29984.05,6,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S28727927,White-crowned Sparrow (Yellow-billed),Zonotrichia leucophrys nuttalli/pugetensis,29984.1,1,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S35141513,Golden-crowned Sparrow,Zonotrichia atricapilla,29984.13,5,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
@@ -4509,11 +4661,13 @@ S23559375,Savannah Sparrow,Passerculus sandwichensis,29984.32,X,CA-NT,Inuvik,CA-
 S36837840,Savannah Sparrow,Passerculus sandwichensis,29984.32,2,US-CA,Marin,Pt. Reyes--Abbotts Lagoon,38.1190611,-122.9522467,05-14-2017,05:25 AM,eBird - Traveling Count,191,1,8.047,,1
 S33458348,Savannah Sparrow,Passerculus sandwichensis,29984.32,2,US-CA,Marin,Pt. Reyes--Chimney Rock,37.9895338,-122.9631042,12-18-2016,02:41 PM,eBird - Traveling Count,45,1,3.219,,1
 S36812442,Savannah Sparrow,Passerculus sandwichensis,29984.32,1,US-CA,Marin,Pt. Reyes--Fish Docks,37.9956216,-122.9782104,05-13-2017,01:16 PM,eBird - Traveling Count,60,1,2.414,,1,,,Extremely windy
-S44566642,Savannah Sparrow,Passerculus sandwichensis,29984.32,6,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Savannah Sparrow,Passerculus sandwichensis,29984.32,6,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S35141513,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
 S29463115,Song Sparrow,Melospiza melodia,29984.39,2,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,05-07-2016,06:00 AM,eBird - Traveling Count,240,1,4.828,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S43455174,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
 S44219667,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
+S45461689,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45531330,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
 S37183623,Song Sparrow,Melospiza melodia,29984.39,3,US-CA,Alameda,Hayward Regional Shoreline--Frank's Dump,37.6540967,-122.1544504,05-27-2017,10:09 AM,eBird - Traveling Count,50,1,1.609,,1
 S42674083,Song Sparrow,Melospiza melodia,29984.39,8,US-CA,Alameda,Hayward Regional Shoreline--H.A.R.D. Marsh,37.6253809,-122.1395588,02-11-2018,06:50 AM,eBird - Traveling Count,118,1,4.874,,1
 S37182287,Song Sparrow,Melospiza melodia,29984.39,2,US-CA,Alameda,Hayward Regional Shoreline--Radio Tower Hills,37.6500534,-122.1523476,05-27-2017,09:52 AM,eBird - Traveling Count,16,1,.805,,1
@@ -4569,7 +4723,7 @@ S28718304,Song Sparrow,Melospiza melodia,29984.39,4,US-CA,San Francisco,Golden G
 S28727927,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S42271350,Song Sparrow,Melospiza melodia,29984.39,1,US-CA,San Francisco,Presidio--Battery Godfrey,37.8037613,-122.4774715,01-27-2018,07:00 AM,eBird - Stationary Count,13,1,,,1
 S42274371,Song Sparrow,Melospiza melodia,29984.39,2,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
-S44566642,Song Sparrow,Melospiza melodia,29984.39,2,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Song Sparrow,Melospiza melodia,29984.39,2,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S41553858,Song Sparrow,Melospiza melodia,29984.39,3,US-CA,Sonoma,"US-CA-21650 Moscow Rd, Monte Rio US-CA (38.4690,-123.0163)",38.469018,-123.01633,01-02-2018,09:56 AM,eBird - Stationary Count,40,1,,,1
 S29304071,Song Sparrow,Melospiza melodia,29984.39,2,CA-QC,Thérèse-De Blainville,CA-QC-Rosemère-200 Ch de la Grande-Côte - 45.6280x-73.7974,45.627979,-73.79737,04-30-2016,11:10 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S38084360,Song Sparrow,Melospiza melodia,29984.39,1,US-ME,Waldo,US-ME McLaughlin's Lincolnville,44.281321,-69.007873,07-11-2017,12:00 PM,eBird - Stationary Count,22,1,,,1
@@ -4601,6 +4755,10 @@ S43089826,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Eucalyptu
 S43209656,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,02-26-2018,09:28 AM,eBird - Traveling Count,25,1,.777,,1,,,47 degrees; rained overnight so creek was high & everything was damp
 S43410164,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-05-2018,01:15 PM,eBird - Traveling Count,30,1,.809,,1
 S44219667,California Towhee,Melozone crissalis,29984.6,3,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,04-03-2018,08:53 AM,eBird - Traveling Count,57,1,.742,,1
+S45461689,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45487707,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-09-2018,08:50 AM,eBird - Traveling Count,18,1,.2,,1
+S45531330,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1
+S45552681,California Towhee,Melozone crissalis,29984.6,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-11-2018,08:48 AM,eBird - Traveling Count,20,1,.37,,1,,Heard
 S44942732,California Towhee,Melozone crissalis,29984.6,3,US-CA,Alameda,Gateway Emergency Prepardness Center Park,37.8500285,-122.2263296,04-25-2018,03:30 PM,eBird - Stationary Count,8,1,,,1
 S37182287,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Hayward Regional Shoreline--Radio Tower Hills,37.6500534,-122.1523476,05-27-2017,09:52 AM,eBird - Traveling Count,16,1,.805,,1
 S37181734,California Towhee,Melozone crissalis,29984.6,2,US-CA,Alameda,Hayward Regional Shoreline--Winton Ave. access and parking area,37.6465875,-122.1467042,05-27-2017,09:14 AM,eBird - Traveling Count,34,1,1.207,,1
@@ -4615,6 +4773,7 @@ S41878007,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberr
 S42079808,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,01-19-2018,05:11 PM,eBird - Stationary Count,24,1,,,1
 S42661026,California Towhee,Melozone crissalis,29984.6,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,10:00 AM,eBird - Stationary Count,45,1,,,1
 S43980308,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-26-2018,10:32 AM,eBird - Casual Observation,,0,,,1
+S45284551,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-04-2018,07:48 AM,eBird - Casual Observation,,0,,,1
 S43183872,California Towhee,Melozone crissalis,29984.6,X,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S39091717,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,09-09-2017,12:57 PM,eBird - Traveling Count,62,1,1.5,,1
 S43343906,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,UC Berkeley--Botanical Gardens,37.8740168,-122.237808,03-03-2018,10:07 AM,eBird - Traveling Count,27,1,.823,,1
@@ -4658,6 +4817,7 @@ S43605722,California Towhee,Melozone crissalis,29984.6,3,US-CA,Alameda,US-CA-Cha
 S43631354,California Towhee,Melozone crissalis,29984.6,2,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-13-2018,04:45 PM,eBird - Stationary Count,70,1,,,1
 S44140541,California Towhee,Melozone crissalis,29984.6,3,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-30-2018,04:30 PM,eBird - Stationary Count,90,1,,,1
 S44260439,California Towhee,Melozone crissalis,29984.6,3,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-04-2018,04:45 PM,eBird - Stationary Count,45,1,,,1
+S45496175,California Towhee,Melozone crissalis,29984.6,4,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,05-08-2018,04:55 PM,eBird - Stationary Count,40,1,,,1
 S31800682,California Towhee,Melozone crissalis,29984.6,2,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,09-28-2016,02:45 PM,eBird - Casual Observation,,0,,,1
 S35909062,California Towhee,Melozone crissalis,29984.6,1,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,04-12-2017,05:03 PM,eBird - Casual Observation,,0,,,1
 S41373451,California Towhee,Melozone crissalis,29984.6,3,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,12-28-2017,08:27 AM,eBird - Stationary Count,25,1,,,1
@@ -4677,6 +4837,7 @@ S32974681,California Towhee,Melozone crissalis,29984.6,1,US-CA,Contra Costa,Tild
 S37050835,California Towhee,Melozone crissalis,29984.6,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
 S42138067,California Towhee,Melozone crissalis,29984.6,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,01-21-2018,01:11 PM,eBird - Traveling Count,64,1,1.269,,1
 S42909447,California Towhee,Melozone crissalis,29984.6,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,02-17-2018,10:10 AM,eBird - Casual Observation,,0,,,1
+S45380572,California Towhee,Melozone crissalis,29984.6,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S34996491,California Towhee,Melozone crissalis,29984.6,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,02-26-2017,10:28 AM,eBird - Traveling Count,90,1,5.633,,1
 S35835992,California Towhee,Melozone crissalis,29984.6,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,04-09-2017,12:09 PM,eBird - Traveling Count,170,1,3.219,,1
 S43557570,California Towhee,Melozone crissalis,29984.6,3,US-CA,Marin,Rodeo Lagoon,37.8304863,-122.5329514,03-11-2018,07:13 AM,eBird - Traveling Count,80,1,2.5,,1
@@ -4688,6 +4849,7 @@ S44835030,Spotted Towhee,Pipilo maculatus,29984.69,6,US-CA,Contra Costa,Mount Di
 S36441582,Spotted Towhee,Pipilo maculatus,29984.69,4,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-30-2017,05:37 AM,eBird - Traveling Count,331,1,9.656,,1,,,"Started birding at Eagle Peak at sunrise, and slowly walked down from there through Mitchell Canyon to staging area"
 S35086570,Spotted Towhee,Pipilo maculatus,29984.69,4,US-CA,Contra Costa,Redwood Regional Park--Stream Trail,37.8206667,-122.166853,03-10-2017,06:30 AM,eBird - Traveling Count,150,1,2.414,,8,,Probable breeding,GGAS Birding by Ear along the Stream Trail **25 species represented here were either calling or singing or both. Most notable Pacific Wren and Ruby-crowned Kinglet (personal favorites for the morning).
 S37050835,Spotted Towhee,Pipilo maculatus,29984.69,4,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-21-2017,02:39 PM,eBird - Traveling Count,77,1,4.023,,1
+S45380572,Spotted Towhee,Pipilo maculatus,29984.69,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,05-05-2018,10:11 AM,eBird - Traveling Count,40,1,1,,1
 S29505345,Spotted Towhee,Pipilo maculatus,29984.69,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,05-08-2016,01:17 PM,eBird - Traveling Count,212,1,4.023,,1,,,"I also saw an oriole, that I am 90% sure was a Bullock's, but there is a small chance it was a Hooded, so I am leaving it off the checklist.   <br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S35835992,Spotted Towhee,Pipilo maculatus,29984.69,1,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,04-09-2017,12:09 PM,eBird - Traveling Count,170,1,3.219,,1
 S37674118,Spotted Towhee,Pipilo maculatus,29984.69,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,06-18-2017,05:45 AM,eBird - Traveling Count,155,1,3,,1
@@ -4710,6 +4872,7 @@ S23635604,Scarlet Tanager,Piranga olivacea,30163,1,CA-QC,Montréal,Parc du Mt-Ro
 S23419819,Scarlet Tanager,Piranga olivacea,30163,4,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2015,05:45 AM,eBird - Traveling Count,270,1,5.005,,1,,1m 6:20 1f 8:00 1m 8:20 1m 9:00,"<br />Submitted from BirdLog NA for iOS, version 1.8"
 S23558501,Scarlet Tanager,Piranga olivacea,30163,1,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-21-2015,05:40 AM,eBird - Traveling Count,166,1,2.993,,1,,Male,"Relatively cold for the season (9C) and very windy. The wind made it harder to hear calls or see movement. Relatively quiet morning <br />Submitted from BirdLog NA for iOS, version 1.8"
 S29792902,Scarlet Tanager,Piranga olivacea,30163,1,US-NY,New York,Central Park (ramble),40.77892,-73.970756,05-20-2016,06:05 AM,eBird - Traveling Count,90,1,1.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
+S45531330,Western Tanager,Piranga ludoviciana,30164,1,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1,,Female. In mid-story deciduous trees at the creek junction
 S44835030,Western Tanager,Piranga ludoviciana,30164,2,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
 S36441582,Western Tanager,Piranga ludoviciana,30164,4,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-30-2017,05:37 AM,eBird - Traveling Count,331,1,9.656,,1,,,"Started birding at Eagle Peak at sunrise, and slowly walked down from there through Mitchell Canyon to staging area"
 S31848010,Western Tanager,Piranga ludoviciana,30164,1,US-CA,Contra Costa,Tilden Nature Area--Jewel Lake,37.9124709,-122.2690237,10-01-2016,01:13 PM,eBird - Traveling Count,45,1,1.609,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
@@ -4721,6 +4884,9 @@ S24153836,Northern Cardinal,Cardinalis cardinalis,30233,1,US-MA,Barnstable,US-MA
 S44994727,Northern Cardinal,Cardinalis cardinalis,30233,1,US-FL,Charlotte,"7377–7435 Winchester Blvd, Englewood US-FL (26.9194,-82.3048)",26.919396,-82.304826,04-27-2018,12:12 PM,eBird - Casual Observation,,0,,,1
 S38127504,Northern Cardinal,Cardinalis cardinalis,30233,1,US-ME,Cumberland,"Western Promenade, Portland",43.6498314,-70.2765048,07-14-2017,08:17 AM,eBird - Traveling Count,35,1,1,,1
 S29023299,Northern Cardinal,Cardinalis cardinalis,30233,1,US-NY,Essex,Moody Pond,44.3292853,-74.1188721,04-16-2016,05:18 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
+S45751599,Northern Cardinal,Cardinalis cardinalis,30233,1,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
+S45751718,Northern Cardinal,Cardinalis cardinalis,30233,1,US-HI,Kauai,Kilauea Point NWR,22.2320374,-159.4022757,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S45610367,Northern Cardinal,Cardinalis cardinalis,30233,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
 S29304067,Northern Cardinal,Cardinalis cardinalis,30233,1,CA-QC,Laval,CA-QC-Laval-St Vincent de Paul - Cemetery,45.65377,-73.672469,04-30-2016,08:19 AM,eBird - Traveling Count,90,1,.805,,1,,Heard only,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S35536374,Northern Cardinal,Cardinalis cardinalis,30233,2,US-FL,Lee,Boca Bay Development,26.744861,-82.262355,03-30-2017,10:08 AM,eBird - Traveling Count,140,1,4.828,,1
 S45037039,Northern Cardinal,Cardinalis cardinalis,30233,12,US-FL,Lee,Boca Grande,26.751675,-82.261489,04-28-2018,09:35 AM,eBird - Casual Observation,,0,,,1,,,Species I saw throughout the day. I wasn’t focused on birding
@@ -4873,7 +5039,7 @@ S43492516,Brewer's Blackbird,Euphagus cyanocephalus,30419,2,US-CA,San Francisco,
 S31743310,Brewer's Blackbird,Euphagus cyanocephalus,30419,1,US-CA,San Francisco,Sutro Baths--seawatch,37.7810776,-122.5143653,09-24-2016,03:27 PM,eBird - Traveling Count,120,1,3.219,,1,,,"   Submitted from eBird for iOS, version 1.3.0 Build 86"
 S39494083,Brewer's Blackbird,Euphagus cyanocephalus,30419,2,US-CA,San Mateo,Half Moon Bay SB--Francis Beach,37.4688976,-122.4458456,10-01-2017,06:45 AM,eBird - Stationary Count,95,1,,,1
 S44372638,Brewer's Blackbird,Euphagus cyanocephalus,30419,4,US-CA,Sonoma,Bodega Bay--Diekman's Store area,38.3333081,-123.0486131,04-08-2018,12:26 PM,eBird - Casual Observation,,0,,,1
-S44566642,Brewer's Blackbird,Euphagus cyanocephalus,30419,30,US-CA,Sonoma,Bodega Head,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S44566642,Brewer's Blackbird,Euphagus cyanocephalus,30419,30,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S37427449,Brewer's Blackbird,Euphagus cyanocephalus,30419,5,US-CA,Sonoma,US-CA Forestville Beach,38.510608,-122.923814,06-03-2017,02:30 PM,eBird - Stationary Count,75,1,,,1
 S30506391,Common Grackle,Quiscalus quiscula,30421,12,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S24122817,Common Grackle,Quiscalus quiscula,30421,1,US-MA,Barnstable,US-MA Seybolt Beach House,41.667793,-69.973153,07-02-2015,11:23 AM,eBird - Casual Observation,0,0,,,1,,,"Grackle harrying hawk in tree by beach. Cardinal happened to be in same tree <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
@@ -4909,6 +5075,7 @@ S28840382,Orange-bellied Euphonia,Euphonia xanthogaster,30782,X,PE-SAM,,Tingana,
 S28840412,Rufous-bellied Euphonia,Euphonia rufiventris,30793,X,PE-SAM,,Nuevo Jaen,-7.057203,-76.068366,09-03-2012,,Historical,0,0,,,1
 S28841568,White-winged Grosbeak,Mycerobas carnipes,30796.8,X,NP-4,,Three passes trek below Gokyo,27.903034,86.715341,05-15-2010,,Historical,0,0,,,1
 S23635614,Evening Grosbeak,Coccothraustes vespertinus,30797.2,X,CA-ON,Nipissing,Camp Wanapitei,47.166227,-80.06892,05-13-2006,,Historical,0,0,,,1
+S45805913,Apapane,Himatione sanguinea,30862.45,3,US-HI,Kauai,Pihea Trail--Kalalau Rim,22.150861,-159.6221217,05-18-2018,05:47 AM,eBird - Traveling Count,98,1,2.077,,1
 S23560389,Pine Grosbeak,Pinicola enucleator,30864.26,X,CA-AB,Banff,CA-AB Bryant Creek Trail,50.873497,-115.480595,09-25-2004,,Historical,0,0,,,1
 S26000927,Eurasian Bullfinch,Pyrrhula pyrrhula,30864.36,2,CH-VS,,Road to Cleuson Dam,46.116787,7.321997,11-22-2015,12:14 PM,eBird - Casual Observation,0,0,,,1,,2m,"<br />Submitted from eBird for iOS, version 1.1.3 Build 30"
 S28841567,Black-headed Mountain-Finch,Leucosticte brandti,30864.49,X,NP-4,,Gokyo,27.954472,86.693625,05-07-2010,,Historical,0,0,,,1
@@ -4919,6 +5086,8 @@ S29463115,House Finch,Haemorhous mexicanus,30866,20,US-CA,Alameda,Cesar Chavez P
 S32974659,House Finch,Haemorhous mexicanus,30866,13,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,12-11-2016,03:09 PM,eBird - Traveling Count,60,1,2.414,,1
 S35143838,House Finch,Haemorhous mexicanus,30866,2,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,03-12-2017,04:06 PM,eBird - Traveling Count,90,1,3.219,,1
 S35801345,House Finch,Haemorhous mexicanus,30866,2,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,04-08-2017,03:37 PM,eBird - Traveling Count,35,1,2.414,,1
+S45461689,House Finch,Haemorhous mexicanus,30866,7,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-08-2018,12:15 PM,eBird - Traveling Count,45,1,1.25,,1,,,Walked a bit outside the grove itself. Basically walked a circle around the life sciences building
+S45531330,House Finch,Haemorhous mexicanus,30866,4,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,05-10-2018,01:47 PM,eBird - Traveling Count,46,1,1.566,,1,P Pair in Suitable Habitat
 S42674083,House Finch,Haemorhous mexicanus,30866,3,US-CA,Alameda,Hayward Regional Shoreline--H.A.R.D. Marsh,37.6253809,-122.1395588,02-11-2018,06:50 AM,eBird - Traveling Count,118,1,4.874,,1
 S37181734,House Finch,Haemorhous mexicanus,30866,7,US-CA,Alameda,Hayward Regional Shoreline--Winton Ave. access and parking area,37.6465875,-122.1467042,05-27-2017,09:14 AM,eBird - Traveling Count,34,1,1.207,,1
 S36502062,House Finch,Haemorhous mexicanus,30866,2,US-CA,Alameda,McLaughlin Eastshore SP--Berkeley Meadow,37.8670193,-122.3102331,05-02-2017,07:17 PM,eBird - Traveling Count,63,1,2.414,,1
@@ -4954,6 +5123,8 @@ S24153836,House Finch,Haemorhous mexicanus,30866,2,US-MA,Barnstable,US-MA Stage 
 S35258649,House Finch,Haemorhous mexicanus,30866,30,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S41871313,House Finch,Haemorhous mexicanus,30866,3,US-CA,Contra Costa,San Francisco Bay Trail--S 51st St.,37.9096009,-122.3274529,01-13-2018,07:24 AM,eBird - Traveling Count,227,1,4,,1
 S37674118,House Finch,Haemorhous mexicanus,30866,2,US-CA,Contra Costa,Tilden Regional Park--Seaview Trail,37.9011106,-122.2425342,06-18-2017,05:45 AM,eBird - Traveling Count,155,1,3,,1
+S45653727,House Finch,Haemorhous mexicanus,30866,1,US-HI,Kauai,"4965 Hanalei Plantation Rd, Princeville US-HI (22.2121,-159.4831)",22.212071,-159.483089,05-13-2018,02:00 PM,eBird - Casual Observation,,0,,,1,,Very yellow
+S45805913,House Finch,Haemorhous mexicanus,30866,2,US-HI,Kauai,Pihea Trail--Kalalau Rim,22.150861,-159.6221217,05-18-2018,05:47 AM,eBird - Traveling Count,98,1,2.077,,1
 S45037039,House Finch,Haemorhous mexicanus,30866,2,US-FL,Lee,Boca Grande,26.751675,-82.261489,04-28-2018,09:35 AM,eBird - Casual Observation,,0,,,1,,,Species I saw throughout the day. I wasn’t focused on birding
 S43564729,House Finch,Haemorhous mexicanus,30866,2,US-CA,Marin,"6 Gate 6 1/2 Rd, Sausalito US-CA (37.8749,-122.5081)",37.874906,-122.508103,03-11-2018,12:24 PM,eBird - Casual Observation,,0,,,1
 S44543389,House Finch,Haemorhous mexicanus,30866,2,US-CA,Marin,Mollusk Manor,38.190013,-122.916565,04-13-2018,03:00 PM,eBird - Casual Observation,,0,,,1
@@ -4988,6 +5159,7 @@ S36655126,Lesser Goldfinch,Spinus psaltria,31032,1,US-CA,Alameda,McLaughlin East
 S37784973,Lesser Goldfinch,Spinus psaltria,31032,2,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,06-24-2017,02:45 PM,eBird - Stationary Count,60,1,,,1
 S42661026,Lesser Goldfinch,Spinus psaltria,31032,5,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,02-10-2018,10:00 AM,eBird - Stationary Count,45,1,,,1
 S43544285,Lesser Goldfinch,Spinus psaltria,31032,3,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,03-10-2018,05:00 PM,eBird - Casual Observation,,0,,,1
+S45284551,Lesser Goldfinch,Spinus psaltria,31032,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,05-04-2018,07:48 AM,eBird - Casual Observation,,0,,,1,,Heard
 S29465889,Lesser Goldfinch,Spinus psaltria,31032,1,US-CA,Alameda,US-CA Berkeley Browning St,37.8678832,-122.2882068,05-05-2016,06:30 PM,eBird - Casual Observation,0,0,,,1
 S33490377,Lesser Goldfinch,Spinus psaltria,31032,3,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,01-05-2017,08:44 AM,eBird - Stationary Count,20,1,,,1,,,"Not entirely stationary, but I was wandering in circles in a very small park "
 S37579584,Lesser Goldfinch,Spinus psaltria,31032,1,US-CA,Alameda,US-CA Berkeley Way Mini-Park,37.87038,-122.287018,06-13-2017,04:59 PM,eBird - Stationary Count,29,1,,,1
@@ -5066,6 +5238,11 @@ S37962004,House Sparrow,Passer domesticus,31345,3,US-MA,Barnstable,US-MA Stage H
 S41871313,House Sparrow,Passer domesticus,31345,2,US-CA,Contra Costa,San Francisco Bay Trail--S 51st St.,37.9096009,-122.3274529,01-13-2018,07:24 AM,eBird - Traveling Count,227,1,4,,1
 S38128263,House Sparrow,Passer domesticus,31345,20,US-ME,Cumberland,"East End Beach, Portland",43.6700535,-70.2411626,07-14-2017,11:13 AM,eBird - Traveling Count,55,1,1,,1
 S38127504,House Sparrow,Passer domesticus,31345,15,US-ME,Cumberland,"Western Promenade, Portland",43.6498314,-70.2765048,07-14-2017,08:17 AM,eBird - Traveling Count,35,1,1,,1
+S45653576,House Sparrow,Passer domesticus,31345,4,US-HI,Kauai,"Hanalei Beach Park Pavilion, Princeville US-HI (22.2067,-159.4979)",22.206659,-159.497911,05-13-2018,07:40 AM,eBird - Traveling Count,57,1,1.635,,1
+S45610367,House Sparrow,Passer domesticus,31345,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-12-2018,01:25 PM,eBird - Casual Observation,,0,,,1
+S45647656,House Sparrow,Passer domesticus,31345,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
+S45669379,House Sparrow,Passer domesticus,31345,7,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
+S45756902,House Sparrow,Passer domesticus,31345,2,US-HI,Kauai,Waimea Plantation Cottages,21.956204,-159.675124,05-16-2018,05:47 PM,eBird - Casual Observation,,0,,,1
 S23045946,House Sparrow,Passer domesticus,31345,15,US-NY,Kings,Prospect Park,40.6602841,-73.9689534,04-24-2015,04:25 PM,eBird - Traveling Count,50,1,2,,2
 S38083280,House Sparrow,Passer domesticus,31345,8,US-ME,Knox,Harbor Park,44.1009616,-69.1077697,07-11-2017,10:25 AM,eBird - Stationary Count,30,1,,,1
 S45037039,House Sparrow,Passer domesticus,31345,4,US-FL,Lee,Boca Grande,26.751675,-82.261489,04-28-2018,09:35 AM,eBird - Casual Observation,,0,,,1,,,Species I saw throughout the day. I wasn’t focused on birding
@@ -5104,4 +5281,7 @@ S23560490,Red-billed Firefinch,Lagonosticta senegala,31889,X,UG-W,,Mweyri Lodge,
 S24859646,Black-and-white Mannikin,Spermestes bicolor,32030,X,UG-W,,Kanyawara,.564538,30.350473,06-02-2005,,Historical,0,0,,,1
 S23559391,White-rumped Munia,Lonchura striata,32043,X,VN-39,,VN-DN Cat Tien - conference building,11.418793,107.42643,11-09-2009,,Historical,0,0,,,1
 S23635877,Scaly-breasted Munia,Lonchura punctulata,32057,1,MY-02,,near Telaga marina,6.368283,99.684549,03-13-2009,,Historical,0,0,,,1
+S45751580,Chestnut Munia,Lonchura atricapilla,32087,3,US-HI,Kauai,Hanalei NWR,22.2106496,-159.4732361,05-15-2018,08:59 AM,eBird - Stationary Count,15,1,,,4
+S45645033,Chestnut Munia,Lonchura atricapilla,32087,70,US-HI,Kauai,"Waioli Park, Princeville US-HI (22.2010,-159.4992)",22.201047,-159.499185,05-13-2018,01:49 PM,eBird - Stationary Count,5,1,,,1
+S45779772,Java Sparrow,Lonchura oryzivora,32143,2,US-HI,Kauai,Waimea Plantation Cottages,21.956204,-159.675124,05-17-2018,02:05 PM,eBird - Casual Observation,,0,,,1
 S45037039,bird sp.,Aves sp.,34000,4,US-FL,Lee,Boca Grande,26.751675,-82.261489,04-28-2018,09:35 AM,eBird - Casual Observation,,0,,,1,,"Relatively sure that I saw 4 White-tailed Tropicbirds flying north over the beach (about directly above the water line) on the beach just south of First Street at about 2pm. Flying high and on a straight course. There was a strong on-shore wind that might have made it more likely for a pelagic species to be over the beach. All that said, I didn’t get as good a look as I would have liked, so I don’t feel confident enough to report the species (and so am noting the observation under “bird sp.”)",Species I saw throughout the day. I wasn’t focused on birding
