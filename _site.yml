@@ -4,13 +4,13 @@ navbar:
   left:
     - text: "ABA area"
       href: plotspage_ABA.html
+    - text: "Vermont"
+      href: plotspage_Vermont.html
     - text: "California"
       href: plotspage_California.html
     - text: "Quebec"
       href: plotspage_Quebec.html
-#    - text: "Vermont"
-#      href: plotspage_Vermont.html
-    - text: "Big days"
+    - text: "By Day"
       href: bigdays.html
 output_dir: "."
 output:
