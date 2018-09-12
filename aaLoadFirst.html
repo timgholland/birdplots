@@ -90,6 +90,9 @@ img {
 .tabbed-pane {
   padding-top: 12px;
 }
+.html-widget {
+  margin-bottom: 20px;
+}
 button.code-folding-btn:focus {
   outline: none;
 }
@@ -218,9 +221,18 @@ suppressPackageStartupMessages({
   library(knitr)
   library(rmarkdown)
   library(tidyverse)
-})
-
-## variables I need for my site 
+})</code></pre>
+<pre><code>## Warning: package &#39;cowplot&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;ggplot2&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;sf&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;rgdal&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;sp&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;rmarkdown&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;tidyr&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;purrr&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;dplyr&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: package &#39;stringr&#39; was built under R version 3.4.4</code></pre>
+<pre class="r"><code>## variables I need for my site 
 source(&quot;readin_data.R&quot;)</code></pre>
 <pre><code>## Warning: Missing column names filled in: &#39;X6&#39; [6], &#39;X7&#39; [7]</code></pre>
 <pre><code>## Parsed with column specification:
@@ -247,15 +259,19 @@ source(&quot;readin_data.R&quot;)</code></pre>
 <pre><code>## Warning in rbind(names(probs), probs_f): number of columns of result is not
 ## a multiple of vector length (arg 1)</code></pre>
 <pre><code>## Warning: 34 parsing failures.
-## row # A tibble: 5 x 5 col     row col          expected   actual file                                expected   &lt;int&gt; &lt;chr&gt;        &lt;chr&gt;      &lt;chr&gt;  &lt;chr&gt;                               actual 1  3465 extinct year an integer xxxx   &#39;eBird-Clements-integrated-checkli… file 2  3556 extinct year an integer xxxx   &#39;eBird-Clements-integrated-checkli… row 3  3562 extinct year an integer xxxx   &#39;eBird-Clements-integrated-checkli… col 4  3578 extinct year an integer xxxx   &#39;eBird-Clements-integrated-checkli… expected 5  4895 extinct year an integer xxxx   &#39;eBird-Clements-integrated-checkli…
+## row # A tibble: 5 x 5 col     row col         expected  actual file                                  expected   &lt;int&gt; &lt;chr&gt;       &lt;chr&gt;     &lt;chr&gt;  &lt;chr&gt;                                 actual 1  3465 extinct ye… an integ… xxxx   &#39;eBird-Clements-integrated-checklist… file 2  3556 extinct ye… an integ… xxxx   &#39;eBird-Clements-integrated-checklist… row 3  3562 extinct ye… an integ… xxxx   &#39;eBird-Clements-integrated-checklist… col 4  3578 extinct ye… an integ… xxxx   &#39;eBird-Clements-integrated-checklist… expected 5  4895 extinct ye… an integ… xxxx   &#39;eBird-Clements-integrated-checklist…
 ## ... ................. ... .......................................................................... ........ .......................................................................... ...... .......................................................................... .... .......................................................................... ... .......................................................................... ... .......................................................................... ........ ..........................................................................
 ## See problems(...) for more details.</code></pre>
-<pre><code>## Warning: Too many values at 144 locations: 246, 276, 277, 279, 280, 281,
-## 287, 288, 289, 291, 304, 305, 306, 307, 308, 309, 310, 311, 314, 330, ...</code></pre>
-<pre><code>## Warning: Too few values at 32736 locations: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10,
-## 11, 12, 13, 14, 15, 16, 17, 18, 19, 21, ...</code></pre>
-<pre><code>## Warning: Too many values at 22868 locations: 196, 197, 198, 199, 200, 211,
-## 212, 213, 214, 215, 216, 217, 218, 219, 220, 221, 222, 223, 224, 225, ...</code></pre>
+<pre><code>## Warning: package &#39;bindrcpp&#39; was built under R version 3.4.4</code></pre>
+<pre><code>## Warning: Expected 4 pieces. Additional pieces discarded in 144 rows [246,
+## 276, 277, 279, 280, 281, 287, 288, 289, 291, 304, 305, 306, 307, 308, 309,
+## 310, 311, 314, 330, ...].</code></pre>
+<pre><code>## Warning: Expected 4 pieces. Missing pieces filled with `NA` in 32736
+## rows [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19,
+## 21, ...].</code></pre>
+<pre><code>## Warning: Expected 2 pieces. Additional pieces discarded in 22868 rows [196,
+## 197, 198, 199, 200, 211, 212, 213, 214, 215, 216, 217, 218, 219, 220, 221,
+## 222, 223, 224, 225, ...].</code></pre>
 <pre><code>## Parsed with column specification:
 ## cols(
 ##   name = col_character(),
@@ -289,7 +305,7 @@ source(&quot;readin_data.R&quot;)</code></pre>
 <pre><code>## See spec(...) for full column specifications.</code></pre>
 <pre><code>## Warning in rbind(names(probs), probs_f): number of columns of result is not
 ## a multiple of vector length (arg 1)</code></pre>
-<pre><code>## Warning: 4181 parsing failures.
+<pre><code>## Warning: 4293 parsing failures.
 ## row # A tibble: 5 x 5 col     row col   expected   actual     file              expected   &lt;int&gt; &lt;chr&gt; &lt;chr&gt;      &lt;chr&gt;      &lt;chr&gt;             actual 1     1 &lt;NA&gt;  21 columns 18 columns &#39;MyEBirdData.csv&#39; file 2     2 &lt;NA&gt;  21 columns 20 columns &#39;MyEBirdData.csv&#39; row 3     3 &lt;NA&gt;  21 columns 18 columns &#39;MyEBirdData.csv&#39; col 4     4 &lt;NA&gt;  21 columns 18 columns &#39;MyEBirdData.csv&#39; expected 5     5 &lt;NA&gt;  21 columns 18 columns &#39;MyEBirdData.csv&#39;
 ## ... ................. ... ..................................................... ........ ..................................................... ...... ..................................................... .... ..................................................... ... ..................................................... ... ..................................................... ........ .....................................................
 ## See problems(...) for more details.</code></pre>
