@@ -6,10 +6,10 @@ ebPal <- c("#e76f51","#f4a261","#e9c46a","#2a9d8f","#264653")
 
 orders <- read_csv("order_names.csv")
 
-clem <- read_csv(file="eBird-Clements-integrated-checklist-v2017.csv") %>% 
-  rename(common_name = `English name`, species_group = `eBird species group`, sort2017 = `sort v2017`, latin_name_incSubsp = `scientific name`) %>% 
+clem <- read_csv(file="eBird-Clements-v2018-integrated-checklist-August-2018.csv") %>% 
+  rename(common_name = `English name`, species_group = `eBird species group`, sort2018 = `sort v2018`, latin_name_incSubsp = `scientific name`) %>% 
   filter(is.na(extinct)) %>%
-  select(-starts_with("X"),-`eBird species code 2017`, -`extinct year`, -range) %>%
+  select(-starts_with("X"),-`eBird species code 2018`, -`extinct year`, -range) %>%
   separate(latin_name_incSubsp,sep=" ",into=c("genus","species","subspA","subspB"),remove=F) %>%
   unite(latin_binomial, c(genus, species),sep=" ", remove=F) %>%
   unite(subspTemp, c(subspA,subspB),sep=" ",remove=T) %>%
