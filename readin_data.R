@@ -3,6 +3,10 @@
 
 ebPal <- c("#e76f51","#f4a261","#e9c46a","#2a9d8f","#264653")
 
+muteCol <- function(col,sVal,vVal){
+  cTemp <-hsv(h=rgb2hsv(t(coords(hex2RGB(col))))[1],s=sVal,v=vVal)
+  cTemp}
+
 
 orders <- read_csv("order_names.csv")
 
