@@ -15,6 +15,8 @@ S28472186,Snow Goose,Anser caerulescens,239,300,CA-QC,Vaudreuil-Soulanges,CA-QC-
 S23559373,Greater White-fronted Goose,Anser albifrons,252,X,CA-NT,Inuvik,CA-NWT Anderson River (lower),69.25198,-128.426845,07-27-2004,,Historical,0,0,,,1
 S40892270,Greater White-fronted Goose,Anser albifrons,252,150,US-CA,Sacramento,Cosumnes River Preserve,38.2658235,-121.4394915,12-03-2017,09:25 AM,eBird - Traveling Count,205,1,3,,3
 S29023299,Domestic goose sp. (Domestic type),Anser sp. (Domestic type),272,1,US-NY,Essex,Moody Pond,44.3292853,-74.1188721,04-16-2016,05:18 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
+S50174100,Brant,Branta bernicla,274,4,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,One flock of three flying. One floating at the ice edge,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50174697,Brant,Branta bernicla,274,10,US-MA,Barnstable,First Encounter Beach,41.8215025,-70.0037241,11-24-2018,09:40 AM,eBird - Casual Observation,,0,,,1
 S23560384,Brant,Branta bernicla,274,X,CA-NT,Inuvik,CA-NWT Anderson River Delta Bird Sanctuary - Wood Bay,69.749574,-128.810101,08-01-2004,,Historical,0,0,,,1
 S33308563,Brant,Branta bernicla,274,3,US-NY,New York,Carl Schurz Park,40.7753776,-73.9436671,12-31-2016,10:30 AM,eBird - Casual Observation,0,0,,,1
 S35141513,Canada Goose,Branta canadensis,296,12,US-CA,Alameda,Albany Bulb,37.890057,-122.32462,03-12-2017,06:56 AM,eBird - Traveling Count,180,1,3.219,,1
@@ -31,7 +33,12 @@ S41683219,Canada Goose,Branta canadensis,296,23,US-CA,Alameda,Sea Breeze Market 
 S43183872,Canada Goose,Branta canadensis,296,8,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S37525135,Canada Goose,Branta canadensis,296,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,05:50 AM,eBird - Traveling Count,56,1,1.5,,1,F Flyover
 S37536831,Canada Goose,Branta canadensis,296,15,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,08:08 AM,eBird - Traveling Count,120,1,5.7,,1
+S50174100,Canada Goose,Branta canadensis,296,7,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50176609,Canada Goose,Branta canadensis,296,56,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S24418348,Canada Goose,Branta canadensis,296,15,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-03-2015,05:47 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
+S50126919,Canada Goose,Branta canadensis,296,13,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
+S50136248,Canada Goose,Branta canadensis,296,7,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,04:00 PM,eBird - Casual Observation,,0,,,1
+S50157617,Canada Goose,Branta canadensis,296,22,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S49230527,Canada Goose,Branta canadensis,296,10,US-VT,Chittenden,Blodgett Beach,44.4634695,-73.2206637,10-16-2018,10:10 AM,eBird - Casual Observation,,0,,,1
 S49136551,Canada Goose,Branta canadensis,296,2,US-VT,Chittenden,Charlotte Ferry Landing - McNeil Cove,44.2999029,-73.2986445,10-12-2018,10:35 AM,eBird - Casual Observation,,0,,,1
 S48386958,Canada Goose,Branta canadensis,296,120,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
@@ -99,6 +106,7 @@ S45751718,Hawaiian Goose,Branta sandvicensis,319,2,US-HI,Kauai,Kilauea Point NWR
 S45647656,Hawaiian Goose,Branta sandvicensis,319,2,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-13-2018,06:20 AM,eBird - Stationary Count,20,1,,,1
 S45610499,Hawaiian Goose,Branta sandvicensis,319,35,US-HI,Kauai,"Princeville at Hanalei Makai Course, Princeville US-HI (22.2231,-159.4844)",22.223075,-159.4844,05-12-2018,02:02 PM,eBird - Casual Observation,,0,,,1
 S40453138,Branta sp.,Branta sp.,321,4,US-CA,Marin,Pt. Reyes--Abbotts Lagoon - plowed fields south of trail,38.1211317,-122.9398088,11-11-2017,12:47 PM,eBird - Traveling Count,99,1,2,,1,,"Initially recorded these as Cackling. The more I look at photos of the range of variation in Canada Goose, the less confident I have become. Leaving as Branta sp. to be conservative"
+S50176609,Mute Swan,Cygnus olor,328,3,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S23045946,Mute Swan,Cygnus olor,328,1,US-NY,Kings,Prospect Park,40.6602841,-73.9689534,04-24-2015,04:25 PM,eBird - Traveling Count,50,1,2,,2
 S32113631,Tundra Swan,Cygnus columbianus,333,6,CA-NT,Inuvik,CA-NWT Anderson River (lower),69.25198,-128.426845,07-28-2004,,eBird - Casual Observation,0,0
 S32113417,Tundra Swan,Cygnus columbianus,333,1,CA-NT,Inuvik,Lac Maunoir,67.433138,-125.147788,07-09-2004,,eBird - Casual Observation,0,0
@@ -150,6 +158,7 @@ S28718304,Northern Shoveler,Spatula clypeata,427,2,US-CA,San Francisco,Golden Ga
 S37183623,Gadwall,Mareca strepera,431,4,US-CA,Alameda,Hayward Regional Shoreline--Frank's Dump,37.6540967,-122.1544504,05-27-2017,10:09 AM,eBird - Traveling Count,50,1,1.609,,1
 S37181885,Gadwall,Mareca strepera,431,2,US-CA,Alameda,Hayward Regional Shoreline--Hayward's Landing,37.6453302,-122.1558022,05-27-2017,09:48 AM,eBird - Stationary Count,5,1,,,1
 S37182287,Gadwall,Mareca strepera,431,2,US-CA,Alameda,Hayward Regional Shoreline--Radio Tower Hills,37.6500534,-122.1523476,05-27-2017,09:52 AM,eBird - Traveling Count,16,1,.805,,1
+S50176609,Gadwall,Mareca strepera,431,2,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S36837840,Gadwall,Mareca strepera,431,2,US-CA,Marin,Pt. Reyes--Abbotts Lagoon,38.1190611,-122.9522467,05-14-2017,05:25 AM,eBird - Traveling Count,191,1,8.047,,1
 S23635597,Gadwall,Mareca strepera,431,X,CA-QC,Montréal,Parc des Rapides,45.4277985,-73.5921872,05-24-2014,,Historical,0,0,,,1
 S23614621,Gadwall,Mareca strepera,431,1,CA-QC,Montréal,Parc des Rapides,45.4277985,-73.5921872,05-24-2015,03:00 PM,eBird - Casual Observation,0,1,,,1,,,"<br />Submitted from BirdLog NA for iOS, version 1.8"
@@ -204,9 +213,12 @@ S36655126,Mallard,Anas platyrhynchos,464,4,US-CA,Alameda,McLaughlin Eastshore SP
 S37646119,Mallard,Anas platyrhynchos,464,5,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,06-17-2017,12:45 PM,eBird - Stationary Count,3,1,,,1
 S40070924,Mallard,Anas platyrhynchos,464,12,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,10-20-2017,03:48 PM,eBird - Stationary Count,6,1,,,1
 S41683219,Mallard,Anas platyrhynchos,464,16,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,01-06-2018,12:40 PM,eBird - Stationary Count,12,1,,,1
+S50174100,Mallard,Anas platyrhynchos,464,2,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50176609,Mallard,Anas platyrhynchos,464,16,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S49230527,Mallard,Anas platyrhynchos,464,30,US-VT,Chittenden,Blodgett Beach,44.4634695,-73.2206637,10-16-2018,10:10 AM,eBird - Casual Observation,,0,,,1
 S49466218,Mallard,Anas platyrhynchos,464,2,US-VT,Chittenden,Burlington Waterfront Park and Breakwater,44.4779574,-73.2233097,10-26-2018,08:54 AM,eBird - Casual Observation,,0,,,1
 S48386958,Mallard,Anas platyrhynchos,464,5,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
+S50136313,Mallard,Anas platyrhynchos,464,6,US-VT,Chittenden,Oakledge Park,44.4531049,-73.2270098,11-18-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S47785967,Mallard,Anas platyrhynchos,464,1,US-VT,Chittenden,VTCH Leddy Park,44.5039702,-73.2500821,08-11-2018,09:30 AM,eBird - Casual Observation,,0
 S43168202,Mallard,Anas platyrhynchos,464,2,US-CA,Contra Costa,"1900 Stenmark Dr, Richmond US-CA (37.9641,-122.4189)",37.964118,-122.418899,02-25-2018,06:21 AM,eBird - Traveling Count,25,1,.3,,1
 S41016856,Mallard,Anas platyrhynchos,464,22,US-CA,Contra Costa,Meeker Slough,37.9101431,-122.3369694,12-10-2017,06:57 AM,eBird - Traveling Count,37,1,.448,,3
@@ -279,6 +291,9 @@ S42674083,Mallard (Domestic type),Anas platyrhynchos (Domestic type),467,2,US-CA
 S40070924,Mallard (Domestic type),Anas platyrhynchos (Domestic type),467,1,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,10-20-2017,03:48 PM,eBird - Stationary Count,6,1,,,1
 S35258649,Mallard (Domestic type),Anas platyrhynchos (Domestic type),467,3,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S47946010,Mallard (Domestic type),Anas platyrhynchos (Domestic type),467,12,CA-NB,York,CA-NB-Prince William - King’s Landing,45.877665,-66.969486,08-19-2018,11:20 AM,eBird - Traveling Count,60,1,1,,1
+S50174100,American Black Duck,Anas rubripes,482,6,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50174697,American Black Duck,Anas rubripes,482,7,US-MA,Barnstable,First Encounter Beach,41.8215025,-70.0037241,11-24-2018,09:40 AM,eBird - Casual Observation,,0,,,1
+S50126919,American Black Duck,Anas rubripes,482,2,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
 S48237622,American Black Duck,Anas rubripes,482,8,US-MA,Barnstable,Wellfleet Bay Wildlife Sanctuary,41.8825315,-69.995712,09-02-2018,06:27 AM,eBird - Traveling Count,174,1,5.691,,1
 S30355484,American Black Duck,Anas rubripes,482,1,US-NY,Franklin,Buck Pond Campground,44.503613,-74.114799,06-18-2016,02:08 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
 S30355531,American Black Duck,Anas rubripes,482,1,US-NY,Franklin,Buck Pond Campground,44.503613,-74.114799,06-19-2016,07:31 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
@@ -342,6 +357,7 @@ S37014087,Greater/Lesser Scaup,Aythya marila/affinis,595,5,US-CA,Alameda,Cesar C
 S41688006,Greater/Lesser Scaup,Aythya marila/affinis,595,50,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,01-06-2018,12:54 PM,eBird - Traveling Count,90,1,2,,1
 S40977737,Greater/Lesser Scaup,Aythya marila/affinis,595,6,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,12-08-2017,12:18 PM,eBird - Traveling Count,89,1,.773,,1
 S34996426,Greater/Lesser Scaup,Aythya marila/affinis,595,6,US-CA,Alameda,McLaughlin Eastshore SP--North Basin,37.8725498,-122.311424,03-05-2017,05:10 PM,eBird - Casual Observation,,0,,,1
+S50176609,Greater/Lesser Scaup,Aythya marila/affinis,595,1,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S35258649,Greater/Lesser Scaup,Aythya marila/affinis,595,8,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S41943573,Greater/Lesser Scaup,Aythya marila/affinis,595,35,US-CA,Contra Costa,Pt. Isabel Regional Shoreline,37.9001201,-122.3251247,01-15-2018,12:30 PM,eBird - Traveling Count,87,1,1.628,,1
 S42105536,Greater/Lesser Scaup,Aythya marila/affinis,595,1,US-CA,Contra Costa,Shimada Friendship Park,37.9079083,-122.3443937,01-20-2018,10:25 AM,eBird - Casual Observation,,0,,,1
@@ -351,9 +367,14 @@ S28718304,Greater/Lesser Scaup,Aythya marila/affinis,595,40,US-CA,San Francisco,
 S32974659,Aythya sp.,Aythya sp.,599,150,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,12-11-2016,03:09 PM,eBird - Traveling Count,60,1,2.414,,1
 S35143838,Aythya sp.,Aythya sp.,599,40,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,03-12-2017,04:06 PM,eBird - Traveling Count,90,1,3.219,,1
 S42674083,Aythya sp.,Aythya sp.,599,2,US-CA,Alameda,Hayward Regional Shoreline--H.A.R.D. Marsh,37.6253809,-122.1395588,02-11-2018,06:50 AM,eBird - Traveling Count,118,1,4.874,,1
+S50174100,Common Eider,Somateria mollissima,603,30,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,One flock. 3/4ths male,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50155396,Common Eider,Somateria mollissima,603,2,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
+S50174697,Common Eider,Somateria mollissima,603,90,US-MA,Barnstable,First Encounter Beach,41.8215025,-70.0037241,11-24-2018,09:40 AM,eBird - Casual Observation,,0,,,1,,Single large flock. Roughly equal male female split
 S24859657,Common Eider,Somateria mollissima,603,60,US-MA,Barnstable,"Monomoy NWR--South Beach, Chatham",41.6298145,-69.9609375,11-25-2011,,Historical,0,0,,,1
 S48275637,Common Eider,Somateria mollissima,603,1,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,09-03-2018,03:40 PM,eBird - Traveling Count,60,1,2,,1
 S38004534,Common Eider,Somateria mollissima,603,1,US-MA,Barnstable,Stage Harbor,41.6624138,-69.9745967,07-06-2017,05:45 PM,eBird - Casual Observation,,0,,,1
+S50126919,Common Eider,Somateria mollissima,603,4,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
+S50157617,Common Eider,Somateria mollissima,603,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S24605171,Common Eider,Somateria mollissima,603,27,CA-QC,La Côte-de-Gaspé,CA-QC-Gaspé-Parc National De Forillon - 48.7599x-64.1836,48.759896,-64.1836,08-13-2015,12:59 PM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S30784598,Common Eider,Somateria mollissima,603,41,CA-QC,La Haute-Côte-Nord,Parc marin du Saguenay-St Laurent--Anse à la Cave,48.2831246,-69.4556896,07-20-2016,03:00 PM,eBird - Stationary Count,75,1,,,1,,22m 19f flights either all male or all female except one of 3 and 3,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S35839527,Common Eider,Somateria mollissima,603,54,CA-QC,Rimouski-Neigette,PN du Bic--Anse à Capelans,48.3338748,-68.8492713,07-18-2016,04:45 PM,eBird - Casual Observation,0,0
@@ -369,6 +390,7 @@ S34213579,Surf Scoter,Melanitta perspicillata,616,12,US-CA,Marin,Pt. Reyes--Lima
 S28727927,Surf Scoter,Melanitta perspicillata,616,6,US-CA,San Francisco,Lands End,37.7862499,-122.5063992,04-03-2016,10:41 AM,eBird - Traveling Count,100,1,3.219,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S42274371,Surf Scoter,Melanitta perspicillata,616,14,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
 S44566642,Surf Scoter,Melanitta perspicillata,616,1,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
+S50155396,White-winged Scoter,Melanitta deglandi,618,5,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S23560385,White-winged Scoter,Melanitta deglandi,618,X,CA-NT,Inuvik,Ross River,67.376532,-125.72902,07-04-2004,,Historical,0,0,,,1
 S24594910,White-winged Scoter,Melanitta deglandi,618,500,CA-QC,La Matanie,East of Baie des Sables,48.729603,-67.885062,08-12-2015,04:07 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S44681922,Black Scoter,Melanitta americana,624,X,US-CA,Sonoma,Bodega Bay--Gaffney Pt. - includes Marine Lab and residence entrances,38.3150602,-123.0578613,04-14-2018,11:45 AM,eBird - Casual Observation,,0,,,1,,,driving
@@ -390,6 +412,13 @@ S34996426,Bufflehead,Bucephala albeola,629,200,US-CA,Alameda,McLaughlin Eastshor
 S43292411,Bufflehead,Bucephala albeola,629,9,US-CA,Alameda,Middle Harbor Shoreline Park,37.8054779,-122.3259401,03-01-2018,09:41 AM,eBird - Traveling Count,51,1,1.5,,1
 S41683219,Bufflehead,Bucephala albeola,629,1,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,01-06-2018,12:40 PM,eBird - Stationary Count,12,1,,,1
 S43183872,Bufflehead,Bucephala albeola,629,4,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
+S50174100,Bufflehead,Bucephala albeola,629,15,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50176609,Bufflehead,Bucephala albeola,629,35,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
+S50174697,Bufflehead,Bucephala albeola,629,5,US-MA,Barnstable,First Encounter Beach,41.8215025,-70.0037241,11-24-2018,09:40 AM,eBird - Casual Observation,,0,,,1
+S50126919,Bufflehead,Bucephala albeola,629,11,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
+S50136248,Bufflehead,Bucephala albeola,629,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,04:00 PM,eBird - Casual Observation,,0,,,1
+S50155401,Bufflehead,Bucephala albeola,629,2,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,12:56 PM,eBird - Casual Observation,,0,,,1
+S50157617,Bufflehead,Bucephala albeola,629,12,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S43168202,Bufflehead,Bucephala albeola,629,1,US-CA,Contra Costa,"1900 Stenmark Dr, Richmond US-CA (37.9641,-122.4189)",37.964118,-122.418899,02-25-2018,06:21 AM,eBird - Traveling Count,25,1,.3,,1
 S35258649,Bufflehead,Bucephala albeola,629,2,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S41943573,Bufflehead,Bucephala albeola,629,16,US-CA,Contra Costa,Pt. Isabel Regional Shoreline,37.9001201,-122.3251247,01-15-2018,12:30 PM,eBird - Traveling Count,87,1,1.628,,1
@@ -417,8 +446,10 @@ S33050339,Common Goldeneye,Bucephala clangula,630,1,US-CA,El Dorado,US-CA-South 
 S41525304,Common Goldeneye,Bucephala clangula,630,22,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S23560431,Barrow's Goldeneye,Bucephala islandica,635,X,CA-BC,Columbia-Shuswap,CA-BC Lake O'Hara,51.355598,-116.333307,09-12-2004,,Historical,0,0,,,1
 S40977737,Common/Barrow's Goldeneye,Bucephala clangula/islandica,637,1,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,12-08-2017,12:18 PM,eBird - Traveling Count,89,1,.773,,1
+S50136313,Common/Barrow's Goldeneye,Bucephala clangula/islandica,637,1,US-VT,Chittenden,Oakledge Park,44.4531049,-73.2270098,11-18-2018,02:00 PM,eBird - Casual Observation,,0,,,1,,Female / winter plumage male - couldn’t see well enough to see which species
 S35258649,Common/Barrow's Goldeneye,Bucephala clangula/islandica,637,1,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S40302942,Hooded Merganser,Lophodytes cucullatus,639,1,US-CA,Alameda,MLK Jr. Regional Shoreline--Arrowhead Marsh,37.7421628,-122.2112274,11-04-2017,08:08 AM,eBird - Traveling Count,136,1,1.5,,13
+S50174873,Hooded Merganser,Lophodytes cucullatus,639,68,US-MA,Barnstable,"Jemima Pond, Eastham",41.829741,-69.985292,11-24-2018,10:07 AM,eBird - Casual Observation,,0,,,1,,Roughly even male female split
 S28840431,Hooded Merganser,Lophodytes cucullatus,639,X,US-FL,Lee,Boca Bay Development - large pond,26.723128,-82.26086,03-07-2015,,Historical,0,0,,,1
 S43378855,Hooded Merganser,Lophodytes cucullatus,639,2,US-CA,Marin,Rodeo Lagoon,37.8304863,-122.5329514,03-04-2018,10:22 AM,eBird - Casual Observation,,0,,,1
 S43557570,Hooded Merganser,Lophodytes cucullatus,639,2,US-CA,Marin,Rodeo Lagoon,37.8304863,-122.5329514,03-11-2018,07:13 AM,eBird - Traveling Count,80,1,2.5,,1
@@ -430,6 +461,11 @@ S23614621,Common Merganser,Mergus merganser,646,1,CA-QC,Montréal,Parc des Rapid
 S23635613,Common Merganser,Mergus merganser,646,X,CA-ON,Nipissing,Red Squirrel River,47.164828,-80.061102,05-13-2006,,Historical,0,0,,,1
 S41468324,Common Merganser,Mergus merganser,646,2,US-CA,Sonoma,"US-CA-21650 Moscow Rd, Monte Rio US-CA (38.4690,-123.0163)",38.469018,-123.01633,12-31-2017,09:16 AM,eBird - Casual Observation,,0,,,1
 S26000959,Common Merganser,Mergus merganser,646,2,CH-VD,,Lake Geneva by Montreux,46.428782,6.912449,11-25-2015,02:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.3 Build 30"
+S50176609,Red-breasted Merganser,Mergus serrator,654,1,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
+S50155396,Red-breasted Merganser,Mergus serrator,654,7,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
+S50126919,Red-breasted Merganser,Mergus serrator,654,68,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
+S50155401,Red-breasted Merganser,Mergus serrator,654,10,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,12:56 PM,eBird - Casual Observation,,0,,,1
+S50157617,Red-breasted Merganser,Mergus serrator,654,2,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S23559363,Red-breasted Merganser,Mergus serrator,654,X,CA-NT,Inuvik,Colville Lake,67.03334,-126.0834,07-04-2004,,Historical,0,0,,,1
 S42281211,Red-breasted Merganser,Mergus serrator,654,3,US-CA,San Francisco,Presidio--Crissy Field Lagoon,37.8047658,-122.4562311,01-27-2018,10:28 AM,eBird - Traveling Count,44,1,1.528,,1
 S42304237,Red-breasted Merganser,Mergus serrator,654,3,US-CA,San Francisco,Presidio--Crissy Field Lagoon,37.8047658,-122.4562311,01-28-2018,07:11 AM,eBird - Traveling Count,42,1,.884,,1
@@ -504,6 +540,7 @@ S37543033,Wild Turkey,Meleagris gallopavo,1692,3,US-CA,Alameda,US-CA Anthony Cha
 S37525135,Wild Turkey,Meleagris gallopavo,1692,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,05:50 AM,eBird - Traveling Count,56,1,1.5,,1
 S37536831,Wild Turkey,Meleagris gallopavo,1692,6,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,08:08 AM,eBird - Traveling Count,120,1,5.7,,1,FL Recently Fledged Young
 S37536868,Wild Turkey,Meleagris gallopavo,1692,11,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,10:50 AM,eBird - Stationary Count,20,1,,,1,FL Recently Fledged Young
+S50178129,Wild Turkey,Meleagris gallopavo,1692,7,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-24-2018,11:45 AM,eBird - Casual Observation,,0,,,1
 S48237622,Wild Turkey,Meleagris gallopavo,1692,9,US-MA,Barnstable,Wellfleet Bay Wildlife Sanctuary,41.8825315,-69.995712,09-02-2018,06:27 AM,eBird - Traveling Count,174,1,5.691,,1
 S35258649,Wild Turkey,Meleagris gallopavo,1692,X,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1,,Heard
 S44835030,Wild Turkey,Meleagris gallopavo,1692,1,US-CA,Contra Costa,Mount Diablo SP--Eagle Peak,37.9020627,-121.9383502,04-22-2018,06:17 AM,eBird - Traveling Count,324,1,11.279,,1,,,"Started the checklist at sunrise on the summit of Eagle Peak, and birded from the summit down, through Deer Flat, and out Mitchell Canyon to visitor's centre. In retrospect, I should have split it into multiple checklists. Will do so next time. General thoughts on locations: Lazuli buntings all at the top near Eagle Peak. Black-throated Grey and Hermit Warblers also mostly up high. Cassin's Vireo and all the Woodpeckers were in the oak woodland around Deer Flat. Townsend's Warblers were everywhere, and to a lesser degree Yellow-Rumped Warblers too. Nashville and Wilson's Warblers I did not see up high - only from Deer Flat on down."
@@ -1253,6 +1290,7 @@ S28727927,Surfbird,Calidris virgata,5811,14,US-CA,San Francisco,Lands End,37.786
 S44566642,Surfbird,Calidris virgata,5811,10,US-CA,Sonoma,Bodega Head - offshore species and the bluff ONLY,38.3031875,-123.0648422,04-14-2018,10:13 AM,eBird - Traveling Count,96,1,2.3,,1
 S40108254,Sanderling,Calidris alba,5825,5,US-CA,Alameda,Elsie Roemer Bird Sanctuary,37.7525975,-122.2473836,10-22-2017,12:58 PM,eBird - Stationary Count,15,1,,,1
 S40977737,Sanderling,Calidris alba,5825,30,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,12-08-2017,12:18 PM,eBird - Traveling Count,89,1,.773,,1
+S50155396,Sanderling,Calidris alba,5825,19,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S48275637,Sanderling,Calidris alba,5825,20,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,09-03-2018,03:40 PM,eBird - Traveling Count,60,1,2,,1
 S48386958,Sanderling,Calidris alba,5825,3,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
 S42094715,Sanderling,Calidris alba,5825,20,US-CA,Contra Costa,"Richmond Marina Bay Trl, Richmond US-CA (37.9091,-122.3403)",37.909079,-122.340281,01-20-2018,10:31 AM,eBird - Stationary Count,2,1,,,1
@@ -1311,6 +1349,7 @@ S42669561,peep sp.,Calidris sp. (peep sp.),5862,400,US-CA,Alameda,Hayward Region
 S42674083,peep sp.,Calidris sp. (peep sp.),5862,500,US-CA,Alameda,Hayward Regional Shoreline--H.A.R.D. Marsh,37.6253809,-122.1395588,02-11-2018,06:50 AM,eBird - Traveling Count,118,1,4.874,,1
 S31631384,peep sp.,Calidris sp. (peep sp.),5862,1,US-CA,Alameda,Oakland Inner Harbor,37.7925316,-122.2913449,09-17-2016,04:59 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S40070924,peep sp.,Calidris sp. (peep sp.),5862,6,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,10-20-2017,03:48 PM,eBird - Stationary Count,6,1,,,1
+S50174100,peep sp.,Calidris sp. (peep sp.),5862,20,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,One flock not well seen. Probably Sanderlings,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
 S48386958,peep sp.,Calidris sp. (peep sp.),5862,30,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1,,Flock of 30+ birds that I think were Sanderling but not sure
 S42095339,peep sp.,Calidris sp. (peep sp.),5862,3,US-CA,Contra Costa,Hoffman Marsh,37.9042237,-122.3197925,01-20-2018,10:48 AM,eBird - Stationary Count,6,1,,,1
 S41016856,peep sp.,Calidris sp. (peep sp.),5862,30,US-CA,Contra Costa,Meeker Slough,37.9101431,-122.3369694,12-10-2017,06:57 AM,eBird - Traveling Count,37,1,.448,,3
@@ -1429,6 +1468,7 @@ S39153239,Rhinoceros Auklet,Cerorhinca monocerata,6147,5,US-CA,Monterey,"US-Paci
 S24605185,Black-legged Kittiwake,Rissa tridactyla,6158,1,CA-QC,La Côte-de-Gaspé,PN Forillon--L'Anse-aux-Amérindiens,48.7700675,-64.1967575,08-13-2015,04:30 PM,eBird - Casual Observation,0,0,,,1,,"<a href=""https://www.flickr.com/photos/54368903@N08/20725385812/in/datetaken/"" title=""DSC_0624""><img src=""https://farm1.staticflickr.com/773/20725385812_c5fd271f5a.jpg"" alt=""DSC_0624"" /></a>","<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S24608726,Black-legged Kittiwake,Rissa tridactyla,6158,4,CA-QC,La Côte-de-Gaspé,Pebble Beach by des Rosiers camping,48.822601,-64.222487,08-14-2015,05:00 AM,eBird - Stationary Count,60,1,,,1,,Juveniles,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S39153239,Sabine's Gull,Xema sabini,6164,1,US-CA,Monterey,"US-Pacific Ocean (36.6416,-121.9759)",36.641583,-121.975877,09-10-2017,09:00 AM,eBird - Traveling Count,60,1,24.8,,28,,,SST 64.7; depth 40 fathoms     HUWH - 1
+S50155401,Bonaparte's Gull,Chroicocephalus philadelphia,6171,7,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,12:56 PM,eBird - Casual Observation,,0,,,1
 S30506356,Bonaparte's Gull,Chroicocephalus philadelphia,6171,3,US-MA,Barnstable,US-MA South Beach - north of cut,41.6510096,-69.95121,07-02-2016,03:00 PM,eBird - Traveling Count,60,1,3,,1
 S23560385,Bonaparte's Gull,Chroicocephalus philadelphia,6171,X,CA-NT,Inuvik,Ross River,67.376532,-125.72902,07-04-2004,,Historical,0,0,,,1
 S24695815,Bonaparte's Gull,Chroicocephalus philadelphia,6171,25,CA-QC,La Côte-de-Gaspé,PN Forillon--Penouille,48.8510489,-64.4361019,08-14-2015,11:00 AM,eBird - Casual Observation,0,0,,,2,,"<a href=""https://www.flickr.com/photos/54368903@N08/20546711850/in/dateposted-public/"" title=""DSC_0805""><img src=""https://farm1.staticflickr.com/741/20546711850_04a71f356b.jpg"" alt=""DSC_0805"" /></a>  <a href=""https://www.flickr.com/photos/54368903@N08/20725386042/in/dateposted-public/"" title=""DSC_0786""><img src=""https://farm1.staticflickr.com/580/20725386042_f55638ea9d.jpg"" alt=""DSC_0786"" /></a>"
@@ -1481,8 +1521,10 @@ S37646119,Ring-billed Gull,Larus delawarensis,6223,3,US-CA,Alameda,Sea Breeze Ma
 S40070924,Ring-billed Gull,Larus delawarensis,6223,25,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,10-20-2017,03:48 PM,eBird - Stationary Count,6,1,,,1
 S41683219,Ring-billed Gull,Larus delawarensis,6223,1,US-CA,Alameda,Sea Breeze Market Cove,37.8654693,-122.3065209,01-06-2018,12:40 PM,eBird - Stationary Count,12,1,,,1
 S43183872,Ring-billed Gull,Larus delawarensis,6223,X,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
+S50176609,Ring-billed Gull,Larus delawarensis,6223,3,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S30420867,Ring-billed Gull,Larus delawarensis,6223,2,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,06-27-2016,03:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S48229031,Ring-billed Gull,Larus delawarensis,6223,2,US-MA,Barnstable,Stage Harbor,41.6624138,-69.9745967,09-01-2018,05:19 PM,eBird - Traveling Count,75,1,.5,,1
+S50136248,Ring-billed Gull,Larus delawarensis,6223,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,04:00 PM,eBird - Casual Observation,,0,,,1
 S30506356,Ring-billed Gull,Larus delawarensis,6223,8,US-MA,Barnstable,US-MA South Beach - north of cut,41.6510096,-69.95121,07-02-2016,03:00 PM,eBird - Traveling Count,60,1,3,,1
 S49230527,Ring-billed Gull,Larus delawarensis,6223,40,US-VT,Chittenden,Blodgett Beach,44.4634695,-73.2206637,10-16-2018,10:10 AM,eBird - Casual Observation,,0,,,1
 S49466218,Ring-billed Gull,Larus delawarensis,6223,6,US-VT,Chittenden,Burlington Waterfront Park and Breakwater,44.4779574,-73.2233097,10-26-2018,08:54 AM,eBird - Casual Observation,,0,,,1
@@ -1625,6 +1667,8 @@ S39494083,California Gull,Larus californicus,6232,160,US-CA,San Mateo,Half Moon 
 S41525304,California Gull,Larus californicus,6232,250,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S41726994,Herring Gull,Larus argentatus,6235,2,US-CA,Alameda,Berkeley Aquatic Park,37.855813,-122.2977448,01-07-2018,02:53 PM,eBird - Traveling Count,79,1,2.216,,1
 S42104781,Herring Gull,Larus argentatus,6235,1,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,01-20-2018,01:25 PM,eBird - Traveling Count,56,1,1.596,,1
+S50174100,Herring Gull,Larus argentatus,6235,30,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50155396,Herring Gull,Larus argentatus,6235,1,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S30506391,Herring Gull,Larus argentatus,6235,1,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30484899,Herring Gull,Larus argentatus,6235,4,US-MA,Barnstable,Monomoy NWR--North Monomoy Island,41.6341667,-69.9744444,07-01-2016,02:00 PM,eBird - Casual Observation,0,0,,,1
 S30420867,Herring Gull,Larus argentatus,6235,5,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,06-27-2016,03:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
@@ -1634,6 +1678,8 @@ S48242719,Herring Gull,Larus argentatus,6235,5,US-MA,Barnstable,Stage Harbor,41.
 S24122021,Herring Gull,Larus argentatus,6235,2,US-MA,Barnstable,US-MA Seybolt Beach House,41.667793,-69.973153,07-02-2015,10:36 AM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S24418348,Herring Gull,Larus argentatus,6235,2,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-03-2015,05:47 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S37981350,Herring Gull,Larus argentatus,6235,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-05-2017,07:15 AM,eBird - Stationary Count,30,1,,,1
+S50136248,Herring Gull,Larus argentatus,6235,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,04:00 PM,eBird - Casual Observation,,0,,,1
+S50157617,Herring Gull,Larus argentatus,6235,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S30506356,Herring Gull,Larus argentatus,6235,X,US-MA,Barnstable,US-MA South Beach - north of cut,41.6510096,-69.95121,07-02-2016,03:00 PM,eBird - Traveling Count,60,1,3,,1
 S37966942,Herring Gull,Larus argentatus,6235,8,US-MA,Barnstable,US-MA South Beach - north of cut,41.6510096,-69.95121,07-04-2017,01:05 PM,eBird - Traveling Count,51,1,2.5,,1
 S24153836,Herring Gull,Larus argentatus,6235,6,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-05-2015,05:10 AM,eBird - Traveling Count,60,1,1.5,,1,,,"Walking from Champlain Road to Stage Harbor and along path through salt marsh to tennis courts <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
@@ -1665,6 +1711,8 @@ S40302942,Glaucous-winged Gull,Larus glaucescens,6274,1,US-CA,Alameda,MLK Jr. Re
 S43183872,Glaucous-winged Gull,Larus glaucescens,6274,1,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S41525304,Glaucous-winged Gull,Larus glaucescens,6274,20,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
 S23560384,Glaucous Gull,Larus hyperboreus,6280,X,CA-NT,Inuvik,CA-NWT Anderson River Delta Bird Sanctuary - Wood Bay,69.749574,-128.810101,08-01-2004,,Historical,0,0,,,1
+S50174100,Great Black-backed Gull,Larus marinus,6289,15,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50155396,Great Black-backed Gull,Larus marinus,6289,20,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S30506391,Great Black-backed Gull,Larus marinus,6289,3,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30484899,Great Black-backed Gull,Larus marinus,6289,20,US-MA,Barnstable,Monomoy NWR--North Monomoy Island,41.6341667,-69.9744444,07-01-2016,02:00 PM,eBird - Casual Observation,0,0,,,1
 S30420867,Great Black-backed Gull,Larus marinus,6289,10,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,06-27-2016,03:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
@@ -1730,10 +1778,14 @@ S43605722,gull sp.,Larinae sp.,6300,2,US-CA,Alameda,US-CA-Charlie Dorr Park,37.8
 S43631354,gull sp.,Larinae sp.,6300,3,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-13-2018,04:45 PM,eBird - Stationary Count,70,1,,,1
 S44260439,gull sp.,Larinae sp.,6300,4,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,04-04-2018,04:45 PM,eBird - Stationary Count,45,1,,,1,,California or Ring-billed
 S43294257,gull sp.,Larinae sp.,6300,8,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,03-01-2018,11:28 AM,eBird - Traveling Count,22,1,1.882,,1
+S50174100,gull sp.,Larinae sp.,6300,45,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50176609,gull sp.,Larinae sp.,6300,40,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
+S50155396,gull sp.,Larinae sp.,6300,3,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S30506404,gull sp.,Larinae sp.,6300,120,US-MA,Barnstable,"Head of the Meadow Beach, N. Truro",42.0522244,-70.0795126,06-28-2016,06:51 AM,eBird - Stationary Count,40,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30506391,gull sp.,Larinae sp.,6300,20,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30420867,gull sp.,Larinae sp.,6300,180,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,06-27-2016,03:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S37981350,gull sp.,Larinae sp.,6300,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-05-2017,07:15 AM,eBird - Stationary Count,30,1,,,1
+S50157617,gull sp.,Larinae sp.,6300,4,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S37962004,gull sp.,Larinae sp.,6300,3,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
 S30506373,gull sp.,Larinae sp.,6300,3,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-03-2016,08:10 AM,eBird - Traveling Count,25,1,1,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S48055968,gull sp.,Larinae sp.,6300,1,US-VT,Chittenden,Muddy Brook Park,44.4750776,-73.1371486,08-25-2018,07:52 AM,eBird - Stationary Count,6,1,,,1
@@ -1862,10 +1914,13 @@ S45751718,White-tailed Tropicbird,Phaethon lepturus,6481,1,US-HI,Kauai,Kilauea P
 S45669379,White-tailed Tropicbird,Phaethon lepturus,6481,1,US-HI,Kauai,Pali Ke Kua,22.224103,-159.491377,05-14-2018,07:20 AM,eBird - Stationary Count,20,1,,,1
 S45751599,Red-tailed Tropicbird,Phaethon rubricauda,6492,30,US-HI,Kauai,Kilauea Point NWR,22.2316072,-159.4019778,05-15-2018,10:30 AM,eBird - Traveling Count,30,1,.4,,4
 S45751718,Red-tailed Tropicbird,Phaethon rubricauda,6492,15,US-HI,Kauai,Kilauea Point NWR,22.2316072,-159.4019778,05-16-2018,11:02 AM,eBird - Traveling Count,20,1,.4,,1
+S50155396,Red-throated Loon,Gavia stellata,6499,4,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
+S50157617,Red-throated Loon,Gavia stellata,6499,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S23559377,Red-throated Loon,Gavia stellata,6499,X,CA-NT,Inuvik,Liverpool Bay,69.822494,-129.466362,08-06-2004,,Historical,0,0,,,1
 S42274371,Red-throated Loon,Gavia stellata,6499,1,US-CA,San Francisco,Presidio--bluffs from Coastal Trail,37.8014767,-122.4791479,01-27-2018,07:14 AM,eBird - Traveling Count,96,1,1.812,,1
 S23559407,Pacific Loon,Gavia pacifica,6503,X,CA-NT,Inuvik,Norman Wells - D.O.T. Lake,65.258188,-126.691411,06-30-2004,,Historical,0,0,,,1
 S41525304,Pacific Loon,Gavia pacifica,6503,1,US-CA,Sonoma,Jenner Beach,38.4486922,-123.1276559,01-01-2018,12:14 PM,eBird - Traveling Count,117,1,1.415,,1
+S50155396,Common Loon,Gavia immer,6505,2,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S47706971,Common Loon,Gavia immer,6505,2,US-VT,Chittenden,Lake Iroquois - Hinesburg (243 acres),44.3699116,-73.0842137,08-07-2018,10:16 AM,eBird - Stationary Count,60,1,,,1
 S23996811,Common Loon,Gavia immer,6505,1,US-NY,Essex,Lower Ausable Lake - near boat house,44.118299,-73.824892,06-20-2015,11:15 AM,eBird - Casual Observation,0,0,,,1,,,"Sitting by dam. <br />Submitted from eBird for iOS, version 1.0.0 Build 2"
 S30355484,Common Loon,Gavia immer,6505,2,US-NY,Franklin,Buck Pond Campground,44.503613,-74.114799,06-18-2016,02:08 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.1 Build 65"
@@ -1984,11 +2039,13 @@ S40302942,Double-crested Cormorant,Phalacrocorax auritus,6948,28,US-CA,Alameda,M
 S43183872,Double-crested Cormorant,Phalacrocorax auritus,6948,1,US-CA,Alameda,The Gardens at Lake Merritt,37.806156,-122.2581124,02-25-2018,11:10 AM,eBird - Casual Observation,,0,,,1
 S37536831,Double-crested Cormorant,Phalacrocorax auritus,6948,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,08:08 AM,eBird - Traveling Count,120,1,5.7,,1
 S31161021,Double-crested Cormorant,Phalacrocorax auritus,6948,1,CA-QC,Argenteuil,"CA-QC-Ottawa River - 45.5183x-74.2975 - Aug 20, 2016, 7:55 AM",45.518283,-74.297504,08-14-2016,12:55 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
+S50176609,Double-crested Cormorant,Phalacrocorax auritus,6948,10,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S30406134,Double-crested Cormorant,Phalacrocorax auritus,6948,2,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,06-26-2016,03:00 PM,eBird - Casual Observation,0,0,,,1
 S30420867,Double-crested Cormorant,Phalacrocorax auritus,6948,6,US-MA,Barnstable,"Race Point Beach, Provincetown",42.0786041,-70.2249098,06-27-2016,03:02 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S48229031,Double-crested Cormorant,Phalacrocorax auritus,6948,4,US-MA,Barnstable,Stage Harbor,41.6624138,-69.9745967,09-01-2018,05:19 PM,eBird - Traveling Count,75,1,.5,,1
 S48242719,Double-crested Cormorant,Phalacrocorax auritus,6948,25,US-MA,Barnstable,Stage Harbor,41.6624138,-69.9745967,09-02-2018,11:19 AM,eBird - Casual Observation,,0,,,1
 S24122021,Double-crested Cormorant,Phalacrocorax auritus,6948,2,US-MA,Barnstable,US-MA Seybolt Beach House,41.667793,-69.973153,07-02-2015,10:36 AM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
+S50157617,Double-crested Cormorant,Phalacrocorax auritus,6948,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S37966942,Double-crested Cormorant,Phalacrocorax auritus,6948,1,US-MA,Barnstable,US-MA South Beach - north of cut,41.6510096,-69.95121,07-04-2017,01:05 PM,eBird - Traveling Count,51,1,2.5,,1,F Flyover
 S48237622,Double-crested Cormorant,Phalacrocorax auritus,6948,10,US-MA,Barnstable,Wellfleet Bay Wildlife Sanctuary,41.8825315,-69.995712,09-02-2018,06:27 AM,eBird - Traveling Count,174,1,5.691,,1
 S48386958,Double-crested Cormorant,Phalacrocorax auritus,6948,1,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
@@ -2050,6 +2107,7 @@ S40108254,cormorant sp.,Phalacrocoracidae sp.,6975,20,US-CA,Alameda,Elsie Roemer
 S43292411,cormorant sp.,Phalacrocoracidae sp.,6975,1,US-CA,Alameda,Middle Harbor Shoreline Park,37.8054779,-122.3259401,03-01-2018,09:41 AM,eBird - Traveling Count,51,1,1.5,,1
 S37784973,cormorant sp.,Phalacrocoracidae sp.,6975,1,US-CA,Alameda,Strawberry Creek Park,37.867119,-122.286166,06-24-2017,02:45 PM,eBird - Stationary Count,60,1,,,1,F Flyover
 S37525135,cormorant sp.,Phalacrocoracidae sp.,6975,2,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,05:50 AM,eBird - Traveling Count,56,1,1.5,,1,F Flyover
+S50155396,cormorant sp.,Phalacrocoracidae sp.,6975,1,US-MA,Barnstable,Chatham Lighthouse,41.6714212,-69.9490499,11-23-2018,10:18 AM,eBird - Traveling Count,33,1,.971,,1
 S35258649,cormorant sp.,Phalacrocoracidae sp.,6975,2,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
 S43172109,cormorant sp.,Phalacrocoracidae sp.,6975,5,US-CA,Contra Costa,Pt. San Pablo/Pt. Molate,37.9640934,-122.4290244,02-25-2018,07:20 AM,eBird - Stationary Count,10,1,,,1
 S31541024,cormorant sp.,Phalacrocoracidae sp.,6975,3,US-CA,Marin,Bolinas Lagoon,37.9197585,-122.6753139,09-11-2016,03:23 PM,eBird - Stationary Count,40,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
@@ -2165,6 +2223,7 @@ S44994910,Great Blue Heron,Ardea herodias,7039,5,US-FL,Sarasota,Myakka River SP-
 S44994898,Great Blue Heron,Ardea herodias,7039,2,US-FL,Sarasota,Myakka River SP--boat ramp area,27.2657309,-82.2901297,04-27-2018,09:20 AM,eBird - Traveling Count,66,1,1.523,,1
 S41525850,Great Blue Heron,Ardea herodias,7039,1,US-CA,Sonoma,US-CA-roadside-near-Jenner,38.4388909,-123.1026506,01-01-2018,02:25 PM,eBird - Casual Observation,,0,,,1
 S47633610,Great Blue Heron,Ardea herodias,7039,1,US-WY,Sweetwater,Seedskadee NWR Headquarters,41.905336,-109.8515868,08-03-2018,04:37 PM,eBird - Traveling Count,65,1,2.716,,1
+S50157617,Great Blue Heron (Blue form),Ardea herodias [herodias Group],7040,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S23560489,Gray Heron,Ardea cinerea,7047,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
 S24858850,Black-headed Heron,Ardea melanocephala,7057,X,UG-W,,Kanyawara,.564538,30.350473,05-29-2005,,Historical,0,0,,,1
 S23560489,Goliath Heron,Ardea goliath,7063,X,UG-W,,Kasinga Channel,-.177048,29.929356,06-08-2005,,Historical,0,0,,,2
@@ -2612,6 +2671,7 @@ S43343906,Red-tailed Hawk,Buteo jamaicensis,7953,2,US-CA,Alameda,UC Berkeley--Bo
 S30506391,Red-tailed Hawk,Buteo jamaicensis,7953,1,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S24122817,Red-tailed Hawk,Buteo jamaicensis,7953,1,US-MA,Barnstable,US-MA Seybolt Beach House,41.667793,-69.973153,07-02-2015,11:23 AM,eBird - Casual Observation,0,0,,,1,,,"Grackle harrying hawk in tree by beach. Cardinal happened to be in same tree <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S48269975,Red-tailed Hawk,Buteo jamaicensis,7953,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,09-03-2018,11:52 AM,eBird - Casual Observation,,0,,,1
+S50178129,Red-tailed Hawk,Buteo jamaicensis,7953,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-24-2018,11:45 AM,eBird - Casual Observation,,0,,,1
 S47724150,Red-tailed Hawk,Buteo jamaicensis,7953,3,US-VT,Chittenden,"460 Martel Ln, St George US-VT (44.3782,-73.1052)",44.378207,-73.105249,08-08-2018,10:30 AM,eBird - Casual Observation,,0,,,1,,,"Some soaring accipiters caught my eye, and then I realized with surprise how many there were and that there were also 3 buteos (red-taileds) soaring in roughly the same area. There also happened to be a kestrel perched in a tree"
 S36189053,Red-tailed Hawk,Buteo jamaicensis,7953,1,US-CA,Contra Costa,Mt. Diablo SP--Mitchell Canyon,37.9149001,-121.9479203,04-22-2017,12:26 PM,eBird - Traveling Count,300,1,11,,1,,,"Hiking with my daughter (6mo). All species I could ID are reported, but I wasn't birding as thoroughly as I might have otherwise. Hiked from Mitchell Canyon, over Eagle Peak, and looped back via Meridian Ridge and Back Creek "
 S35086570,Red-tailed Hawk,Buteo jamaicensis,7953,1,US-CA,Contra Costa,Redwood Regional Park--Stream Trail,37.8206667,-122.166853,03-10-2017,06:30 AM,eBird - Traveling Count,150,1,2.414,,8,,,GGAS Birding by Ear along the Stream Trail **25 species represented here were either calling or singing or both. Most notable Pacific Wren and Ruby-crowned Kinglet (personal favorites for the morning).
@@ -3281,6 +3341,8 @@ S41468324,Steller's Jay,Cyanocitta stelleri,20187,1,US-CA,Sonoma,"US-CA-21650 Mo
 S41553858,Steller's Jay,Cyanocitta stelleri,20187,4,US-CA,Sonoma,"US-CA-21650 Moscow Rd, Monte Rio US-CA (38.4690,-123.0163)",38.469018,-123.01633,01-02-2018,09:56 AM,eBird - Stationary Count,40,1,,,1
 S47005947,Steller's Jay,Cyanocitta stelleri,20187,1,US-CA,Tuolumne,Yosemite NP--Cathedral Lakes Trail,37.8638092,-119.3995428,07-02-2018,06:00 AM,eBird - Casual Observation,,0,,,,,,Species from the Tuolomne county part of the Cathedral Lakes + Tresidder hike
 S31327703,Steller's Jay,Cyanocitta stelleri,20187,1,US-UT,Washington,Zion NP --  Zion Narrows,37.3054766,-112.9495597,08-27-2016,11:02 AM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
+S50174100,Blue Jay,Cyanocitta cristata,20207,3,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
+S50176609,Blue Jay,Cyanocitta cristata,20207,1,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S30506391,Blue Jay,Cyanocitta cristata,20207,2,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S24143204,Blue Jay,Cyanocitta cristata,20207,1,US-MA,Barnstable,US-MA Island Pond Conservation Area,41.690244,-70.085491,07-04-2015,09:08 AM,eBird - Stationary Count,28,1,,,1,,Heard only,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S30506413,Blue Jay,Cyanocitta cristata,20207,1,US-MA,Barnstable,US-MA North of Highland Camping Area,42.045571,-70.08534,06-28-2016,06:17 AM,eBird - Traveling Count,30,1,2,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
@@ -3514,10 +3576,12 @@ S31161026,American Crow,Corvus brachyrhynchos,20471,1,US-CA,Alameda,US-CA. Berke
 S42521090,American Crow,Corvus brachyrhynchos,20471,4,US-CA,Alameda,"University of California, Berkeley, Berkeley US-CA (37.8729,-122.2618)",37.872857,-122.261764,02-05-2018,12:37 PM,eBird - Traveling Count,22,1,1.255,,1
 S43294257,American Crow,Corvus brachyrhynchos,20471,12,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,03-01-2018,11:28 AM,eBird - Traveling Count,22,1,1.882,,1
 S44899675,American Crow,Corvus brachyrhynchos,20471,6,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,04-24-2018,09:10 AM,eBird - Traveling Count,27,1,1.508,,1
+S50174100,American Crow,Corvus brachyrhynchos,20471,4,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
 S48229031,American Crow,Corvus brachyrhynchos,20471,1,US-MA,Barnstable,Stage Harbor,41.6624138,-69.9745967,09-01-2018,05:19 PM,eBird - Traveling Count,75,1,.5,,1
 S24122021,American Crow,Corvus brachyrhynchos,20471,4,US-MA,Barnstable,US-MA Seybolt Beach House,41.667793,-69.973153,07-02-2015,10:36 AM,eBird - Stationary Count,15,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S24418348,American Crow,Corvus brachyrhynchos,20471,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-03-2015,05:47 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S37981350,American Crow,Corvus brachyrhynchos,20471,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-05-2017,07:15 AM,eBird - Stationary Count,30,1,,,1
+S50126919,American Crow,Corvus brachyrhynchos,20471,6,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
 S24153836,American Crow,Corvus brachyrhynchos,20471,X,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-05-2015,05:10 AM,eBird - Traveling Count,60,1,1.5,,1,,A large-sounding group; heard only,"Walking from Champlain Road to Stage Harbor and along path through salt marsh to tennis courts <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S48237622,American Crow,Corvus brachyrhynchos,20471,20,US-MA,Barnstable,Wellfleet Bay Wildlife Sanctuary,41.8825315,-69.995712,09-02-2018,06:27 AM,eBird - Traveling Count,174,1,5.691,,1
 S49395354,American Crow,Corvus brachyrhynchos,20471,310,US-VT,Chittenden,"227 College St, Burlington US-VT (44.4772,-73.2110)",44.477152,-73.211003,10-23-2018,11:58 AM,eBird - Casual Observation,,0,,,1,,"Large flight flying over downtown. At first it was heading due south (parallel to lake) and later started bending southeast. Count an estimate made by 10s, but a conservative one "
@@ -3526,6 +3590,7 @@ S47710445,American Crow,Corvus brachyrhynchos,20471,6,US-VT,Chittenden,"460 Mart
 S47724150,American Crow,Corvus brachyrhynchos,20471,6,US-VT,Chittenden,"460 Martel Ln, St George US-VT (44.3782,-73.1052)",44.378207,-73.105249,08-08-2018,10:30 AM,eBird - Casual Observation,,0,,,1,,,"Some soaring accipiters caught my eye, and then I realized with surprise how many there were and that there were also 3 buteos (red-taileds) soaring in roughly the same area. There also happened to be a kestrel perched in a tree"
 S49394239,American Crow,Corvus brachyrhynchos,20471,2,US-VT,Chittenden,Burlington Bike Path - Coast Guard Station to North Beach,44.4879757,-73.2304312,10-23-2018,08:30 AM,eBird - Casual Observation,,0,,,1
 S49495967,American Crow,Corvus brachyrhynchos,20471,20,US-VT,Chittenden,Ethan Allen Homestead,44.5072762,-73.2311241,10-27-2018,11:06 AM,eBird - Traveling Count,25,1,.3,,1
+S50136313,American Crow,Corvus brachyrhynchos,20471,4,US-VT,Chittenden,Oakledge Park,44.4531049,-73.2270098,11-18-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S47806249,American Crow,Corvus brachyrhynchos,20471,1,US-VT,Chittenden,Shelburne Farms,44.3958699,-73.2690485,08-12-2018,10:55 AM,eBird - Casual Observation,,0,,,1
 S49317728,American Crow,Corvus brachyrhynchos,20471,2,US-VT,Chittenden,Shelburne Pond--Fishing Access / UVM Natural Area,44.3774287,-73.1620912,10-20-2018,11:02 AM,eBird - Traveling Count,60,1,1.3,,1,,,Pretty quiet out. Was hoping scoters from earlier in the week had stuck around. No such luck
 S43168202,American Crow,Corvus brachyrhynchos,20471,5,US-CA,Contra Costa,"1900 Stenmark Dr, Richmond US-CA (37.9641,-122.4189)",37.964118,-122.418899,02-25-2018,06:21 AM,eBird - Traveling Count,25,1,.3,,1
@@ -3594,6 +3659,7 @@ S41565205,American Crow,Corvus brachyrhynchos,20471,2,US-CA,Sonoma,"US-CA -1382�
 S37427412,American Crow,Corvus brachyrhynchos,20471,1,US-CA,Sonoma,US-CA Hayward Family Winery,38.48423,-122.90927,06-03-2017,12:29 PM,eBird - Stationary Count,60,1,,,1
 S47899723,American Crow,Corvus brachyrhynchos,20471,6,CA-NB,York,"201 Wright St, Fredericton CA-NB (45.9546,-66.6562)",45.954626,-66.656234,08-17-2018,09:29 AM,eBird - Traveling Count,60,1,1.5,,1
 S49620177,American Crow,Corvus brachyrhynchos,20471,4,BM-,,"Coral Beach BM-Bermuda (32.2721,-64.7787)",32.272051,-64.77868,11-02-2018,10:22 AM,eBird - Casual Observation,,0,,,1
+S50174100,Fish Crow,Corvus ossifragus,20486,1,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
 S30506413,Fish Crow,Corvus ossifragus,20486,3,US-MA,Barnstable,US-MA North of Highland Camping Area,42.045571,-70.08534,06-28-2016,06:17 AM,eBird - Traveling Count,30,1,2,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S45079125,Fish Crow,Corvus ossifragus,20486,1,US-FL,Lee,Boating to Useppa,26.703539,-82.238817,04-29-2018,02:20 PM,eBird - Casual Observation,,0,,,1
 S35536374,Fish Crow,Corvus ossifragus,20486,1,US-FL,Lee,Boca Bay Development,26.744861,-82.262355,03-30-2017,10:08 AM,eBird - Traveling Count,140,1,4.828,,1
@@ -3604,6 +3670,7 @@ S38228636,Hooded Crow,Corvus cornix,20492,10,IT-62,,IT-Rome Villa San Pio neighb
 S38148415,Hooded Crow,Corvus cornix,20492,3,IT-62,,"IT-Rome by Tiber Lungotevere Vaticano, Rome IT-Lazio (41.9021,12.4653)",41.902131,12.465309,07-15-2017,07:13 PM,eBird - Stationary Count,17,1,,,1
 S38249478,Hooded Crow,Corvus cornix,20492,5,IT-62,,Villa Borghese,41.9124974,12.4845886,07-21-2017,06:09 PM,eBird - Traveling Count,47,1,3,,1
 S28840486,Large-billed Crow,Corvus macrorhynchos,20500,X,VN-62,,VN-HP Jules Verne HLB,20.742646,107.074535,09-26-2009,,Historical,0,0,,,1
+S50174100,crow sp.,Corvus sp. (crow sp.),20521,5,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
 S30506391,crow sp.,Corvus sp. (crow sp.),20521,1,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S48259587,crow sp.,Corvus sp. (crow sp.),20521,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,09-03-2018,07:04 AM,eBird - Casual Observation,,0,,,1
 S30506356,crow sp.,Corvus sp. (crow sp.),20521,1,US-MA,Barnstable,US-MA South Beach - north of cut,41.6510096,-69.95121,07-02-2016,03:00 PM,eBird - Traveling Count,60,1,3,,1
@@ -3833,8 +3900,11 @@ S26000944,Coal Tit,Periparus ater,21693,6,CH-VS,,CH-Valais-Nendaz-1997 - 46.1281
 S28841568,Rufous-vented Tit,Periparus rubidiventris,21720,X,NP-4,,Three passes trek below Gokyo,27.903034,86.715341,05-15-2010,,Historical,0,0,,,1
 S26000927,Crested Tit,Lophophanes cristatus,21737,2,CH-VS,,Road to Cleuson Dam,46.116787,7.321997,11-22-2015,12:14 PM,eBird - Casual Observation,0,0,,,1,,,"<br />Submitted from eBird for iOS, version 1.1.3 Build 30"
 S28840433,Carolina Chickadee,Poecile carolinensis,21801,X,US-TN,Polk,On Ocoee River,35.068946,-84.471204,03-31-2013,,Historical,0,0,,,1
+S50176609,Black-capped Chickadee,Poecile atricapillus,21806,1,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S30506391,Black-capped Chickadee,Poecile atricapillus,21806,4,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S24143204,Black-capped Chickadee,Poecile atricapillus,21806,2,US-MA,Barnstable,US-MA Island Pond Conservation Area,41.690244,-70.085491,07-04-2015,09:08 AM,eBird - Stationary Count,28,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.0.1 Build 5"
+S50126919,Black-capped Chickadee,Poecile atricapillus,21806,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
+S50157617,Black-capped Chickadee,Poecile atricapillus,21806,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-23-2018,03:00 PM,eBird - Stationary Count,10,1,,,1
 S37962004,Black-capped Chickadee,Poecile atricapillus,21806,1,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
 S24153836,Black-capped Chickadee,Poecile atricapillus,21806,1,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-05-2015,05:10 AM,eBird - Traveling Count,60,1,1.5,,1,,,"Walking from Champlain Road to Stage Harbor and along path through salt marsh to tennis courts <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S30506373,Black-capped Chickadee,Poecile atricapillus,21806,2,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-03-2016,08:10 AM,eBird - Traveling Count,25,1,1,,1,,Heard,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
@@ -4213,6 +4283,7 @@ S49729221,Streak-eared Bulbul,Pycnonotus conradi,23194,2,KH-12,,Wat Botum Park,1
 S49747479,Streak-eared Bulbul,Pycnonotus conradi,23194,6,KH-12,,Wat Phnom,11.5759987,104.9230814,11-08-2018,07:05 AM,eBird - Traveling Count,54,1,1.017,,1
 S28840440,Black Bulbul,Hypsipetes leucocephalus,23289,X,VN-03,,VN-HG Ha Giang Trek,22.577463,104.738022,05-03-2009,,Historical,0,0,,,1
 S43455174,Golden-crowned Kinglet,Regulus satrapa,23367,2,US-CA,Alameda,Eucalyptus Grove/Grinnell Natural Area,37.8712083,-122.2641723,03-07-2018,09:15 AM,eBird - Traveling Count,45,1,.8,,1
+S50176609,Golden-crowned Kinglet,Regulus satrapa,23367,1,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S35086570,Golden-crowned Kinglet,Regulus satrapa,23367,3,US-CA,Contra Costa,Redwood Regional Park--Stream Trail,37.8206667,-122.166853,03-10-2017,06:30 AM,eBird - Traveling Count,150,1,2.414,,8,,,GGAS Birding by Ear along the Stream Trail **25 species represented here were either calling or singing or both. Most notable Pacific Wren and Ruby-crowned Kinglet (personal favorites for the morning).
 S28840420,Golden-crowned Kinglet,Regulus satrapa,23367,1,US-NY,Essex,Lost Lookout,44.127163,-73.822072,10-12-2013,,Historical,0,0,,,1
 S26647576,Golden-crowned Kinglet,Regulus satrapa,23367,3,US-NY,Essex,Mt. Jo trail beside Heart Lake,44.1843226,-73.9679526,01-01-2016,01:00 PM,eBird - Casual Observation,0,0,,,2
@@ -4756,6 +4827,7 @@ S44186046,House Finch,Haemorhous mexicanus,30049,2,US-CA,Alameda,US-CA-Charlie D
 S43294257,House Finch,Haemorhous mexicanus,30049,1,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,03-01-2018,11:28 AM,eBird - Traveling Count,22,1,1.882,,1
 S44899675,House Finch,Haemorhous mexicanus,30049,1,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,04-24-2018,09:10 AM,eBird - Traveling Count,27,1,1.508,,1
 S37981350,House Finch,Haemorhous mexicanus,30049,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,07-05-2017,07:15 AM,eBird - Stationary Count,30,1,,,1,,H
+S50178129,House Finch,Haemorhous mexicanus,30049,4,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-24-2018,11:45 AM,eBird - Casual Observation,,0,,,1
 S37962004,House Finch,Haemorhous mexicanus,30049,2,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
 S24153836,House Finch,Haemorhous mexicanus,30049,2,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-05-2015,05:10 AM,eBird - Traveling Count,60,1,1.5,,1,,,"Walking from Champlain Road to Stage Harbor and along path through salt marsh to tennis courts <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S48045092,House Finch,Haemorhous mexicanus,30049,4,US-VT,Chittenden,Gosse Court,44.510824,-73.249353,08-24-2018,03:27 PM,eBird - Casual Observation,,0,,,1
@@ -4844,6 +4916,7 @@ S47708692,American Goldfinch,Spinus tristis,30347,1,US-VT,Chittenden,"460 Martel
 S48386958,American Goldfinch,Spinus tristis,30347,3,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
 S47706971,American Goldfinch,Spinus tristis,30347,10,US-VT,Chittenden,Lake Iroquois - Hinesburg (243 acres),44.3699116,-73.0842137,08-07-2018,10:16 AM,eBird - Stationary Count,60,1,,,1
 S48055968,American Goldfinch,Spinus tristis,30347,5,US-VT,Chittenden,Muddy Brook Park,44.4750776,-73.1371486,08-25-2018,07:52 AM,eBird - Stationary Count,6,1,,,1
+S50136313,American Goldfinch,Spinus tristis,30347,4,US-VT,Chittenden,Oakledge Park,44.4531049,-73.2270098,11-18-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S47806249,American Goldfinch,Spinus tristis,30347,8,US-VT,Chittenden,Shelburne Farms,44.3958699,-73.2690485,08-12-2018,10:55 AM,eBird - Casual Observation,,0,,,1
 S47785967,American Goldfinch,Spinus tristis,30347,2,US-VT,Chittenden,VTCH Leddy Park,44.5039702,-73.2500821,08-11-2018,09:30 AM,eBird - Casual Observation,,0
 S38128263,American Goldfinch,Spinus tristis,30347,3,US-ME,Cumberland,"East End Beach, Portland",43.6700535,-70.2411626,07-14-2017,11:13 AM,eBird - Traveling Count,55,1,1,,1
@@ -5140,6 +5213,7 @@ S47899723,White-throated Sparrow,Zonotrichia albicollis,30906,8,CA-NB,York,"201 
 S42739450,Zonotrichia sp.,Zonotrichia sp.,30910,2,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,02-13-2018,05:06 PM,eBird - Stationary Count,49,1,,,1
 S29463115,Savannah Sparrow,Passerculus sandwichensis,30948,1,US-CA,Alameda,Cesar Chavez Park,37.8709227,-122.3150389,05-07-2016,06:00 AM,eBird - Traveling Count,240,1,4.828,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S42104781,Savannah Sparrow,Passerculus sandwichensis,30948,2,US-CA,Alameda,McLaughlin Eastshore SP--Albany access,37.890326,-122.314765,01-20-2018,01:25 PM,eBird - Traveling Count,56,1,1.596,,1
+S50126919,Savannah Sparrow,Passerculus sandwichensis,30948,1,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
 S31431884,Savannah Sparrow,Passerculus sandwichensis,30948,7,US-CA,El Dorado,Tahoe Marsh--via San Francisco Ave.,38.9397508,-119.9931049,09-05-2016,06:44 AM,eBird - Traveling Count,151,1,3,,1,,,"<br />Submitted from eBird for iOS, version 1.2.6 Build 75"
 S29023496,Savannah Sparrow,Passerculus sandwichensis,30948,5,US-NY,Franklin,Saranac Lake High School Pond,44.326734,-74.146986,04-17-2016,06:28 AM,eBird - Traveling Count,60,1,1.207,,1,,,"<br />Submitted from eBird for iOS, version 1.1.5 Build 44"
 S23559375,Savannah Sparrow,Passerculus sandwichensis,30948,X,CA-NT,Inuvik,CA-NWT Anderson River (lower),69.25198,-128.426845,07-30-2004,,Historical,0,0,,,1
@@ -5163,8 +5237,10 @@ S44680457,Song Sparrow,Melospiza melodia,30980,1,US-CA,Alameda,"McCrea Memorial 
 S36502062,Song Sparrow,Melospiza melodia,30980,2,US-CA,Alameda,McLaughlin Eastshore SP--Berkeley Meadow,37.8670193,-122.3102331,05-02-2017,07:17 PM,eBird - Traveling Count,63,1,2.414,,1
 S36655126,Song Sparrow,Melospiza melodia,30980,1,US-CA,Alameda,McLaughlin Eastshore SP--Berkeley Meadow,37.8670193,-122.3102331,05-08-2017,08:07 AM,eBird - Traveling Count,37,1,.402,,1
 S37536831,Song Sparrow,Melospiza melodia,30980,3,US-CA,Alameda,US-CA Anthony Chabot Campground,37.733901,-122.104333,06-11-2017,08:08 AM,eBird - Traveling Count,120,1,5.7,,1
+S50176609,Song Sparrow,Melospiza melodia,30980,1,US-MA,Barnstable,Cape Cod National Seashore--Salt Pond Visitors Center,41.837154,-69.9726588,11-24-2018,10:14 AM,eBird - Traveling Count,54,1,.981,,1
 S30506404,Song Sparrow,Melospiza melodia,30980,1,US-MA,Barnstable,"Head of the Meadow Beach, N. Truro",42.0522244,-70.0795126,06-28-2016,06:51 AM,eBird - Stationary Count,40,1,,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S30506391,Song Sparrow,Melospiza melodia,30980,3,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
+S50126919,Song Sparrow,Melospiza melodia,30980,2,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-22-2018,07:45 AM,eBird - Casual Observation,,0,,,1
 S37962004,Song Sparrow,Melospiza melodia,30980,4,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
 S24153836,Song Sparrow,Melospiza melodia,30980,3,US-MA,Barnstable,US-MA Stage Harbor salt marsh,41.668604,-69.968324,07-05-2015,05:10 AM,eBird - Traveling Count,60,1,1.5,,1,,,"Walking from Champlain Road to Stage Harbor and along path through salt marsh to tennis courts <br />Submitted from eBird for iOS, version 1.0.1 Build 5"
 S47726571,Song Sparrow,Melospiza melodia,30980,1,US-VT,Chittenden,"460 Martel Ln, St George US-VT (44.3782,-73.1052)",44.378207,-73.105249,08-08-2018,01:20 PM,eBird - Casual Observation,,0,,,1
@@ -5693,6 +5769,7 @@ S23419819,Black-throated Blue Warbler,Setophaga caerulescens,31802,3,CA-QC,Montr
 S23558501,Black-throated Blue Warbler,Setophaga caerulescens,31802,X,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-21-2015,05:40 AM,eBird - Traveling Count,166,1,2.993,,1,,Heard only,"Relatively cold for the season (9C) and very windy. The wind made it harder to hear calls or see movement. Relatively quiet morning <br />Submitted from BirdLog NA for iOS, version 1.8"
 S29604282,Black-throated Blue Warbler,Setophaga caerulescens,31802,2,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-13-2016,05:30 AM,eBird - Traveling Count,221,1,4.023,,1,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
 S29752059,Black-throated Blue Warbler,Setophaga caerulescens,31802,2,CA-QC,Montréal,Parc du Mt-Royal,45.5055593,-73.5882289,05-18-2016,05:58 AM,eBird - Traveling Count,120,1,2.499,,2,,,"<br />Submitted from eBird for iOS, version 1.2.0 Build 62"
+S50174100,Palm Warbler,Setophaga palmarum,31805,1,US-MA,Barnstable,"18 Asparagus Ln, Eastham US-MA (41.8060,-70.0048)",41.80603,-70.004827,11-24-2018,08:40 AM,eBird - Traveling Count,44,1,.612,,1,,,"River mouth entirely clogged with ice; some flowing, some not. Buffleheads, Mallards, Black Ducks, Brant at edge of floating ice. Gulls mostly on ice"
 S48386958,Palm Warbler,Setophaga palmarum,31805,1,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
 S23045946,Palm Warbler,Setophaga palmarum,31805,5,US-NY,Kings,Prospect Park,40.6602841,-73.9689534,04-24-2015,04:25 PM,eBird - Traveling Count,50,1,2,,2
 S28840425,Palm Warbler,Setophaga palmarum,31805,X,US-FL,Lee,Boca Grande house,26.745384,-82.26186,02-19-2013,,Historical,0,0,,,1
@@ -5724,6 +5801,7 @@ S43492511,Yellow-rumped Warbler,Setophaga coronata,31814,2,US-CA,Alameda,US-CA-C
 S44047680,Yellow-rumped Warbler,Setophaga coronata,31814,1,US-CA,Alameda,US-CA-Charlie Dorr Park,37.866513,-122.284079,03-28-2018,04:39 PM,eBird - Stationary Count,77,1,,,1
 S41373451,Yellow-rumped Warbler,Setophaga coronata,31814,5,US-CA,Alameda,US-CA-Trees by Mulford Hall,37.872525,-122.2641,12-28-2017,08:27 AM,eBird - Stationary Count,25,1,,,1
 S43294257,Yellow-rumped Warbler,Setophaga coronata,31814,2,US-CA,Alameda,Walking Downtown Berkeley (SW of UCB),37.864949,-122.274067,03-01-2018,11:28 AM,eBird - Traveling Count,22,1,1.882,,1
+S50178129,Yellow-rumped Warbler,Setophaga coronata,31814,3,US-MA,Barnstable,US-MA Seybolt Lawn,41.668512,-69.972957,11-24-2018,11:45 AM,eBird - Casual Observation,,0,,,1
 S48386958,Yellow-rumped Warbler,Setophaga coronata,31814,3,US-VT,Chittenden,Delta Park IBA,44.5333652,-73.2777677,09-09-2018,06:18 AM,eBird - Traveling Count,161,1,4.154,,1
 S49495967,Yellow-rumped Warbler,Setophaga coronata,31814,1,US-VT,Chittenden,Ethan Allen Homestead,44.5072762,-73.2311241,10-27-2018,11:06 AM,eBird - Traveling Count,25,1,.3,,1
 S35258649,Yellow-rumped Warbler,Setophaga coronata,31814,1,US-CA,Contra Costa,Miller/Knox Regional Shoreline,37.9162036,-122.3865795,03-18-2017,10:09 AM,eBird - Traveling Count,160,1,4.023,,1
@@ -6005,6 +6083,7 @@ S44899675,House Sparrow,Passer domesticus,33452,1,US-CA,Alameda,Walking Downtown
 S30506391,House Sparrow,Passer domesticus,33452,5,US-MA,Barnstable,Monomoy NWR--Morris Island,41.6568485,-69.9582152,07-02-2016,06:15 AM,eBird - Traveling Count,80,1,2.5,,1,,,"<br />Submitted from eBird for iOS, version 1.2.2 Build 70"
 S37962004,House Sparrow,Passer domesticus,33452,3,US-MA,Barnstable,US-MA Stage Harbor beach,41.665538,-69.977357,07-04-2017,08:06 AM,eBird - Traveling Count,50,1,1.5,,1,,,Walking along the beach. Hot morning. Not much wind
 S47714979,House Sparrow,Passer domesticus,33452,1,US-VT,Chittenden,"108 Church St, Burlington US-VT (44.4774,-73.2125)",44.477432,-73.212538,08-07-2018,06:44 PM,eBird - Casual Observation,,0,,,1
+S50136313,House Sparrow,Passer domesticus,33452,15,US-VT,Chittenden,Oakledge Park,44.4531049,-73.2270098,11-18-2018,02:00 PM,eBird - Casual Observation,,0,,,1
 S47806249,House Sparrow,Passer domesticus,33452,12,US-VT,Chittenden,Shelburne Farms,44.3958699,-73.2690485,08-12-2018,10:55 AM,eBird - Casual Observation,,0,,,1
 S41871313,House Sparrow,Passer domesticus,33452,2,US-CA,Contra Costa,San Francisco Bay Trail--S 51st St.,37.9096009,-122.3274529,01-13-2018,07:24 AM,eBird - Traveling Count,227,1,4,,1
 S38128263,House Sparrow,Passer domesticus,33452,20,US-ME,Cumberland,"East End Beach, Portland",43.6700535,-70.2411626,07-14-2017,11:13 AM,eBird - Traveling Count,55,1,1,,1
