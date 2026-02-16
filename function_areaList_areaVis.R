@@ -1,10 +1,38 @@
 areaList<-function(myeb.subset,subset.name){
   
+  species_name_lookup <- myeb %>%
+    filter(category == "species", !is.na(latin_binomial)) %>%
+    arrange(date, time) %>%
+    distinct(latin_binomial, .keep_all = TRUE) %>%
+    transmute(
+      latin_binomial,
+      common_name_species = common_name_incSubsp
+    )
+  
+#  sp.list <- myeb.subset %>%
+#    filter(category %in% c("species","form","group (monotypic)","group (polytypic)") | latin_binomial=="Columba livia") %>%
+#    filter(!is.na(latin_binomial)) %>%
+#    arrange(date,time) %>%
+#    distinct(latin_binomial,.keep_all=TRUE)
+  
   sp.list <- myeb.subset %>%
-    filter(category %in% c("species","form","group (monotypic)","group (polytypic)") | latin_binomial=="Columba livia") %>%
+    filter(
+      category %in% c("species", "form", "group (monotypic)", "group (polytypic)") |
+        latin_binomial == "Columba livia"
+    ) %>%
     filter(!is.na(latin_binomial)) %>%
-    arrange(date,time) %>%
-    distinct(latin_binomial,.keep_all=TRUE)
+    arrange(date, time) %>%
+    distinct(latin_binomial, .keep_all = TRUE) %>%
+    left_join(species_name_lookup, by = "latin_binomial") %>%
+    mutate(
+      # If we have a true species-row name, use it.
+      # Otherwise, fall back to the record’s name, with parentheses stripped (optional but usually right).
+      common_name = coalesce(
+        common_name_species,
+        str_trim(str_remove(common_name_incSubsp, "\\s*\\([^)]*\\)\\s*$"))
+      )
+    ) %>%
+    select(-common_name_species)
   
   mostRecents <- slice(distinct(sp.list,latin_binomial,.keep_all=T),n()) %>%
     bind_rows(slice(distinct(sp.list,genus,.keep_all=T),n())) %>%

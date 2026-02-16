@@ -4,7 +4,7 @@ suppressPackageStartupMessages({
   library(cowplot)
   library(colorspace)
   library(sf)
-  library(rgdal)
+#  library(rgdal)
   library(sp)
   library(knitr)
   library(rmarkdown)

@@ -1,72 +1,163 @@
 ### file to read in data to be accessed by all pages
 
+library(tidyverse)
 
+# ---- palette + helpers ----
 ebPal <- c("#e76f51","#f4a261","#e9c46a","#2a9d8f","#264653")
 
-muteCol <- function(col,sVal,vVal){
-  cTemp <-hsv(h=rgb2hsv(t(coords(hex2RGB(col))))[1],s=sVal,v=vVal)
-  cTemp}
+muteCol <- function(col, sVal, vVal){
+  hsv(h = rgb2hsv(t(coords(hex2RGB(col))))[1], s = sVal, v = vVal)
+}
 
+# ---- paths ----
+clements_path <- "C:/Users/Tim.Holland/Dropbox/Other/birdplots2026/eBird-Clements-v2025.csv"
+myebird_path  <- "C:/Users/Tim.Holland/Dropbox/Other/birdplots2026/MyEBirdData.csv"
 
-orders <- read_csv("order_names.csv")
+# ---- lookup tables ----
+orders <- readr::read_csv("order_names.csv", show_col_types = FALSE)
 
-clem <- read_csv(file="eBird-Clements-v2018-integrated-checklist-August-2018.csv") %>% 
-  rename(common_name = `English name`, species_group = `eBird species group`, sort2018 = `sort v2018`, latin_name_incSubsp = `scientific name`) %>% 
-  filter(is.na(extinct)) %>%
-  select(-starts_with("X"),-`eBird species code 2018`, -`extinct year`, -range) %>%
-  separate(latin_name_incSubsp,sep=" ",into=c("genus","species","subspA","subspB"),remove=F) %>%
-  unite(latin_binomial, c(genus, species),sep=" ", remove=F) %>%
-  unite(subspTemp, c(subspA,subspB),sep=" ",remove=T) %>%
-  mutate(subspecies = gsub("NA","",subspTemp)) %>%
-  left_join(select(orders, c(order,order_with_desc)),by="order") %>%
-  rename(family_with_desc=family) %>%
-  separate(family_with_desc,sep=" ",into=c("family","famTemp"),remove=F) %>%
-  select(-subspTemp,-famTemp)
+# ISO country codes used to derive ABA/non-ABA (CAN/USA/SPM)
+iso <- readr::read_csv(
+  file = "https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv",
+  show_col_types = FALSE
+) %>%
+  dplyr::rename(iso2 = `alpha-2`, iso3 = `alpha-3`, country = name) %>%
+  dplyr::select(country, iso2, iso3)
 
+# ---- Clements / eBird integrated checklist (v2025) ----
+# Column names differ by version; standardization here prevents downstream breakage.
+clem_raw <- readr::read_csv(clements_path, show_col_types = FALSE)
 
-clem.sp <- filter(clem,category=="species")
+# Standardize names without adding new dependencies
+names(clem_raw) <- tolower(gsub("[^A-Za-z0-9]+", "_", names(clem_raw)))
+names(clem_raw) <- gsub("_+$", "", names(clem_raw))
 
-clem <- clem %>% #cleaning up clem
-  mutate(genus=replace(genus, !genus %in% clem.sp$genus, NA)) %>% #removes "genus" names that aren't actually genus names (i.e. the "goose" that would come from "goose sp.")
-  mutate(latin_binomial=replace(latin_binomial, category %in% c("spuh"),NA)) %>%
-  mutate(subspecies = replace(subspecies,subspecies==" ",NA)) %>%
-  mutate(species = replace(species,species=="sp.",NA))
+clem <- clem_raw %>%
+  dplyr::rename(
+    taxon_sort        = sort_v2025,
+    common_name       = english_name,
+    latin_name_incSubsp = scientific_name
+  ) %>%
+  # extinct is 1/0 in v2025; retain rows where extinct is missing or 0
+  dplyr::filter(is.na(extinct) | extinct == 0) %>%
+  # retain core fields used in plots/joins; keep range if later used
+  dplyr::select(
+    taxon_sort,
+    species_code,
+    taxon_concept_id,
+    category,
+    common_name,
+    latin_name_incSubsp,
+    order,
+    family,
+    range,
+    extinct,
+    extinct_year,
+    sort_v2024
+  ) %>%
+  tidyr::separate(
+    latin_name_incSubsp,
+    sep = " ",
+    into = c("genus","species","subspA","subspB"),
+    remove = FALSE,
+    extra = "merge",
+    fill = "right"
+  ) %>%
+  tidyr::unite(latin_binomial, c(genus, species), sep = " ", remove = FALSE) %>%
+  tidyr::unite(subspTemp, c(subspA, subspB), sep = " ", remove = TRUE) %>%
+  dplyr::mutate(
+    subspecies = gsub("(^NA\\s*|\\s*NA$)", "", subspTemp),
+    subspecies = dplyr::na_if(trimws(subspecies), "")
+  ) %>%
+  dplyr::left_join(
+    dplyr::select(orders, order, order_with_desc),
+    by = "order"
+  ) %>%
+  dplyr::rename(family_with_desc = family) %>%
+  tidyr::separate(
+    family_with_desc,
+    sep = " ",
+    into = c("family","famTemp"),
+    remove = FALSE,
+    extra = "merge",
+    fill = "right"
+  ) %>%
+  dplyr::select(-subspTemp, -famTemp)
 
-iso <- read_csv(file="https://raw.githubusercontent.com/lukes/ISO-3166-Countries-with-Regional-Codes/master/all/all.csv") %>%
-  rename(iso2 = `alpha-2`, iso3 = `alpha-3`, country = name) %>%
-  select(country, iso2, iso3)
+clem.sp <- dplyr::filter(clem, category == "species")
 
-calist <- read_table("CA_main_list.txt")
-names(calist) <- "list"
-calist <- calist %>%
-  filter(str_detect(list,"\t\t")) 
-calist$list <- calist$list %>%
-  str_replace("\t\t","") ##this only works after doing a manual edit of the original text file to remove extra tabs at line end after the order Phaethontiformes - Tropicbirds
-calist<-str_split(calist$list,pattern="\\(")
-calist<-unlist(calist)[seq(from=2,to=length(unlist(calist)),by=2)]
-calist<-str_split(calist,pattern="\\)")
-calist<-unlist(calist)[seq(from=1,to=length(unlist(calist))-1,by=2)]
-calist<-gsub("Porphyrio martinicus","Porphyrio martinica",calist)
-calist<-tibble(calist)
-calist<-calist %>%
-  rename("latin_binomial"=calist) %>%
-  left_join(.,clem,by=c("latin_binomial"="latin_name_incSubsp"))
+# Clean-up steps consistent with prior logic, but compatible with v2025 structure
+clem <- clem %>%
+  dplyr::mutate(
+    genus = dplyr::if_else(genus %in% clem.sp$genus, genus, NA_character_),
+    latin_binomial = dplyr::if_else(category %in% c("spuh"), NA_character_, latin_binomial),
+    subspecies = dplyr::if_else(subspecies == " ", NA_character_, subspecies),
+    species = dplyr::if_else(species == "sp.", NA_character_, species)
+  )
 
-myeb <- read_csv(file="MyEBirdData.csv") %>%
-  filter(Count!=0) %>% #downloaded data has ZERO counts included (i.e. ones where I corrected an ID by zero'ing out one that I had selected by mistake)
-  select(c(2:12)) %>%
-  rename(common_name_incSubsp = `Common Name`, latin_name_incSubsp = `Scientific Name`, count = Count, taxon_sort = `Taxonomic Order`, state_prov_code = `State/Province`, county = County, location = Location, latitude = Latitude, longitude = Longitude, date = Date, time = Time) %>%
-  mutate (iso2 = substr(state_prov_code,1,2)) %>%
-  left_join(iso, by="iso2") %>%
-  left_join(select(clem,-common_name), by = "latin_name_incSubsp") %>%
-  mutate (state_prov_2 = substr(state_prov_code,4,5)) %>%
-  mutate (date = as.Date(date, format="%m-%d-%Y")) %>%
-  left_join(select(clem,common_name,latin_name_incSubsp), by = c("latin_binomial" = "latin_name_incSubsp")) %>%
-  mutate(aba=ifelse(iso3=="CAN"|iso3=="USA"|iso3=="SPM",1,0)) %>%
-  mutate(year=as.integer(substr(date,1,4))) %>% 
-  arrange(date) %>%
-  mutate(month_year=format(date,format="%b %Y")) %>%
-  mutate(month_year=factor(month_year,levels=unique(month_year)))
+# ---- California state list (optional; legacy input) ----
+# Reading as lines prevents missing/blank column-name issues during filtering.
+# This block can be removed once a region-species-list approach is adopted.
+calist_path <- "CA_main_list.txt"
+if (file.exists(calist_path)) {
+  calist <- readr::read_lines(calist_path) %>%
+    tibble::tibble(list = .) %>%
+    dplyr::filter(stringr::str_detect(list, "\t\t")) %>%
+    dplyr::mutate(list = stringr::str_replace(list, "\t\t", ""))
+  
+  calist <- stringr::str_split(calist$list, pattern = "\\(")
+  calist <- unlist(calist)[seq(from = 2, to = length(unlist(calist)), by = 2)]
+  calist <- stringr::str_split(calist, pattern = "\\)")
+  calist <- unlist(calist)[seq(from = 1, to = length(unlist(calist)) - 1, by = 2)]
+  calist <- gsub("Porphyrio martinicus","Porphyrio martinica", calist)
+  
+  calist <- tibble::tibble(latin_binomial = calist) %>%
+    dplyr::left_join(clem, by = c("latin_binomial" = "latin_binomial"))
+} else {
+  calist <- tibble::tibble()
+}
 
-myeb.sp <- filter(myeb, category=="species" | category=="form" | category=="group (monotypic)" | category=="group (polytypic)" | latin_binomial=="Columba livia")
+# ---- My eBird Data export ----
+# Column positions can vary across exports; selecting by names avoids brittle indexing.
+myeb <- data.table::fread(
+  myebird_path,
+  encoding = "UTF-8",
+  fill = TRUE,
+  data.table = FALSE
+) %>%
+  tibble::as_tibble() %>%
+  dplyr::filter(Count != 0) %>%
+  dplyr::transmute(
+    common_name_incSubsp = `Common Name`,
+    latin_name_incSubsp  = `Scientific Name`,
+    count                = Count,
+    taxon_sort           = `Taxonomic Order`,
+    state_prov_code      = `State/Province`,
+    county               = County,
+    location             = Location,
+    latitude             = Latitude,
+    longitude            = Longitude,
+    date                 = as.Date(Date),
+    time                 = Time
+  ) %>%
+  dplyr::mutate(iso2 = substr(state_prov_code, 1, 2)) %>%
+  dplyr::left_join(iso, by = "iso2") %>%
+  # Join to Clements using scientific name; species_code is carried in from clem for stability
+  dplyr::left_join(dplyr::select(clem, -common_name), by = "latin_name_incSubsp") %>%
+  dplyr::mutate(
+    state_prov_2 = substr(state_prov_code, 4, 5),
+    aba = dplyr::if_else(iso3 %in% c("CAN","USA","SPM"), 1L, 0L),
+    year = as.integer(format(date, "%Y"))
+  ) %>%
+  dplyr::arrange(date) %>%
+  dplyr::mutate(
+    month_year = format(date, format = "%b %Y"),
+    month_year = factor(month_year, levels = unique(month_year))
+  )
 
+# Species-level view used in plots; retains prior inclusion logic
+myeb.sp <- dplyr::filter(
+  myeb,
+  category %in% c("species","form","group (monotypic)","group (polytypic)") |
+    latin_binomial == "Columba livia"
+)
